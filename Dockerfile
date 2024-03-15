@@ -4,6 +4,8 @@ ENV DEBIAN_FRONTEND=noninteractive
 ENV LANG=C.UTF-8
 ENV PYTHONUNBUFFERED=1
 ENV PYTHONDONTWRITEBYTECODE=1
+ENV APP_HOME /app
+ENV PORT 1234
 
 ARG SYSTEM=gpu
 
@@ -73,3 +75,10 @@ ARG DOCTR_REPO='mindee/doctr'
 ARG DOCTR_VERSION=main
 RUN pip3 install -U pip setuptools wheel && \
     pip3 install "python-doctr[$FRAMEWORK]@git+https://github.com/$DOCTR_REPO.git@$DOCTR_VERSION"
+
+WORKDIR $APP_HOME
+COPY . ./
+
+RUN pip install --no-cache-dir -r requirements.txt
+
+CMD exec uvicorn activity.main:app --host 0.0.0.0 --port ${PORT} --workers 1
