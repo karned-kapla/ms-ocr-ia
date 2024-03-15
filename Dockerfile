@@ -7,6 +7,8 @@ ENV PYTHONDONTWRITEBYTECODE=1
 ENV APP_HOME /app
 ENV PORT 1234
 
+EXPOSE $PORT
+
 ARG SYSTEM=gpu
 
 # Enroll NVIDIA GPG public key and install CUDA
@@ -80,5 +82,7 @@ WORKDIR $APP_HOME
 COPY . ./
 
 RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install python-multipart
+RUN pip install uvicorn
 
-CMD exec uvicorn activity.main:app --host 0.0.0.0 --port ${PORT} --workers 1
+CMD exec uvicorn main:app --host 0.0.0.0 --port ${PORT} --workers 1
