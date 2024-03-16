@@ -6,14 +6,11 @@ from ocr import ocr_image
 
 app = FastAPI()
 
-@app.get("/")
-def read_root():
-    return {"message": "Hello World"}
 
 @app.post("/")
 def upload(file: UploadFile = File(...)):
     folder = "uploads"
-    Path(folder).mkdir(parents=True, exist_ok=True)
+    Path(folder).mkdir(parents = True, exist_ok = True)
     try:
         file_extension = Path(file.filename).suffix
         if file_extension not in ['.jpeg', '.png', '.jpg']:
@@ -24,10 +21,10 @@ def upload(file: UploadFile = File(...)):
             contents = file.file.read()
             buffer.write(contents)
     except ValueError as e:
-        raise HTTPException(status_code=400, detail=str(e))
+        raise HTTPException(status_code = 400, detail = str(e))
     except Exception as e:
         print(f"Unable to save file: {e}")
-        raise HTTPException(status_code=500, detail="Something went wrong while saving the file.")
+        raise HTTPException(status_code = 500, detail = "Something went wrong while saving the file.")
     finally:
         file.file.close() if 'file' in locals() else None
 
@@ -35,5 +32,5 @@ def upload(file: UploadFile = File(...)):
         result = ocr_image(full_path)
     except Exception as e:
         print(f"OCR processing failed: {e}")
-        raise HTTPException(status_code=500, detail="OCR processing failed.")
+        raise HTTPException(status_code = 500, detail = "OCR processing failed.")
     return result
