@@ -1,3 +1,5 @@
+import json
+
 from fastapi import FastAPI, UploadFile, File, HTTPException
 from uuid import uuid4
 from pathlib import Path
@@ -30,6 +32,9 @@ def upload(file: UploadFile = File(...)):
 
     try:
         result = ocr_image(full_path)
+        full_path = Path('results_json') / random_file_name
+        with open(random_file_name + '.json', 'w') as f:
+            f.write(json.dumps(result.export()))
     except Exception as e:
         print(f"OCR processing failed: {e}")
         raise HTTPException(status_code = 500, detail = "OCR processing failed.")
