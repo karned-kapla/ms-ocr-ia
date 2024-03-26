@@ -1,0 +1,182 @@
+Bulletin
+
+Logo
+
+de
+
+paie
+
+Employeur
+Nom
+Adresse
+CP et vinla
+Numéro APE
+Numéro SIRET
+Numéro Urssaf
+Convention collective
+Sataine de -
+Aaures Supp a *
+Hounas Supp - *9
+SALAIRE RRUT
+
+Salarié
+Nom ee Prénom
+Adresse
+CP et Ville
+N" 58
+Emploi
+Coefficient
+
+Période
+Début
+Fin
+Début contrat
+Date d'ancienneté
+
+Rase
+151,67
+-
+0
+
+Taux
+som
+2473
+29.67
+
+Payer
+00003
+0.00 €
+00'0
+000.03
+
+Piafond 8S
+
+311,00 €
+
+Cotisations et contributions sociales
+CSG you déductible
+CRDS non déductible
+Ceg déductible
+Sénunto sonaln
+Asspanne mTare
+Assurance roilienna
+AV déplafonée
+AV plafonnée
+Accidents du fravail
+Adocation familiales
+Aida au logement
+AL difplafonée
+AL plafonnée
+Assedic
+
+Salane
+Rasm
+Taux
+910.03 € 240 -
+910,03 - 0.50 -
+910,03
+6.80 %
+000,03  0.75 %
+000,03
+6.55 %
+
+Employeur
+int
+Base
+AB
+14556
+197,88
+2250
+10450
+
+aux
+Montant
+snonns Ty 12N0 %
+M00 €
+000.03 - 1.00 %
+57,00 -
+000.03 € 855 %
+256.50 €
+000.03
+7.30 %
+21900 €
+000.03 a 5.25 %
+15//50 -
+00003€ 0.40 %
+12,00 €
+000.03
+0.10 %
+3.00
+000,03
+2.40 %
+7200
+3000,03
+4.00 %
+120,00
+0.00 -
+2.40 %
+000
+000 .
+4.00 %
+000
+nonns
+0.40 %
+1200
+000,03
+3.80 %
+11400 -
+3000,03
+5,70 &
+171.00
+B -
+690 -
+nooe
+noo €
+10.30 *
+000
+687.28
+392.02
+Net à payer
+2 312,76 €
+Salaire net imposable
+2 382,60 €
+N
+N
+2,5
+2.5
+
+Assurance chomage tranche A
+desurance chomage ranche B
+AKsrAnC chomage frnche AS. FNGS)
+Caimann de ratraite uow) cadre)
+Petraite complémentaire et AGA ranche
+Patraits complémentarre et AGFF vanche 2
+Tatal des ratisatinns et contribulions
+Mode de réglement
+Date
+Cumul annuel
+Net imposable
+Soumis sS
+Coût total
+Heures salariées
+
+Virement
+31.10.2020
+
+Cumul de la période
+Net imposable
+Soumis sS
+Coût total
+Heures salariées
+
+Conges payés
+Acquis
+Pris
+Restant
+
+397,15 €
+3 000,03 €
+4 392,05 €
+151,67
+
+- Vs de a  vr na etatin de dude

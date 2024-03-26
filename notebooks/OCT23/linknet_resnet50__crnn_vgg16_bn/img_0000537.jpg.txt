@@ -1,0 +1,120 @@
+NIF.
+
+EMPRESA
+TRABAJADORA
+
+DOMICLIO
+N'MATRIC
+
+NP NS. S.S.
+DNL
+TOT. DIAS
+30
+
+CATEGORA
+AUXILIAR
+
+ANTIGUEDAD
+PERIODO
+
+N AFLIACION S.S. TARIF A CODCT SECCION NRO,
+
+MENS 01 DIC 15 a 31 DIC 15
+
+CUANTI
+PRECIO
+30,00
+26,907
+30,00
+
+CONCEPTO
+
+DEVENGOS DEDUCCIONES
+807,21
+443,59
+134,52
+89,68
+
+1 *Salario Base
+32 *Mejora Voluntarin
+2,989 201 V. Cuenta Convenio
+
+106 Prorrata Pagaa Extraordinaria:
+995 COTIZACION CONT.COMU 4,70
+996 COTIZACTON FORMACION 0,10
+997 COPIZACION DESEMPLEO 1,55
+999 TRIBUTACION O2'oTa'aT
+
+69,33
+1,48
+22,86
+150,45
+
+REM TOTAL
+1.475.00
+Percepciones Salarialos sesoins a Cot. SS.
+FECHA
+31 DICIEMBRE 2015
+MADRID
+
+PPEXTRAS
+
+BASE S.S.
+1.475.00
+
+BASE A.T. A DES, BASE LRPF. T. DEVENGADO T. A DEDUCR
+
+1.475,00
+RECB
+
+1.475.00
+
+1.475,00
+
+244,12
+
+Percepciones no Salariales exckuidas Cot. SS.
+
+SBLO EMPRESA
+
+LOUDO A PERCIBR
+1.230,88
+
+IBAN:
+SWIFT/BIC:
+
+DETERMNACION DE LAS B. DE COTZACIONA LA s.S. A CONCEPTOS DE RECAUDACION CONJUNTA A APORTACION DE LA BMPRESA
+
+CONCEPTO
+ATy EP.
+Desempleo.
+Formacion Profosional
+Fondo Garantia Satarial
+
+BASE
+1.475,00
+1.475,09
+1.175,00
+1.475,00
+1.475,00
+
+TPO
+23,60
+1,00
+5,50
+0,60
+0,20
+
+APORTACION EMPRESARIAL
+348,10
+14,75
+81,13
+8,85
+2,95
+
+1. Contingencias comunes
+2, Contingencias profe-
+sionales y conc eptos de
+recaudacion conjunta
+
+3. Cotizacion adicional horas extraordinarias

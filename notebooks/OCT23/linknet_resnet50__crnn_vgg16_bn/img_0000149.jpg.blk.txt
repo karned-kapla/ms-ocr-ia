@@ -1,0 +1,14 @@
+Test neuer Personalausweis
+TTTT00001
+Ansichtsexempler
+Name Surmame/Nom MUSTERMANN
+GEB. GABLER Vornamen Given nanes : -
+ERIKA
+Geburtstag/Date of brthl Date de aaissance
+Nationalite
+12.08.1964 DEUTSCH
+Geboirtsort Placi of birth/Lieu de naissance
+BERLIN
+bis/Date of expiry gatig à expiration 31.10.2010
+000001
+der Inhaber rin/des Inhabers of bearer de la titus yaensea Signature

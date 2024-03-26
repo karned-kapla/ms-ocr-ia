@@ -1,0 +1,52 @@
+[Nom de l'entreprise,
+
+FACTURE
+
+(Adresse)
+
+(ville (Province), Code postal
+Téléphone : 000 000-0000
+
+.N de FACTURE
+2034
+
+DATE
+2018-02-21
+
+FACTURE A
+[Nom]
+
+REF. CUENT
+564
+
+CONDITONS
+Paiement à réception
+
+[Nom de rentreprise)
+(Adresse)
+
+[ville (Province) Code postal)
+(N de téléphone
+[Adresse de courriel
+
+NOU4RDS30
+Frais de service
+
+QTE PRIX UNITAIRE
+
+MONTANT
+
+1
+5
+
+200.00
+75.00
+(50.00)
+
+200.00
+375.00
+(50.00)
+
+Main-d'ceuvre : 5 heures à 75 5 rheure
+
+Remise nouveau dient

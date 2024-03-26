@@ -1,0 +1,94 @@
+en
+-
+
+(AREA COCE AND FHONE NUMBEh,
+FOR CFF ICE USE ONLY:
+INTERVIEM *
+a (2) (3) (4)
+SAMPLE:
+-1 National ( )
+-2 Supplement
+
+Kapuler Marketing Research
+Project 487-2857
+Novenber 3, 1987
+
+day N:
+Page:
+"ame:
+Results:
+State:
+Duration:
+
+SEX:
+1 Yale (
+-2 Femele
+
+CATHOORY:
+-1 HS
+-> WAK L4ke
+- Non-VFM
+
+CRAPT
+VFM QUESTICENAIRE
+from Kapuler Marketing
+area, and we PINOM
+
+Hello, I'a
+households in the
+for
+products.
+
+in Chicago. Ve are condunting a national study Research, a public opinion fim
+products you ray use. Your phone number was about consumers opiniors of some
+optnions this study. F ITke to nasure you that we are appreetate not
+A. Kay I please apeak to soneone 21 yeara of age or older?
+- No one 5 household 21 or older : (CERKINATE
+
+selected at random fron all
+really
+
+telephone
+your
+selling any
+
+On/oalled to chone
+Chavetlable
+B. Do you, yourselt.. (RFAD LIST)
+Orink diet beverages
+Smoke oigarettes
+Est Nextean Tood
+9.D.)
+cigarettes?
+-1 Yes
+-2 No
+TERMINATE Q.D.)
+
+(GO 2 Q.B)
+(SCIOFDULE CALIBACK A)
+
+Yes No
+-1
+-2
+=2
+
+(IP "NO" a SMOKE CIGARETTES, ASK 9.c. LY "YES" 20 SMOKE
+c. Is there anyone in your household 21 yeara of age : older who
+
+CIOARETTES, SKIP TO
+anokes
+
+(RESCREEN 0.B)
+(TEPMINATE 9.c)
+
+D. Do nos or doee anyone in your Imediate fanily work for...(17 YES
+1 An advertising agancy or advertistng decartment of a company
+Y A cigarette manufecturer or tobacoo dietributor
+A magaztne, newapaper, radio or televtalon station
+A marketing resesrch company or marketing rescarch department of a
+
+TO ANY,
+
+company
+
+465677980

@@ -1,0 +1,121 @@
+a
+
+CELL REGULATION, Vol. 2, 373-381, May 1991
+
+Activation of muscarinic acetylcholine receptors
+inhibits cell cycle progression of small cell
+
+lung carcinoma
+
+Carol L. Williams and Vanda A. Lennon
+Departments of Laboratory Medicine
+and Pathology, Immunology, and Neurology
+Mayo Clinic and Foundation
+Rochester, Minnesots 55905
+
+model for studying the dysregulation of cell cy-
+cle progression. This highly metastatic tumor
+accounts for 25-30% of all lung cancers and
+causes A 25 000 deaths annually in the United
+States (Birrer and Minna, 1989). SCLC cells ex-
+press receptors for several autocrine growth
+factors, including gastrin-releasing peptide
+(GRP, homologous to amphibian bombesin)
+(Cuttitta et al., 1985; Carney et al., 1987), insulin-
+Nakanishi et al., 1988b), and a transferrin-like
+molecule (Nakanishi et al., 1988a; Vostrejs et
+erates different intracellular second messen-
+gers, which must converge on a common point
+In addition to receptors for peptide growth
+factors, some SCLC cell lines express musca-
+rinic (Sorenson et al., 1983; Cunningham et al.,
+1985; Williams and Lennon, 1990a) and nicotinic
+acetylcholine receptors (Maneckjee and Minna,
+1990). The ability of acetylcholine receptors to
+recognized (Conklin et al., 1988; Ashkenazi et
+al., 1989; Maneckjee and Minna, 1990). Based
+on our finding that activation of M, muscarinic
+acetylcholine receptors (mAChR) causes
+drolysis of phosphoinositides (PI) and inhibits
+voltage-gated Ca? channel activity .n SCLC
+cells, we proposed that mACHR activation may
+affect SCLC proliferation (Williams and Lennon,
+1990a). We report here that mAChR activation
+inhibits DNA svnthesis induced by serum, bom-
+besin, insulin, or IGF-I in SCLC cells. mACHR
+agonists arrest SCLC cells in both S and G,/M
+phases of the cell cycle. mACHR activation ap-
+pears to disrupt a common event induced by
+transduction by growth factor receptors
+mACHA activation decreases DNA synthesis
+Carbachol decreases *H-thymidine uptake by
+cells cultured in serum (Figure 1). This inhibition
+
+We previoush reported that activation of musca-
+rinic acetylcholine receptors (mAChR of M, subtype
+hydrolysis of phosphoinositides and inhibits
+voltage-gated a channel activity in small cell lung
+carcinome (SCLC) cells. We now report that mACHR
+to arrest in S and G,/M phases of the cell cycle,
+concomitant with a decrease In DNA synthesis. Cell
+cycle progression and DNA synthesis resume when
+mACHR are down-regulated. In serum-starved
+SCLCcells. mACHR activation inhibits DNA synthe-
+sis Induced by serum, bombesin insulin, or insulin-
+like growth factor-1. The finding that DNA synthesis
+le inhibited even when mACHR are activated after
+exposure of cells to growth factors indicates that
+signal transduction by growth factor re-
+ceptors ls not the mechanism of mAChR-mediated
+growth inhibition, Our data suggest that mAChR
+activation disrupts a common event that ie induced
+by different growth factors and is fundamental for
+In normal cells, the transition from proliferation
+to terminal differentiation .so marked by with-
+drawal from the cell cycle and an inability to
+reenter the cycle in response to growth factors.
+Transformed cells do not undergo this transi-
+tion, but constitutively remain in the cell cycle;
+rupted (Heldin and Westermark, 1984; Wein-
+stein, 1987; Kraus et al., 1988). Small cell lung
+carcinoma (SCLC) provides a clinically relevant
+Abbreviations: GRP, gastrin-releasing peptide; ICs hat.
+factor-l; mACHR. muscarinic acetylcholine receptors; PBS,
+phosphate- -buffered saline: PI, phosphoinositides: SCLC,
+o 1991 by The American Society for Cell Biology
+
+like growth factor-I
+
+et al.,
+1988;
+
+causes
+
+(IGF-I)(Macauly
+
+activation ceuses exponentially growing SCLC cells al., 1988). Activation of these receptors gen-
+
+to induce SCLC proliferation.
+
+cell
+has
+been
+regulate
+proliferation
+recently
+hy-
+
+decreased
+cell
+cycle progression.
+Introduction
+
+the regulation of cell cycle progression is dis- different growth factors, which follows signal
+
+Resuits
+
+maximal inhibitory concentration; IGF-I, insulin-like growth by cells growing exponentially in serum
+
+small cel lung carcinoma.
+
+373

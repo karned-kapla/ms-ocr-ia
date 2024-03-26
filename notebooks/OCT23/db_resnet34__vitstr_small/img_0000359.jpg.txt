@@ -1,0 +1,141 @@
+COOVER
+
+BULLETIN DE PAIE
+Periede du AAAA/m au dd/mm/YYY
+Reterence bulkitin
+5 stuur Re icclale
+Catigorie
+Emploi
+Date ancienneé
+Dibuu comrra
+Fortit jour
+Com Coll
+
+ENTREPRISE
+Adresse
+a Vile
+SRET
+
+NAF
+
+Code
+
+Cotlttoons stane
+Base
+Taus
+Mentant
+Ban
+1911
+10,250
+T 554,62
+1 554,62
+
+Cotications emplogurr
+Taus
+
+Leelle de la rubrique
+
+Mentant
+
+1001 Saluire brut
+BRUII SALAIRE BRUT
+Sante
+A03 Comprementaire Sante
+RETRAITE
+COI Serurne socuale plafonnée
+ca2 securn -aciaee diplafonnee
+CDS Complementaire tranche A
+DO1 FAMBLE
+ASSURANCE CHOMAGE
+1O1 ASSURANCE CHOMAGE
+
+A01 securnt snraleMaaaddie Matemite irvaliite Depis
+B01 ACCIDINTS Du IRAVAIL MALADIES PROF-SSIONNELLEY
+
+1 554,62
+1 554,52
+1 154,62
+1 154,62
+1 t9Me5
+1 554,52
+- t9M95
+1 t9'1s
+1 554,52
+m 29'15
+1 227,99
+
+1 554,62
+E 554,42
+6,90M
+107,27
+1 554,62
+0,40%
+6,22
+-t 554,62
+4,01%
+62,34
+E 554,62
+- 554,62
+- 554,62
+- 554,62
+:
+105,71
+2,90%
+45,0R
+- 227,99
+0,00%
+000
+E9SCE
+
+7,00N
+108.82
+0,90%
+13,99
+8,55%
+132,92
+1,00N
+29,54
+6,01%
+3,45%
+53,53
+4,20%
+1,64%
+25,50
+
+FOI AUTRS CONTEIUUIIONS oues PAR CEMMOOYEUR
+HOI CSG diducteee de rimet I le reveuu
+03 CS6/CRDS non deductele de rimple - le revenu
+sor EXONERATIONS DE COTISATIONS EMPLOYEUR
+
+MMPI Net imporable
+PAS2018 Reterue 4 . source
+cOTI Total Cotiattions
+
+364,40
+1 220,99
+Mt E
+Mod lare
+0 0
+NET A PAYER
+1 22 GE4
+o po
+1 90.002
+
+NET A PAYER AVANT IMPÔT SUR LE REVENU
+imple uur a rovenu
+Impon uur E revenu prlieve a a aource
+Domicilaaton
+IBAN
+RIC
+Beneficuire
+
+dont evolutien a a remuneattion le ala suppression dus coticatinn chomage a malade
+
+Base
+12 227.9
+
+Teux personnalise
+0,00%
+Pret - mrmmii agienmmm
+Arrmme de omairr -pllyee
+E - rer rmppleee

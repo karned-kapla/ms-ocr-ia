@@ -1,0 +1,37 @@
+BUNDESREPUBLIK DEUTSCHLAND
+FEDERAL REPUBLIC OF GERMANY andaa LouE FEDERALE 6 ALLEMAGNE
+
+L01X00T47
+
+DE
+
+PERSONALALAUSWEIS
+DENTITY CARDI CARE a DENTITE
+
+[a] Name/Surname/Nom
+
+[q] Geburtsname/Name at birth/Nom de naissance
+
+(a] MUSTERMANN
+[b] GABLER
+
+Vornamen/Given names/Prénoms
+
+ERIKA
+
+Geburtatag/Date of birth/ ARUOgeNANOuvpbuegms
+
+Date de naissance
+
+Nationalité
+
+12.08. 1983 DEUTSCH
+Geburtsgn/Place ofbirth/Lieu de naissance
+
+BERLIN
+
+Gultig bis/Date of expiry/
+Date d'expiration
+01.08.2031
+
+938568

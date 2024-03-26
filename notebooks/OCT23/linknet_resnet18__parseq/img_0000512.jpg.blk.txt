@@ -1,0 +1,26 @@
+Bulletins salariés I Liste des salariés
+Edition Duplicatas
+Evenements
+Etats Administratifs Pièces jointes
+Préparation des paies
+Aperçu
+Importer
+Bulletins Tout
+Acomptes
+Salaries
+O.nechercher
+Sélectionner Sans filtre
+Entrez votre recherche
+<CLIC a AFFICHE LE BULLETIN DE PAIE
+ule a 1000 3005 3103 3208 3220 4300 6098
+Civilité Nom M M M M M Mme M Mile
+Prénom Jean Jean Noel Pierre Emm Flor
+Paie
+Cloture
+CARMIN MARTIN PETIT MOREAU RICHARD THOMAS BERNARD ROUBERT
+31/01/17 31/10/17 31/10/17 LL/OL/LE
+<DOUBLE CLIC> SUR UN
+SALARIÉ AFFICHE SON BULLETIN FrarpE PAIE EN PRÉPARATION
+Frédérique
+31/10/17
+Tous

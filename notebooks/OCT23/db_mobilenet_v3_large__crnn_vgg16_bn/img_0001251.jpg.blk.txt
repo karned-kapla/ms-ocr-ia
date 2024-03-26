@@ -1,0 +1,12 @@
+: BRATD
+nenu A * N
+* 2
+'
+I -
+-
+aie
+L
+22  han 20 30
+55 185
+24a
+L - A 39

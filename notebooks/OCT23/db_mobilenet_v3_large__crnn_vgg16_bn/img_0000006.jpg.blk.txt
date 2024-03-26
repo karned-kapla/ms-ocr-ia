@@ -1,0 +1,19 @@
+[Nom de l'entreprise)
+FACTURE
+[Adresse!
+IVille (Province), Code postal) Téléphone : 000 000-0000
+N D0 FACTURE 2034
+DATE IE-C0-81OZ
+FACTURE À [Nom]
+RÉF.CLIENT 564
+CONDIONS Paiement e réception
+[Nom de lentreprise [Adresse)
+[Ville (Province), Code postall N! de téléphone) (Adresse de courriel
+DESCRIPTION Frais de service
+QTÉ PRIX UNITAIRE
+MONTANT
+: - -
+200.00 75.00 (00os)
+200.00 375.00 (000s)
+Main-d'oure : 5 heures à 75 v Theure
+Remise novveav client

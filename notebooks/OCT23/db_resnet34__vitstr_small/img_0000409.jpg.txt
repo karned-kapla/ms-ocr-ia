@@ -1,0 +1,172 @@
+Bulletin
+
+Logo
+
+de paie
+
+Employeur
+Nom
+Adresse
+CP et Ville
+Numéro APE
+Numéro SIRET
+Numéro Urssaf
+Convention collective
+Salaire d base
+Heures Supp à 25%
+Heures Supp à 509
+SALAIRE BRUT
+
+Salarie
+Nom et Prénom
+Adresse
+CP et Ville
+N" 58
+Emploi -
+Coefficient
+
+Periode
+Debut
+Fin
+Debut contrat
+Date d'anciennete
+
+Base
+151,67
+0
+0
+
+Taux
+19.78
+24,73
+29.67
+
+A Payer
+3 000.03 €
+0.0 €
+0,00 €
+3 000.03 €
+Employeur
+Montant
+Base
+69.84 -
+14.55
+197,88
+22.50 €
+198.50 .
+
+Plafond SS
+
+3 311,00 €
+
+Cotisations et contributions sociales
+CSG non déductible
+CRDS non dédurtible
+Cag déductible
+Securté sociale
+Assurance matade
+Assurance vieiliesse
+AV deplafonée
+AV plafonnée
+Accidents du travai
+Aloocation familaalee
+Aide ne logement
+AL déplafonée
+AL plafonnée
+Assedic
+
+Salare
+Base
+Taux
+2 910.03 € 2.40 %
+2 910,03 € 0.00 €
+910.03 € 6.80 €
+4 00000 € 0.75 %
+3 000.03 € 6.55 %
+
+Taux
+Montant
+3000.0 € 12.00 %
+384,00 €
+a 000.03
+1.90 a
+57,00 €
+3000.03 . 855 %
+256.50 €
+3 000.03 € 7,30 h
+219.00 €
+3 000.03 € 5.25 %
+157.50 €
+de 000,03 a 0,40 -
+12,00
+3 000.03 . 0,10 d
+3.00
+72,00
+000,03 a 400 -
+120,00 A
+0,00€
+0.00 €
+4.00 *
+0.00 €
+a 000.33 € 0.10 -
+12,00 -
+114.00 .
+9 000.03 € 5.70 a
+171.00 €
+0.00
+0.00 €
+10.30 %
+8 €
+88728 -
+392.02 €
+Net à payer
+2 312,76 €
+Salaire net imposable
+2 382,60 €
+N
+N
+255
+255
+
+Assurance chomage tranche A
+Assurance chomage tranche B
+Assurance chomage frenche AGS (FNGS)
+Caisse de retraite (non cadre)
+Retraite complémentaire et AGFF tranche 1
+Retraite complementaire et AGFF tranche 2
+Total des cotications et contributions
+Mode de réglement
+Date:
+Cumul annuel
+Net imposable
+Soumis SS:
+Cout total
+Heures salanees
+
+3 000.03 € 2,40 %
+0,00 €
+2.40 %
+- 000.03 € 3.80 9
+0.00 €
+6.90 %
+
+Virement
+31.10.2020
+
+Cumul de le période
+Net imposable
+Soumis SS
+Cout total
+Heures salaries
+
+Conges payes
+Acquis
+Pris
+Restant
+
+2 397.15 €
+3 000.03 €
+4 392,05 €
+151,67
+
+Aul-on de colo A everr ae - imiatio d durée

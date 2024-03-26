@@ -1,0 +1,65 @@
+[VOTRE SOCIETE
+
+[Choisir une date)
+
+N" DE LA FACTURE1234
+
+Facturer à
+Client
+N nf client
+Adresse
+Telephone
+Vendeur
+Modalne de
+paiement
+Quantne
+
+Atresse de raisen
+Destinataire
+Adresse
+Tewphene
+
+Pom du dien
+Entreprisel
+nil busp
+pdressel
+Mde. Pays, Code posta
+fTenephone
+Nom du vendeurt
+Modalne
+N darticle
+
+Nom du destinataire!
+Entreprise
+pAdressel
+Me. Pays. Code posta!
+TeMphone
+
+Date de paleent Choisir se datel
+
+Date a laisan Choisir un datel
+Modie de aison MMode de liraison!
+
+Modaline de
+raison
+Pvix unitaire
+
+MModalnal
+
+Total de la lgne
+(evant remise)
+
+Description
+
+Hemise
+
+Total de a -e
+Sous-tota
+Tanes ventes
+Total
+
+Nous vous remercions de votro confiance.
+fAddresse, Code postal, Vinel - pdresse weet
+P fTelphone! - Telécop - fAdresse de messageriel
+
+Vetre seciese)

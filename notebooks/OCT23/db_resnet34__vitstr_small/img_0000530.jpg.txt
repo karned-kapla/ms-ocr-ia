@@ -1,0 +1,213 @@
+-
+30520
+NUMERO
+NUMERO SIRIT
+CODE NAF
+
+-
+-- -
+- - - -
+URSSAF
+CONVENTION COLLECTIVE a -
+
+BULLETIN DE PAIE
+Mois de paie Août 2013
+ADJOINT ADM PRINCIPAL DE 1E CLA
+
+EMPLOL
+STATUT
+Plafond Securite Sociale
+POINT Valeur annuclle
+SMIC, Taux boraire
+M - - - - -
+
+TITULAIRE
+Nom Prisem Adresse
+
+- - -
+---
+-
+Domiciliation bancaire
+
+3086.00
+$5.5635
+9,43
+
+Conges aeqals
+
+Pris
+
+Selde
+
+-
+
+- -
+
+ADMIN Gale bE 1A CONLECTNITT
+
+Periede
+du: 01-08-2013 a 31-08-2013
+Service
+ADMIN. Gale DE S COLLECTIVITE 479
+Desigmation
+100 TRAITEMENT DE BASE
+300 INDEMNITE RESIDENCE
+501 PARTICIP EMPLOY TIT
+1012 CSG NON DEDUCTIBLE
+1011 CSG DEDUCTIBLE
+1010 R.S..
+1020 MALADIE P.P. TIT.
+1023 CONT.SOIIARITE d4
+310 ALLOCATION LOGEM. PP
+320 FNALSUPPLEMENTAIRE
+451 F FAM.DEPLAF
+449 TRANSPORT TITULAIRE
+- 100 CNRACL P.OIIT
+1110 CNRACL PP. TIT
+502 FORFAIT SOCIAL
+$0021 RAFP PO
+50.022 RAFP PP
+1 060 ATLL PP. TIT.
+4000 SOLIDARITE
+1400 MNNT (MALADIE)
+1416 INTERIALE GS
+4200 CN...PT.
+4201 CENTRE DE GESTION
+4 199 MEDECINE DU TRV.TTC
+
+Grade
+Enfants
+N" Sécurite
+Seciale
+Nombre
+dent SET
+o
+A payer
+A retenir
+Cot. Patronales
+926.20
+19.26
+5.00
+
+Heures
+Total dheures anmoel
+151.77
+121536
+fedice
+Situaliee
+Echeknn
+Brut
+Majere
+Matrim.
+416
+0007
+M
+TarifRase
+NbreTarr
+416.00
+1.00
+1.926.20
+0.01
+1,00
+5000
+1.916.42
+2.40
+1.916.42
+5.10
+1.916.42
+0.50
+1.926.20
+11.50
+1.926.20
+0.30
+1.926.20
+0.10
+1.926.20
+0,40
+1.926.20
+5.40
+1.925.20
+1.25
+1.926.20
+8.76
+1.926.20
+28.85
+5,00
+8.00
+24,26
+5,00
+24.26
+5.00
+1.926.20
+0440
+1.775.51
+1.00
+176.30
+1.00
+1.926.20
+052
+1.926.20
+100
+1.926.20
+0,80
+10,82
+1.0
+
+ADIOINI ADM. PRINCIPAL DE IERE CLASSE
+
+N
+
+-45.99
+-97.74
+-9.58
+
+221.51
+5.78
+1,93
+7,70
+104011
+24,08
+555.71
+0,40
+1,21
+7,70
+C
+15.41
+zyoo
+
+-168,74
+-1.21
+-17.76
+-176.30
+-10,02
+
+TOTAL
+Cumel bru
+Imposable
+Cemul net
+Imposable
+
+r 925.5
+16 746,83
+14331.54
+
+- 950,46
+Rrtrnues
+et eppositions
+Net à payer
+
+-527,34
+
+975,52
+
+Mensuel bret
+Imposable
+Meneed net
+Impesable
+
+- 950,46
+665,01
+
+1 1233122
+
+Coeserve c balletin t limitation de deree

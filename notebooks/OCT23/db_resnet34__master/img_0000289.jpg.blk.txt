@@ -1,0 +1,14 @@
+06
+GA0000000 PASSEPORT PASSPORT
+BELGIË BELGIEN BELGIUM Pays émetteurits asuing oountry . N" du passeport/Passpoit ou
+BELGIQUE Type Type P BEL 1. Nom/Sumane SPECIMEN 2 Prénoms/Given names OLIVIA 3 Nationalina/Nationalio UTO A Lieu de n Place of birth BRUXELLES 07 02 2022 9 Autorité/Authority
+GA0000000
+a Date de naissancerDa of birth 5 Soxolfex
+21 07 1997
+Date de delivrance/Date of issue 8 Date dexpérationyDate of oxpiry
+06 02 2029
+SPF AFFAIRES ÉTRANGERES 10 Signature du trulaire/Flolder's aignature
+BEL
+UVARA
+0 <BELSPECIMEN<<OL - -
+GA00000002UT09707210F2902061 4 V à

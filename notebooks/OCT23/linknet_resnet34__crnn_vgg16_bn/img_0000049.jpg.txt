@@ -1,0 +1,83 @@
+WeCount
+C. Au Gies A35
+wdGna
+Sirne
+
+Facture
+
+Pour facture u 123456789
+
+Date de facturation 29.05.2021
+Paiement offeotué le 28.06.2021
+Numéro de facture 123
+Numéro de olient -
+Emis par Xavier Giard
+Contactclient M. - client xYZ
+Date de la ventelprestation 14.05 2021
+
+Destinataire :
+Mon client préféré
+Dr. House
+Rue de la comptabilité
+1208 Genève
+Suisse
+
+Infos additionnelles
+
+Merci d'avoir ghoisi Mon Entreprise pour nos services.
+
+Service Après Vente Garantie 1an.
+
+Description
+Main-d couvre
+Produit
+
+Quantités Unités is unitaire HT TVA%
+
+TVA
+7.7% 115.50CHF
+
+TOTAL TTC
+1615.50CHF
+1039. 90 CHF
+
+25
+10
+
+h.
+pce,
+
+60.00CHF
+103.99 CHF
+
+Total HT
+TVA
+Total TTC
+
+2 539.90CHF
+115.50CHF
+2 655.40 CHF
+
+VeCount
+Ch. Des Chenes 10B
+1009 Pully
+Suisse
+N DEAUID XXXME
+N TVA: MANKE
+
+Contact
+Kavier Giard
+Téléphone
+Email savier.giard@wecount.swis:
+www.weoountsvis:
+
+Coordonnées bancaires
+BNP Paribas
+Code banque 10000000
+N de oompte 12345678
+SMIFTIBIC FRHHCXXIO0
+
+Banque
+IBAN
+
+CH58 234112409823 *

@@ -1,0 +1,52 @@
+NNom de l'entreprise
+
+FACTURE
+
+Adresse)
+
+(ville PProvince), Code postal)
+Téléphone : 000 000-0000
+
+N & FACIURE
+2034
+
+DATE
+2018-02-25
+
+FACTURE A
+[Nom]
+
+REF. CLEENT
+564
+
+CONDIIINNS
+Paiement à réception
+
+NNom de r'ettreprise)
+(Arresse)
+
+[ville Prrviice)) Code postal)
+(N de téléphone)
+(Adresse de courriel)
+
+NOUrRDS30
+Frais de service
+
+QTE PRIX UNITAIRE
+
+MONTANT
+
+1
+5
+
+200.00
+75.00
+(50.00)
+
+200.00
+375.00
+(50.00)
+
+Main-d'ceuvre : 5 neures à 75 S rneure
+
+Remise nouveau client

@@ -1,0 +1,48 @@
+Genetic Epidemlology 5:265-275 (1988)
+
+Estimating Genetic Parameters of Survival
+Distributions: A Multifactorial Model
+
+Joanne M. Meyer and Lindon J. Eaves
+
+Department of Human Genetics, Medical College of Virginia, Richmond
+For: 3 number of genetically influenced illnesses. age ofonset is correlated between
+relatives. in some cases, age of onset also serves as an index of an individual's
+inherited liabiliry to ue illness. Typically, survival models for age of onset distri-
+butions do not allow for these effects. We have used the gamma distribution as the
+basis of a model which specifies genetic variability in age of onset. Specifically,
+we aliow uhe hazard frequency parameter of the gamma distribution to be a
+under various gamua models indicate that age of onset correlations may be
+strikingly different from correlations .s liability. Maximum likelihood estimation
+procedures were used te obtain parameter estimates from simulated data seus and
+os determine whether it is possible to discriminate between gamma processes of
+different order. The results for 1,000 pairs of rwins (500 monorygotic and 500
+dirygotic) gave parameter estimates that were fairly accurate but that decreased in
+precision as the order of the gamma process increased. We discuss the effect chis
+may have uo inferences made about age of onset.
+Key words: age of onset correlations, survival models, gamma distribution
+
+monotonic function of an individual i inherited
+
+io an illness.
+liabiliry
+
+rhmmo
+
+Simulations
+
+INTRODUCTION
+
+Genetic analyses of illnesses and behaviors showing a variable age of onset
+require a knowledge of the cumulative probability of onset by given ages. Some
+approachès [Weinberg, 1915; Stromgren, 1938; Risch, 1983) derive this probability
+from prior age of onset distributions. Others (Elston, 1973; Heimbuch et al., 1980;
+Risch, 1983] estimate parameters of a cumulative age of onset distribution from the
+data. When the data allow its use, the Jarter method is more appealing since specific
+
+Reccived for publication January 11, 1988; revision sccepted Apri122, 1988.
+
+Address reprine request te Joanne Meyer, Department of Human Geneties, Box 33 Medical College of
+
+Virginia, Richmend, VA 23298.
+0 1988 Alan R. Liss, Ine.

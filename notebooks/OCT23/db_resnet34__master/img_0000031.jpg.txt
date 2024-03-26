@@ -1,0 +1,90 @@
+Pierre, 62 37659 Saint remy
+Telephone +33 653 026 507
+Email: panplerre@superfact.com
+www superfact.com
+
+Jean
+Pierre
+
+Facture
+
+08 de mai de 2019 No.1301
+
+FACTURER A.:
+Nom
+Adresse
+Telephone
+Email
+
+PAYMENT ECHUL:
+08 de juin de 2019
+NUMERO DE DEMANDE -
+08 de mai de 2019
+TOTALE
+$660.25
+
+NO TYPE D'ARTICLE
+01 Nom du service/article
+02 Nom du service/article
+03 Nom du servicelarticle
+04 Nom du service/article
+05 Nom du servicelarticle
+06 Nom du service/article
+07 Nom du servicelarticle
+
+DESCRIP NOLL
+
+QNT
+PRIX
+1
+90E
+3
+53€
+2
+32€
+2
+57€
+1
+60E
+5
+90€
+1
+90E
+
+P.T
+90€
+150€
+64€
+114€
+60E
+450€
+90€
+
+Description d'article/ service ici
+Description d'article/ service ici
+Description d'article/ service ici
+Description d'article/ service ici
+Description d'article/ service ici
+Description d'article service ici
+Description d'article service ici
+
+Méthode de payment
+Nom du Banque
+Numero de compte
+Titulaire du compte
+Terms et conditions
+
+FACTURE TOTALE
+SUBTOTAL
+TVA (21%)
+REDUCTION (10%) 21€
+TOTALE
+
+1000 €
+210€
+1200€
+
+Auamentiunt undit accus et aut magnis a solorum autas digento con
+rematum sed estinum hil mo tenit as reet maio blat lacearit temquam
+
+voloribus aut magins a maio hil solorum.

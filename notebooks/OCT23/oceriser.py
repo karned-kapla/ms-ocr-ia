@@ -46,9 +46,6 @@ def create_folder(folder):
         os.makedirs(folder)
 
 
-create_folder(folder)
-
-
 def ocr_treatment(img_path, model_detection, model_recognition):
     doc = DocumentFile.from_images(img_path)
     predictor = ocr_predictor(model_detection, model_recognition, pretrained = True, assume_straight_pages = False,
@@ -141,8 +138,10 @@ def treat(file, folder, model_detection, model_recognition):
 
 
 def treat_model(model_detection, model_recognition):
-    folder = model_detection + '__' + model_recognition
     time_start = time.time()
+
+    folder = model_detection + '__' + model_recognition
+    create_folder(folder)
 
     print(model_detection)
     print(model_recognition)

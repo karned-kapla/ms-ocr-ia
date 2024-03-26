@@ -1,0 +1,33 @@
+GALLUP & ROBINSON, INC. 575 EWING STREET PRINCETON, NJ 08540 JOB NUMBER 3XXX
+Invitation Form Road & Track, April, 1992
+Good
+(morning/afternoon) My name is
+I'm calling for
+Gallup and Robinson, Incorporated. We are conducting a nationwide people's magazine reading habits, trying to find out how to make survey more interesting and useful to the public. May I speak to the UPON REACHING THE PROPER PERSON, REINTRODUCE YOURSELF. First I have a few questions I'd like to ask you about
+of magazines youngest man,
+age 18 or older, who is at home now? Their
+and appreciated.
+cooperation would be most valuable
+yourself.
+Q1
+Do you watch television at least one hour a night on average?
+YES - NO DK/NA/Refused-
+CONTINUE CONTINUE CONTINUE
+Q2 Do you drink at least five cups of coffee a week on average?
+YES NO Q2a
+L ] - ]
+ASK Q2a GO TO Q3 GO TO Q3 [ L 1 [ : - 1 1
+DK/NA/REFUSED L ] IF "YES", ASK: YES NO
+Is it usually coffee with caffeine?
+GO TO Q3 GO TO Q3 GO TO Q3 ASK Q3a
+DK/NA/REFUSED
+Q3 Do you smoke at least half a pack of cigarettes a day on average?
+YES NO
+[ [ [ ]
+TERMINATE AND RECORD ON CALL RECORD SHEET
+DK/NA/REFUSED [ ] Q3a IF "YES", ASK:
+Is your regular brand non-menthol or menthol?
+Non-menthol Menthol DK/NA/Refused
+- [ r - 1 [ ]
+ASK Q4 ASK Q4
+TERMINATE AND RECORD ON CALL RECORD SHEET

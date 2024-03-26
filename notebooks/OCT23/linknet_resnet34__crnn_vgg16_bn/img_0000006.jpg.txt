@@ -1,0 +1,50 @@
+[Nom de l'entreprise)
+
+FACTURE
+
+[Adresse)
+
+(Ville (Province). Code postal]
+Teléphone : 000 000-0000
+
+N DE FACTURE
+2034
+
+DAYE
+IE-C0-81OZ
+
+FACTURE À
+[Nom]
+
+RÉF. CLENT
+564
+
+CONDITIONS
+Paiement à réception
+
+[Nom de lentreprise)
+[Adresse)
+
+(Ville (Province), Code postall
+N! de téléphone)
+[Adresse de courriel)
+
+DESCRIPTION
+Frais de service
+
+QTÉ PRIX UNITAIRE
+
+MONTANT
+
+1
+
+00002
+75.00
+(o0os)
+
+200.00
+375.00
+(50.00)
+
+Main-d'aeuvre - 5 heures à 75 v Theure
+Remise neannou dient

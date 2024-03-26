@@ -1,0 +1,65 @@
+[VOTRE SOCIETE]
+
+[Choisir une date)
+
+N" DE LA FACTURE1234
+
+Festurer a
+Client
+k ref client
+Adresse
+Telephone
+Vendeur
+Modaine de
+paiement
+Quantite
+
+Adresse de Ivraison
+Destinataire
+Adresse
+Talephone
+
+Plom du dient
+Entreprise)
+mul client
+pAdressel
+(Vile, Pays Code Imsos
+[Telephonel
+Nom du vendeur)
+Modalinel
+N d'article
+
+piom du destinataire)
+Entreprise)
+[Adressel
+(vile, Pays, Code postat
+[Teighone)
+
+Date de paiement Choisir une datel
+
+Date de tivaison [Choisir une datel
+Mode de Ivraison Mode de Ivraison
+
+Modaline de
+livraison
+Prix unitaire
+
+[Modaling
+
+Total de la ligne
+(evant remise)
+
+Description
+
+Remise
+
+Total de la romisa
+Sous-total
+Taxes ventes
+Total
+
+Nous vous remercions de votre confiance,
+Addresse Code postal, Ville [Adresse wet
+P (reiephonel E[Telecopiel JAdresse de messagene)
+
+[Vetre seciese)

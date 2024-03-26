@@ -1,0 +1,108 @@
+CIR
+
+CELL REGULATION, Vol 2, 373-381, May 1991
+
+Activation of muscarinic acetylcholine receptors
+inhibits cell cycle progression of small cell
+
+lung carcinoma
+
+Carol L. Wiliams and Vanda A. Lennon
+Departments of Laboratory Medicine
+and Pathology, Immunology, and Neurology
+Mayo Clinic and Foundation
+Rochester, Minnesota 55905
+
+model for studying the dysregulation of cell cy-
+cle progression. This highly metastatic tumor
+accounts for 25-30% of all lung cancers and
+causes > 25 000 deaths annually in the United
+States (Birrer and Minna, 1989). SCLC cells ex-
+press receptors for several autocrine growth
+factors, including gastrin-releasing peptide
+(GRP, homologous to amphibian bombesin!
+(Cuttitta et al., 1985: Carney et al., 1987), insulin-
+like growth factor-l (IGF-1) (Macauly et al., 1988:
+Nakanishi et al., 1988b), and a transferrin-like
+molecule (Nakanishi et al., 1988a; Vostrejs et
+erates different intracellular second messen-
+gers, which must converge on a common point
+In addition to receptors for peptide growth
+factors, some SCLC cell lines express musca-
+rinic (Sorenson et al., 1983; Cunningham et al.,
+1985; Williams and Lennon, 1990a) and nicotinic
+acetylcholine receptors (Maneckjee and Minna,
+1990). The ability of acetylcholine receptors to
+regulate cell proliferation has recently been
+(Conklin et al., 1988: Ashkenazi et
+al., 1989; Maneckjee and Minna, 1990). Based
+on our finding that activation of M, muscarinic
+açetylcholine receptors (mAChR) causes hy-
+drolysis of phosphoinositides (PI) and inhibits
+voltage-gated Ca?* channe activity in SCLC
+cells, we proposed that mAChR activation may
+affect SCLC proliferation (Williams and Lennon,
+1990a). We report here that mAChR activation
+inhibits DNA synthesis induced by serum, bom-
+besin, insulin, or IGF-I in SCLC cells. mAChR
+agonists arrest SCLC cells le both S and G,/M
+phases of the cell cycle. mAChR activation ap-
+pears to disrupt a common event induced by
+different growth factors, which follows signal
+transduction by growth factor receptors
+MAChR activation decreases DNA synthesis
+by cells growing exponentially in serum
+Carbachol decreases "H-thymidine uptake by
+cells cultured n serum (Figure 1). This inhibition
+
+We previously reported that activation of musca-
+rinic acetylcholine receptors (mAChRI of M, subtype
+causes hydrolysis of phosphoinositides and inhibits
+voltage-gated Ca channel activity in small cell lung
+carcinoma (SCLC) cells. We now report that mAChR
+to arrest le S and G,/M phases of the cell cycle,
+concomitant with a decrease in DNA synthesis. Cell
+cycle progression and DNA synthesis resume when
+mAChR are down-regulated In serum-starved
+SCLC cells. mAChR activation inhibits DNA synthe-
+by serum, bombesin, insulin, or insulin-
+like growth factor-l. The finding that DNA synthesis
+is inhibited even when mAChR are activated after
+exposure of cells to growth factors indicates that
+decreased signal transduction by growth factor re-
+ceptors la not the mechanism of mAChR-mediated
+growth inhibition, Our data suggest that mAChR
+activation disrupts a common event that is induced
+by different growth factors and is fundamental for
+in normal cells, the transition from proliferation
+to terminal differentiation is marked by with-
+drawal from the cell cycle and an inability to
+reenter the cycle in response to growth factors.
+Transformed cells do not undergo this transi-
+tion, but constitutively remain in the cell cycle;
+the regulation of cell cycle progression is dis-
+rupted (Heldin and Westermark, 1984; Wein-
+stein, 1987; Kraus et al., 1988). Small cell lung
+carcinoma (SCLC)' provides a clinically relevant
+Abbreviations: GRP, gastrin-releasing peptide; ICe. haM.
+maximal uougyur concentration IGF-1, insulin-like growth
+factor-l; mAChR, muscarinic acetylcholine receptors; PBS,
+phosphate-buffered saline; PI, phosphoinositides: SCLC,
+e 1991 by The American Society for Cell Biology
+
+activation couses exponentially growing SCLC cells al., 1988). Activation of these receptors gen-
+
+to induce SCLC proliferation.
+
+sis Induced
+
+recognized
+
+cell cycle progression.
+Introduction
+
+Resuits
+
+small cal lung carcinoma.
+
+373

@@ -1,0 +1,73 @@
+-
+
+N -
+
+1. SPECIMEN
+2. SVEN
+
+3a. 870314-2391
+7. 02 JAN/JAN 17
+
+NI -
+
+Juen Deminads
+
+-
+NEWI
+CH
+2
+- -
+
+SP
+
+TELEPHONE NO. FOR CHECK OF VALIDITY
+SWEDISH POLICE +46 77 = : 00
+
+PASS
+PASSPORT
+PASSEPORT
+
+SVERIGE SWEDEN SUEDE
+
+TypiType
+Kod/Code
+P
+SWE
+I EhernanwSurname
+SPECIMEN
+2 FamamwiGhy
+SVEN
+3 NationaliteuNs
+SVENSK SWEDIST
+4 Fodelsedatum/Date of y
+14 MAR/MAR 87
+5 Kon/Sex
+M/M
+6 UdardatiDuse of issue
+02 JAN/JAN 12
+7 Sa plogatsdagDate of epiry
+02 JAN/JAN 17
+8 Fodelscorplace of birth
+STOCKHOLM
+* MyneghedAuchorizy
+POLISMYNDIGHETEN
+I STOCKHOLMS LAN
+
+Pass nruPanport No
+59000001
+
+3a PersonniPers id No
+870314-2391
+4a LangdHeight
+188 CM
+
+7452
+E -
+
+en
+
+- Pecimeni
+
+P<SWESPECIMEN<<SVENSS
+
+I

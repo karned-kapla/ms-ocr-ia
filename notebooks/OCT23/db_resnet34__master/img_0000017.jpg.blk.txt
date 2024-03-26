@@ -1,0 +1,21 @@
+Votre contrat Electricité "Tarif Bleu" 06 KVA Option Base
+eDF
+Prix oftlmos Montare CHT TVA
+Abonnement
+Base - 06WA du 08/01/20 au 31/01/20 Base a ORVA du 01/02/20 a 07/03/20 Base 06NA du 08/03/20 au 07/05/20 Déduction Base DEKVA du 08/01/20 au 07/03/20 Total Abonnement (dont acheminement 10,92 €
+7.98 6.38 5.5% 8.10 9.72 5.5% 8,10 16.20 5,5% 7,98 -15,96 5.5% 16,34
+Releve debut Releve fin 2264 (Enedis) 3589 (Enedis)
+Conso Wh Prix CHTAWE Montare ONT TVA
+Consommation
+Base - OGAVA a 08/01/20 a 07/03/20
+1325 0.0957 n 1325
+120.80 LO'02 126,86
+Total Consommation (dont acheminement 49,95 €
+Conse WNh Prix CHT WWh Montant CHT TVA
+Taxes et Contributions
+Tam sur la Consommation Finale dElectricions (TCFE) Contritution - Service Putile dElectricite (CSPE) Contribution Tartain décheminemen Electricité (CTA) Total Taxes et Contributions Total Electricité hors TVA
+1325 0.00082 13.01 20.0% 1325 0.02250 29.81 20.0% 2.95 5.5% 45,77 188,97
+En conclusion
+Total fachure hors TVA du 10/03/2020 TVA 20.00 5 sur un montant total de 169 68 € TVA 5.50 % sur un montant total de 19.29 € Total facture TTC du 10/03/2020
+188.97 € 33.90 € 1.00 € 223,96 €
+Montant total 96'EZZ € TTC

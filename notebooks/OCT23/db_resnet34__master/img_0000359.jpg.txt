@@ -1,0 +1,141 @@
+COOVER
+
+BULLETIN DE PAIE
+Plriede du AAMANAM/P au dd/mm/YYY
+Reference bulletin
+5 stour RC isciale
+Canigorie
+Emploi
+Date andennete
+Dabut comrar
+Fortait jour
+Cont Coll
+
+ENTREPRISE
+Adresse
+a Ville
+SRET
+
+NAF
+
+Code
+
+Cotiutions afane
+Base
+Taux
+Montant
+Bans
+LSTST
+10,250
+T 554,62
+1 554,62
+
+Cotisations emploteur
+Taux
+
+Leelle de la rubrique
+
+Montant
+
+1001 Saluire brut
+HRUTI SALAIRE BRUT
+Sunte
+A03 Compramentaire Sante
+RETRAUTS
+CDI Serune socule pafonnée
+CO2 50curion socale diglafonne
+cos Complamontaire anche A
+DOL FAMSIF
+ASSURANCE CHOMAGE
+tos ASSURANCE CHOMME
+
+A01 securat socale-Maladie Mutemite - Derts
+803 ACCIDENTS DU IRAVAIL MMADIFS PROFFSSIONNELIF
+
+- 554,62
+1 554,52
+- 554,62
+- 554,62
+- ESPSS
+1 554,62
+- ESPS
+1 29'115
+1 554,52
+a 29'15
+1 227.99
+
+- 554,62
+E 554,62
+6,90M
+107,27
+1 554,62
+0,40%
+6,22
+a 554,62
+4,01%
+62,34
+E 554,62
+- 554,62
+- 554,62
+- 554,62
+-
+105,71
+2,90M
+45,08
+- 227,99
+0,00%
+000
+E9'9cE
+
+7,00%
+108,82
+0,90%
+13,99
+8,55%
+132,92
+1,00%
+29,54
+6,01%
+3,45%
+53,63
+4,20%
+1,64%
+25,50
+
+FOI AUTES CONTRISUTIONS outs Pax CEMPLOYEUR
+HOL CSG deductele de ree [ le nevanu
+101 CSG/CHDS nos deductele de rimple S le Faxanu
+tor EXONERATIONS DE COTISATIONS EMPLOVEUR
+
+IMP1 Net impouble
+PAS2018 Heterys à a LOURCE
+COTI Total Coti-ations
+
+364,40
+1 227,99
+D E
+Mod Taxe
+0 0
+NET A PAYER
+1 22 GE4
+o po
+1 94002
+
+NET A PAYER AVANT IMPOT SUR LE REVENU
+implit sur le rovenu
+Imple sur le ravenu prileve a a aource
+Domicilation
+IBAN
+BIC
+Bénéficaire
+
+dont dyolution a a Nemuneration lile ala supprassion dus cotications (himan a malade
+
+Base
+12 27.9
+
+Tax personnatise
+0,00%
+Paye par serssite dateny
+Nument de canalan -
+I - 1 hanglape

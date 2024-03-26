@@ -1,0 +1,34 @@
+Test neuer Personalausweis
+
+TTTT00001
+
+Ansichtsexemplar
+
+Name Surname/Nom
+MUSTERMANN
+
+GEB. GABLER
+ornamen/Given nam
+ERIKA
+
+Geburtstag/Date of birth Stai atsange FIE -
+
+Date de naissan
+
+Nationalife
+
+12.08.1964 DEUTSCH
+Gebortiort/ a of birth/Lieu de naissance
+
+BERLIN
+
+bis/Date of expiry/
+Bang expiration
+31.10.2010
+
+000001
+
+der Inhaberin/des Inhabers
+Unterschrof of bearer Signature de la
+
+:

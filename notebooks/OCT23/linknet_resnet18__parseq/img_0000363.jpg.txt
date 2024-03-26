@@ -1,0 +1,258 @@
+BULLETIN DE PAIE
+EN EUROS
+
+DÉBUT DE PÉRIODE
+FIN DE PÉRIODE
+DÉBUT DU CONTRAT
+DATE D'ANCIENNETÉ
+N" DE SÉCURITÉ SOCIALE
+JOHN SMITH
+45 RUE DES COQUELICOTS
+53000 LAVAL
+
+01 DÉCEMBRE 2019
+31 DÉCEMBRE 2019
+01 MARS 2019
+01 MARS 2019
+191017521447768
+
+DEMO ACCOUNT DEMO FR]
+53 RUE JEAN MONNET
+75012 PARIS 12
+N" SIRET 1348789900045
+N' APE 6202A
+CONVENTIONCOLLECTIVI BANQUE
+LIEU DE PAIEMENT DES COTISATIONS SOCIALES
+URSSAR ILE-DE-FRANCE
+22 RUE DE LAGNY
+93518 MONTREUIL CEDEX
+CLASSIFICATION
+SALARIÉ CADRE
+CATEGORIE
+CAD DRE H
+EMPLOI:
+CHEF DE PRO.
+DÉSIGNATION
+Salaire de base
+Avantage en nature
+a
+Assiette supplémentaire titres
+t
+Rémunération brute (1)
+URSSAF
+Assurance maladie
+Vieillesse plafonnée
+Vieillesse déplafonnée
+Allocations familiales
+Accidents du travait
+FNAL
+Solidarité autonon
+Versement transport
+Contribution au dialogue socia
+CSG déductible
+CSG non du uct ible
+CRDS non déductible
+Assurance Chômage
+Chômage
+AGS
+Retraite complémentaire
+Complémentaire |Tranche
+Contribution d'Equilibre Général ITranche
+APEC
+Autres coti et taxes
+Formation professionnelle
+COTISATIONS SALARIALES (4)
+COTISATIONS PATRONALES
+Indemnité de repas
+Indemnités non soumises (2)
+Autres retenues (3)
+Titres Rest
+Assiette sup Titres
+Avantages en nature
+NET À PAYER AVANT IMPÔT SUR LE REVENU
+IMPÔT SUR LE REVENU
+Impôt sur le revenu prélevé el source (5)
+DATE DE PAIEMENT
+
+MINIMUM COEFFICIENT
+2439,17
+RÉMUNÉRATION TO DU MOIS
+151.67H
+16.0824
+NOMBRE OU
+CALENDRIER
+TAUX OU%
+BASE
+AJO JTER
+DÉDUIRE
+01/12/2019 AU 31/12/2019
+151,67
+16.0
+243 b 1
+JOUR EVÉNEMENT
+21,00
+4.85 500
+101.85
+D 01
+21.00
+10.50
+02
+2551,52
+03
+04
+2.51.52
+7.000
+178,61
+05
+2551,52
+6.900
+8.550
+218,15
+06
+2.51.52
+0.400
+1.900
+48,48
+07
+2551.52
+3,450
+88,03
+08
+2551,52
+0,600
+15,31
+09
+2551.52
+0.100
+2.55
+10
+2551,52
+0,300
+7.65
+11
+2551.52
+2,950
+75,27
+12
+2551,52
+0,016
+0.41
+3
+506.87
+14
+506,87
+15
+506.87
+16
+17
+2551,52
+4,050
+103,34
+18
+2551.52
+0.150
+3.83
+19
+20
+2551.52
+80.37
+4.720
+120,43
+21
+2551.52
+21,94
+1.290
+32,91
+22
+2551.52
+0.61
+0.036
+0.92
+23
+24
+2551.52
+0.575
+14.67
+25
+532,34
+26
+910.56
+27
+28
+21.00
+0000
+105,00
+29
+105,00
+30
+21.00
+6.000
+126,00
+5.000
+105,00 M 31
+21,00
+0,500
+10.50
+101,85
+885,83
+TAUX NON
+BASE
+186,37
+7.50%
+163,98
+VIREM EN
+31 DÉCEMBRE 2019
+
+2439,17 SALAIRE DE BASE
+2551,52 DUREE MENSUELLE:
+TAUX HORAIRE
+MONT TANT A MONTAI A COT TISATIONS PATRONALES
+TAUXOU% MO
+
+176,05
+10.21
+
+6,800
+2.400
+0.500
+
+170,47
+60,16
+12.53
+
+3.150
+0.860
+0.024
+
+JOUR FÉRIÉ
+DUMOIS
+37,76
+367 .08
+199,02
+186,37
+
+DONT ÉVOLUTION DE LA RÉMUNÉRATION
+CHÔMAGE ET MALADIE
+TOTAL VERSÉ PAR L'EMPLOYEUR
+1721,85 ALLÈGEMENT DE COTISATIONS
+EMPLOYEUR
+NETIMPOSABLE
+
+PER INO AUSÉ MONTANT LIÉE LA SUPPRESSION DES
+
+NET PAYÉ
+(1) (2) (3) (4) (5)
+EN EUROS
+ACQUIS PRIS SOLDE COMMENTAIRES
+6 N-1 7,00 2,00 5,00
+CPN 15.83 0.00 15.83
+RTT 42,50 0.00 42,50
+
+Cumuls depuis le 1er mars 2019 Net imposable 21 457,84 E Salaire brut 25 711,79 € Cumul des heu réelle availlée depuis le 1er Janvier 1463h
+
+Temps travaillé ce mois 147 h. Convention collective individuelle Banque
+
+Dans votre intérêt, et pour vous aider de faire valoir vos droits conservez ce bulletin de paie sans limitat tion de durée
+Pour la définit ior des termes employés, se reporter au site Internet www .service -public.fr rubrique cotisations sociales.
+
+Bulletin généré par PayFit

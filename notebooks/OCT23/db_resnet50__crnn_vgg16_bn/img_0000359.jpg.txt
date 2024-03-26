@@ -1,0 +1,141 @@
+COOVER
+
+BULLETIN DE PAIE
+Periode du as/mm/yy au dd/mm/Vy
+Ralérence bulletin
+5 sécurié sociale
+Carhgorie
+Emploi
+Date anciennes
+Début comar
+Fortait jour
+Cone 3
+
+ENTREPRISE
+Adeesse
+d3 Ville
+SIRET
+
+NAF
+
+Code
+
+Cotisatiens salarie
+Cotisations
+emploeur
+Base
+Taun
+Mentant
+Base
+(
+Montart
+151,67
+10,250
+1 554,62
+1 1554,62
+
+taslM
+de la rubriee
+
+1001 Salaire brut
+BARUTI SALAIRE BRUT
+Santé
+AO3 Complementaire Sanse
+RETRAITE
+C01 Sécurse socule plafonna
+C02 Socurot sociale diplafonnée
+cas Cemplamentaire Tranche A
+DOI FAMILLE
+ASSURANCE CHOMAGE
+no1 ASSURINCE CHOMAGE
+
+ADI securst sociale-Maladie Muatemite aliate pens
+nos ACCIDENTS ou S3OVWWAAI PRORESSIONNEUE
+
+t9'vsst
+ESVSST
+ty'vsst
+- 554,52
+- 1554,62
+T 554,52
+t 554,52
+1 554,62
+1 554,62
+t 554,62
+1227,99
+
+1554,62
+- 554,42
+6,904
+107,27
+- 55442
+0,404
+6,22
+- 55462
+4,01%
+62,34
+a $54,62
+- 55462
+- 554,62
+1 554,62
+6304
+105,71
+2,90
+45,08
+1227,99
+G00N
+0,00
+E9SCE
+
+7,00%
+108,82
+0,904
+66ET
+8,555
+132,92
+1,904
+29,54
+wTog
+345M
+ESES
+4,20
+1,645
+25,50
+
+FOI AUTRES CONTRBVTIONS ouEs PAR EMPOYEUR
+HO1 csG deducele de 1 ( le nvanu
+03 CSG/CRDS non decucble de Fimpat 1 le -
+ei PONERATIONS DE COMSATIONS EMPLOYEUR
+
+IMPI Net imposable
+HAS201B Meserse à a souce
+COTI Total Cotisations
+
+364,40
+1: 227,99
+n 33
+Mar tant
+6 od
+NET. A PAFES
+124 6E4
+a o
+20E161
+
+NET A PAYER AVANT IMPOT SUR LE REVENU
+imolt suf a revena
+Imolt sur e revenu plieve a a source
+Domicilation
+ISAN
+Bic
+Benehiciaire
+
+dont volution de de Nmuneation He a le suppression des cotisations chmase et maladie
+
+Rasa
+: GEAZZ
+
+Taux personnalise
+000N
+tans -mi l sy
+Agn a -il mr
+otal - ar Mpinyn

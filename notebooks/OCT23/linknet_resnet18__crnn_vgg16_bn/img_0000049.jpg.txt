@@ -1,0 +1,83 @@
+WeCount
+d Au Ces sr
+A20SAW
+Sirne
+
+Facture
+
+Pour facture n 123456789
+
+Date de facturation 29.05.2021
+Paiement effeotué le 28.06.2021
+Numéro de facture 123
+Numéro de clienit 1
+
+Destinataire :
+Mon client préféré
+Dr. House
+Rue de la comptabilité
+1208 Genève
+Suisse
+
+Emis par Xavier Giard
+Contact olient M. L clientXYZ
+Date de la ventelprestation 14.05.2021
+
+Infos additionnelles
+
+Merci d'avoir ghoisi Mon Entreprise pour nos services.
+
+Service Après Vente - Garantie 1an.
+
+Description
+Main-d oeuvre
+Produit
+
+Quantités Unités is unitaire HT TVA %
+
+TVA
+7.7% 115.50CHF
+
+TOTAL TTC
+1615.50CHF
+1039.90 CHF
+
+25
+10
+
+h.
+pce.
+
+60.00 CHF
+103.99 CHF
+
+Total HT
+TVA
+Total TTC
+
+2539.90CHF
+115.50CHF
+2 655.40 CHF
+
+VeCount
+Ch. Des Chênes 10B
+1009 Pully
+Suisse
+N DEAUID IMNMI
+N TVA MMIX
+
+Contact
+Kavier Giard
+Téléphone *4
+Email: wavier.giard@vecount.swiss
+www.weoountsvis:
+
+Coordonnées bancaires
+Banque
+BNP Paribas
+Code banque 10000000
+N de oompte 12345678
+IBAN
+CH58 23411240 a 4
+SWIFTABIC
+FRHHCXXIO0

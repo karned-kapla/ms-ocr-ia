@@ -1,0 +1,61 @@
+- - d Crt - . I --e - - - -w - - a - - - - - 1 - -
+
+: Pas
+
+FACTURE
+
+Logo
+Nom
+
+DATE
+Date
+
+N DE LA FACTURE VOTHE socrtt
+
+Au
+Cede postal Vle
+Telephene
+Tecopie
+Adresss de n
+
+Numero
+
+FACTUREN A
+Rue
+Cede posial Ville
+Telphene
+Telecap
+Assss de ceuer
+
+VENDEUR POSTT CONDmTIONS DE PAIEMENT DATT D'ECHEANCE
+
+A a rcagtien
+DESCRIPTION
+
+QUANTITE
+
+PAIX UNITAIRE TOTAL DE LA LIGNE
+
+P
+a
+P
+
+
+-a p
+a p
+Dna p
+-a p
+
+--- - €
+M - E
+Mn - €
+M i €
+- - €
+- - €
+-- a €
+- - 6
+Sousal
+TVA
+Tonal
+
+-

@@ -1,0 +1,27 @@
+Email
+Brénam& Nom
+Bdoesse
+
+Invoice Date:
+17h March 2020
+Invoice Number:
+INV001
+ABN Number:
+
+INVOICE
+Nom du client
+Adresse du client
+Description
+
+Lnit
+
+Price/unit
+200 AUD
+TOTAL
+
+Amount
+200 AUD
+
+3 à 4
+
+200AUD

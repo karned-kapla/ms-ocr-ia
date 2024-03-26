@@ -1,0 +1,7 @@
+VOTRE a
+RÉPONSE
+Aurons-nous l'honneur de vous compter parmi nous ?
+VoS NOMS ET PRENOMS:
+OUI!
+NON
+Nombre d'adultes: Nombre d'enfants:
