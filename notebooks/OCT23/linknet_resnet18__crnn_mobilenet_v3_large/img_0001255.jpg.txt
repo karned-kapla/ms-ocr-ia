@@ -1,0 +1,57 @@
+de Epldemiol Vol 47 No. 10. 2 1143-1162, 194
+Copyright o 1994 Dsevier Sience 3
+Prinsed is Great Beitain AR rights rescrved
+0895-4356/94 $.00 - od
+
+Pergamon
+
+0895-43560940000614
+
+DIFFERENCES BETWEEN SMOKERS, EX-SMOKERS,
+PASSIVE SMOKERS AND NON-SMOKERS
+LISON THORNTON, PETER LEE* and JOIN FRY
+P N Lae Statistics and Computing Led, 17 Cedar Road, Sutton, Surrey SM2 SDA, England
+(Received in restsed form & March 1994)
+Abstract- à extent to which current, ex and passive smoking are associated with
+otber risk factors, and the potential for confounding arising from these associations, was
+studied using a representative sample of 9003 British adults. The distribution of 11
+lifestyle factors generally considered associated with adverse health were compared in
+current smokers, ex-smokers, never smokers living with a smoker ("passive smokers")
+and other never smokers. or the 33 risk factors 27 showed a significantly higher
+prevalence in heavy smokers than in never smokers and only two showed a lower
+prevalence. For many risk factors, prevalence increased with amount smoked, decreased
+with time of smoking cessation and was increased in passive smokers. The possible
+magnitude of bias from confounding by the risk factors is estimated. It is concluded that
+confounding by multiple risk factors may be an important issue in smoking studies
+where weak associations are observed. This applies particularly to studies investigating
+the possible association of passive smoking with various health effects.
+Smoking Passive smoking Confounding Bias
+
+INTRODUCTION
+
+gists normally do attempt to take account of
+
+Numerous epidemiological studics have investi- such differences where relevant to the endpoint
+gated the relationship of current smoking, past studied and thus try to minimize bias due 01
+smoking and exposure 9 environmental confounding. Differences betwoen non-smokers
+tobacco smoke ("passive smoking") to mor- exposed and not exposed to environmental
+tality and morbidity from a variety of diseases tobacco smoke are less well studied, though
+11) Because smokers and passive smokers are recent reports [4, 5] have pointed to a possible
+not a random selection of the population, such confounding of the lung cancer relationship by
+theoretical possibility that observed differences A study of the literature over many years by
+between the groups studied may arise, at least in one of us (PL) has led to a number of pro-
+part, due 2 differences in exposure from other visional conclusions being reached. Firsty,
+risk factors and not wholly to effocts of smoking smokers tend to have unhealchier lifestyles than
+or of environmental tobacco smoke exposure. non-smokers in a number of respocts, so that
+Many differences between smokers and non- they would be expected to have higher rates of
+smokers. such as in alcohol consumption [2] and many diseases even in the absence of any effect
+social class [3), are well known and epidemiolo- of smoking. Secondly, for many of these lifestyle
+
+studies have always to take into account the diet.
+
+factors passive smokers ard also somewhat
+worse off than non-smokers unexposed to
+
+"Author for correspondence
+
+1141

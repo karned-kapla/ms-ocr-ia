@@ -1,0 +1,108 @@
+Nom de la société
+Slogan de votre societe
+Adresse,
+Ville. Province Code postal
+
+FACTURE
+NUMERO DE FACTURE
+DATE : ENTREZ LA DATE
+
+Téléphone : Entrez le numéro de telephone
+Télecopieur : Entrez le numero de télécopieur
+
+A:
+Nom du client
+Nom de la societe
+Adresse, Vile, Province
+Code postal
+
+DESCRIPTION -
+
+Description du projet ou du service
+BON DE COMMANDE Numero
+
+DESCRIPTION
+
+HEURES
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+
+TAUX
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+
+MONTANT
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+TOTAL MONTANT
+
+Entrez la description -
+Entrez la description 2
+Entrez la description e
+Entrez la description 4
+Entrez la description 5
+Entrez la description 6
+Entrez la description 7
+Entrez la description 8
+Entrez la description 9
+Entrez la description 10
+Entrez la description 11
+Entres la description 12
+Entrez la description 13
+Entrez la description 14
+Entrez la description 15
+Entrez la description 16
+Entrez la description 17
+
+Veullez beller tous les cheques à rordre de Nom de la société
+
+Montant total du dans 15 jours. Les paiements en souffrance font robjet de frais de service de 1 %
+
+par mois.
+
+Nous vous remercions de votre confiance.

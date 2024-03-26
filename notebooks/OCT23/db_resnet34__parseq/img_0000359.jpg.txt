@@ -1,0 +1,141 @@
+COOVER
+
+BULLETIN DE PAIE
+Periede du AAAA/ au dd/mm/Ym
+Reference bulletin
+5 Mour ne sociale
+Catigorie
+Emplai
+Date ancienneté
+Dibut contrat
+Fortair jour
+Com Coll.
+
+ENTREPRISE
+Adresse
+a Ville
+SIRET
+
+NAF
+
+Code
+
+Cotisations salane
+Base
+Taux
+Mentant
+Bane
+COIST
+10,250
+T 554,62
+1 554,62
+
+Cotications emplogeur
+Taux
+
+Leelle de la rubrique
+
+Montant
+
+1001 Salaire brut
+BRUTI SALAIRE BRUT
+Sante
+A03 Complementaire Sanea
+RETRAITE
+cos Securnd sociade plafonnde
+caz socurnt sociale diplafonnée
+cos Complementaire Tranche A
+DO1 FAMSLE
+ASSURANCE CHOMAGE
+001 ASSURANCE CHOMAGE
+
+A01 socurnt socale-Maladie Maternite wallos Deces
+803 ACCIDENTS DU TRAVAN MALADIES PROFESSIONNELLEY
+
+L 554,62
+1 554,52
+- 554,62
+1 554,62
+1 cans
+1 554,42
+- COSS
+1 ca'ss
+1 514,57
+- c9'ss
+L 227.99
+
+- 554,62
+1 554,62
+6,90%
+107,27
+1 554,62
+0,40%
+6,22
+un 554,62
+4,01N
+62,34
+1 554.62
+- 554,62
+- 554,62
+. 554,62
+-
+105,71
+2,90N
+45,08
+a 227,99
+0,00
+0.00
+E'SCE
+
+7,00N
+108,82
+0,90%
+13,99
+8,55N
+132,92
+1,90N
+29,54
+6,01%
+3,45%
+53,63
+4,20%
+1,64N
+25,50
+
+FO1 AUTRES CONTEBUTIONS oues PAR CEMPLOYEUR
+HOL CSG deductele de Timpor [ le revenu
+os CSG/CROS non deduciele de rimple - le -venu
+sor EXONERATIONS DE COTISATIONS EMPLOYEUR
+
+IMP1 Net imponable
+PAS2018 Retenue A le sounce
+COTI Total Cotisations
+
+364,40
+1 227,99
+la Et
+Mor lant
+o a
+MET A PAYER
+1 23 GE4
+a po
+1 94,02
+
+NET A PAYER AVANT IMPOT SUR LE REVENU
+implit sur a revenu
+Imple sur de revenu preleve a a source
+Domiciliation
+IBAN
+BIC
+Beneficiaine
+
+dont evolution a a edmuneration lile ala suppression dus cotisations chomage et malade
+
+Base
+1: 22199
+
+Taux personnatise
+0,00%
+Pave : simmente datenginon
+Alderment de - emphrey
+E 1 - hemplepe

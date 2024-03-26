@@ -1,0 +1,44 @@
+T22000129 Ansche/Addesss/Adresse
+
+DEUTSCHLAND
+Name/
+MUSTERMANN
+GEB. GABLER
+Vornamen Given names Prenoms
+ERIKA
+Geburtstag/Date of bith Staatsangehd *
+Date de naissance
+12.08. 196
+deb Place of
+
+BUNDESREPUBLIK FEDERALE DALLEMAGNE
+FEDERAL REPUBLIC or GERMANY REPUBLIQUE Sumame/Nom
+
+51147 KOLN
+HEIDESTRASSE 17
+
+PERSONALAUSWEIS
+DIDENT
+IDENTITY CARD CARTE
+
+Ordens oder Kunstlemame
+Nom de religion 8 pseudon
+
+name or pseudonyin
+
+Nationalite
+= 7
+de daissan
+
+burDate of expiry/
+expiration
+Bunke
+31. 10.2020
+Unterschrift der Inhaberin/des Inhabers
+Signature of bearer Signature de la titulaire/du titulaire
+
+938568
+
+-
+
+>>>7)

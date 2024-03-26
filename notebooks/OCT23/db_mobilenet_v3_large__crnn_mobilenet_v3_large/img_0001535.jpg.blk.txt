@@ -1,0 +1,21 @@
+CELL REGULATION, Vol. 2, 373-381, May 1991
+Activation of muscarinic acetylcholine receptors inhibits cell cycle progression of small cell
+lung carcinoma
+Carol L Williams and Vanda A. Lennon Departments of Laboratory Medicine and Pathology, Immunology, and Neurology Mayo Clinic and Foundation Rochester, Minnesota 55905
+model for Buppnis the dysregulation of cell cy- cle progression. This highly metastatic tumor accounts for 25-30% of all lung cancers and causes >25 000 deaths annually in the United States (Birrer and Minna, 1989). SCLC cells ex- press receptors for several autocrine growth factors, including gastrin-releasing peptide (GRP, homologous to amphibian bombesini (Cuttitta et al., 985; Carney et al., 1987 insulin- Nakanishi et al., 1988b), and a transferrin-like molecule (Nakanishi et al., 1988a; Vostrejs et erates different intracellular second messen- gers, which must converge on a common point In addition to receptors for peptide growth factors, some SCLC cell lines express musca- rinic (Sorenson et al., 1983; Cunningham et al., 1985; Williams and Lennon, 1990a) and nicotinio 1990). The ability of ecetylcholine receptors to al., 1989; Maneckjee and Minna, 1990). Based uo our finding that activation of M, muscarinic acetylcholine receptors (MAChR) causes hy- drolysis of phosphoinositides (Id) and inhibits voltage-gated Ca? channel activity in SCLC cells, we proposed that MAChR activation may affect SCLC proliferation (Williams and Lennon, 1990a). We report here that MAChR activation inhibits DNA synthesis induced by serum, bom- besin, insulin, or IGF-I in SCLC cells. MACHR agonists arrest SCLC cells in both S and G,/M phases of the cell cycle. mAChR activation ap- different growth factors, which follows signal transduction by growth factor receptors
+We prevlousty reported that activation of musca- rinic acetylcholine receptors (mAChR) of M, subtype causes hydrolysis of phosphoinositides and inhibits voltage-gated 3 channel activity in small cell lung carcinoma (SCLC) cells. We now report that MAChR to arrest in S and G,/M phases of the cell cycle, concomitant with a decrease in DNA synthesis. Cell cycle progression and DNA synthesis resume when are down-regulated In serum-starved SCLC cells, MAChR activation inhibits DNA synthe- sis Induced by serum, bombesin, insulin, or insulin- like growth factor-1. The finding that DNA synthesis exposure of cells to growth factors indicates that growth inhibition. Our data suggest that MAChR activation disrupts a common event that le induced by different growth factors and le fundamental for In normal cells, the transition from proliferation 01 terminal differentiation is marked by with- drawal from the cell cycle and an inability to reenter the cycle in response to growth factors. Transformed cells do not undergo this transi- the regulation of cell cycle progression is dis- rupted (Heldin and Westermark, 1984; Wein- stein, 1987; Kraus et al., 1988). Small cell lung carcinoma (SCLC)' provides a clinically relevant factor-I; MAChR, muscarinic acetylcholine receptors: PBS, phosphate-buffered saline: P1, phosphoinositides; SCLC, e 1991 by The American Society for Cell Biology
+like growth facto S
+- lacau - et al., 1 1988;
+activation couses exponentially growing SCLC cells al., 1988). Activation of these receptors gen-
+to induce SCLC proliferation.
+mAChR
+de Inhibited even when mAChR are activated after acetylcholine receptors (Maneckjee and Minna, decreased signal transduction by growth factor re- regulate cell proliferation has recently been ceptors le not the mechanism of MACHR-mediated recognized (Conklin et al., 1988; Ashkenazi et
+cell cycle progression. Introduction
+tion, but constitutively remain in the cell cycle; pears to disrupt a common event induced by
+Resuits
+Abbreviations: GRP, gastrin-releesing peptide; ICse. half- mAChR activation decreases DNA synthesis maximal inhibitory concentration; IGF-I, insulin-like growth by cells growing exponentially in serum
+Carbachol decreases
+H-thymidine uptake by
+small cell lung carcinoma.
+cells cultured in serum (Figure 1). This inhibition
+373

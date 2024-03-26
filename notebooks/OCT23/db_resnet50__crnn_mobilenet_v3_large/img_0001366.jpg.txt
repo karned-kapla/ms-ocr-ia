@@ -1,0 +1,53 @@
+O#
+14
+Code 134
+
+CS
+
+BALLOT
+
+Name Ted
+
+Date
+
+Suoy 1
+
+Using the definitions supplied, please indicate your current evaluation
+of the air i this room, according to each of the four scales below.
+
+ODOR STRENGTH
+(intensity)
+
+slight
+
+extreme
+
+NASAL IRRITATION
+(intensity)
+
+slight
+
+extreme
+
+EYE IRRITATION
+(intensity)
+
+slight
+
+extreme
+
+OVERALL
+ACCEPTABILITY
+
+OF ROOM AIR extremely
+
+neither
+acceptable
+or unacceptable
+
+extremely
+acceptable
+
+unacceptable
+
+G:lballot

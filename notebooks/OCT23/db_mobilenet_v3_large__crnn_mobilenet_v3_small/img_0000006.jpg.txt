@@ -1,0 +1,52 @@
+[Nom de l'entreprise)
+
+FACTURE
+
+(Adresse]
+
+(Ville (Province), Code postal)
+Téléphone : 000 000-0000
+
+N DE FACTURE
+2034
+
+DATE
+17-70-9107
+
+FACTURE A
+[Nom]
+
+REF.CUENT
+564
+
+CONDITIONS
+Paiement P réception
+
+(Nom de l'entreprise)
+[Adresse)
+
+(Ville (Province), Code postal)
+NI de télephonel
+[Adresse de courreil
+
+DESCRIPTION
+Frais de service
+
+QTÉ PRIX UNITAIRE
+
+MONTANT
+
+:
+- d
+
+200.00
+75.00
+(ooos)
+
+200.00
+375.00
+(0005)
+
+Main-d'one : 5 heures à 75 5 rheure
+
+Remise nouveau client

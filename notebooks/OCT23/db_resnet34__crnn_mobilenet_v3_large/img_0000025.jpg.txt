@@ -1,0 +1,65 @@
+- - - - F L - - -n - Ankhag - Aridue - F . - - - I -
+
+A
+
+Logo
+Nom
+
+FACTURE
+
+DATT
+Date
+
+N* DE LA FACTURE VOSHE BOCIETE
+
+R
+Cede postal Vie
+Telephone
+Telecopie
+Adresse ap tourme
+
+Numero
+
+FACTUREN A
+Re
+Cede postal Vile
+Telephene
+Telecopa
+Ase de couer
+
+VENDEUR POSTE CONDITIONS DE PAIEMENT DATE D ECHEANCE
+
+à le ecegtion
+DESCHIPTION
+
+QUANTITE
+
+PRIX UNITAIRE TOTAL DE LA LIGNE
+
+1
+1
+2he
+1
+
+- a peaha
+- a -
+- d pa
+- à -
+
+M - €
+- - .
+Ms - e
+- - .
+- - €
+- a
+- - €
+- - .
+Soutotal
+TVA
+Total
+
+- -
+
+a - - -
+
+- .

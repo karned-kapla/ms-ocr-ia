@@ -1,0 +1,19 @@
+[Nom de l'entreprise)
+FACTURE
+[Adresse)
+(ville (Province), Code postal] Téléphone ! 000 000-0000
+N DE FACTURE 2034
+DATE 16-70-8106
+FACTURE A (Nom)
+RÉF.CLIENT 564
+CONDITIONS Paiement à réception
+[Nom de Tentreprise) [Adresse)
+(ille (Province), Code postal) (N de téléphone) (Adresse de courriel)
+DESCRIPTION Frais de service
+QTÉ PRIX UNITAIRE
+MONTANT
+1 5
+200.00 75.00 (0o0s)
+200.00 375.00 (50.00)
+Main-diceuvre : 5 heures à 75 S Theure
+Remise neannou client

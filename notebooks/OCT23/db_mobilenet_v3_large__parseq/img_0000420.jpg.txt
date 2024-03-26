@@ -1,0 +1,127 @@
+Date d'ancienneté dans l'entreprise
+LIEU DE PAIEMENT DES COTISATIONS SOCIALES
+
+Intitulé du poste occupé
+PERIODE
+DU
+au
+MATRICULE
+Centre imputation 1
+P.COM COMENICATIO
+EMPLO
+REDACTRICE WEB
+
+BULLETIN DE PAIE
+
+SOCIETE
+
+45000 ORLEANS
+DATE ANC.
+02/01/18
+QUALIFICATION
+
+Identification
+complète de
+l'employeur
+ETABLISSEMENT
+
+APPOINTEMENTE HORAIRE
+322,50
+
+NIVEAU POSIT. COEFFICIENTS MP SECURITE SOCIALE
+
+Nombre d'heures travaillées
+pendant la période concerné
+
+Identification du salarié
+
+CONVENTION COLLECTIVE
+-ENTREPPISE DE TRAVAIL TEMPORAIRE
+CODES
+LIBELLES
+1820 a Indennit te - stage
+2500 1
+TOTAL BRUT
+SANTE
+Securi te Sociale Maladie
+Materni te Invalidi te Deces
+ACCIDENTS B TRAVAIL
+PETRAITE
+Securi 3 aociale plafonnée
+PAMILLE
+Allocati one familiales
+CONTRIBUTIONS DUES EPLOTEURS
+Autres contributions
+cas CROS
+CBG non imposable
+CBG CRDB imposable
+TICKETS RESTALTANT
+4210 1 Indennite de stage
+
+BASES ou TAUX ou % MONTANTS MONTANTS CHARGES PATRONNALES EVENEMENTS
+
+NOMBRES
+
+AJOUTER A DEDUIRE TAUX MONTANTS DATES QUANTITES
+
+Les différentes
+catégories de
+risques possibles
+
+Regroupement des contributions
+
+del'employeur
+
+Total des
+cotisations
+Salaire a la charge
+du salarié
+
+Total des
+contributions
+la charge de
+l'employeur
+
+brut
+
+SOUS TOTAUX
+CUMULS ANNUELS
+
+MODE DE REOLEMENT
+Virement 31/03/18
+LIBELLES
+Brut fiscal
+Net imposable
+Dase s.s plafonnée
+Indemnités
+Cotisations E
+Cotisations pat
+Cout salarial
+
+DATE DE CODE CODE M DE COMPTE
+REOLEMENT BANGUE QUICHET
+
+DOMICILIATION
+MOIS
+
+NET A PAYER
+OUMULD ANNUELS
+RELIQUATE ACQUIS EN COURS
+6,15
+6.15
+payés
+congés
+
+Salairenet
+
+MOID
+
+LIBELLES
+F/E travaill4
+CONOES PAYES
+Joure C.P. acquis
+Joura C.P. pria
+Solde C.P
+Solde 3
+
+Décompte des

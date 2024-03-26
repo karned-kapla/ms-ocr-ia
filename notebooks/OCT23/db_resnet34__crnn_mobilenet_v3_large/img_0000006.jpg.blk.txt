@@ -1,0 +1,19 @@
+[Nom de l'entreprise.
+FACTURE
+[Adresse)
+(Ville (Province), Code postal Teléphone : 000 000-0000
+N a FACTURE 2034
+DATE 2018-02-21
+FACTURE A [Nom]
+RLF. CLIENT 564
+CONDINONS Paiement à réception
+[Nom de rentreprise) Adresse)
+[ville Provincel Code postal) [N de téléphone) (Adresse de courriel
+NouEnosG Frais de service
+QTE PRIX UNITAIRE
+MONTANT
+1 5
+200.00 75.00 (50.00)
+200.00 37500 (50.00)
+Main-dioure : 5 heures à 75 5 rheure
+Remise nouveau client

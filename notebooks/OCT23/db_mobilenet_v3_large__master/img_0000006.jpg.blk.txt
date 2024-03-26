@@ -1,0 +1,19 @@
+[Nom de l'entreprise]
+FACTURE
+[Adresse)
+[Ville (Province), Code postal) Téléphone : 000 000-0000
+.N 30 FACTURE 2034
+DATE 12-20-8100
+FACTURE A (Nomj
+REF.CUENT 564
+CONDITIONS Paiement e réception
+[Nom de rentreprise) [Adresse)
+(Ville (Province), Code postal) NI de téléphone) (Adresse de courriel
+DESCRIPTION Frais de service
+QTE PRIX UNITAIRE
+MONTANT
+- à de
+200.00 75.00 (00/05)
+200.00 375.00 (000s)
+Main-d'ceuvre : 5 heures a 75 5 rheure
+Remise nouveau client

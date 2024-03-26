@@ -1,0 +1,53 @@
+BUNDESREPUBLIK CNV1H251030
+
+REISEPASS
+PASSPORT-PASSEPORT
+
+FEDERAL
+
+Typ/Type/Type
+U
+
+Kode / Code /Code Pass-Nr./Passport No. / Passeport No.
+
+CO1XYCCGS
+
+1.[a]Name / Surname /Nom (b)Geburtsname / Name at birth/Nom de naissance
+
+[a] MUSTERMANN
+[b] GABLER
+
+2 Vornamen/ Given names / Prénoms
+
+ERIKA
+
+Geburtstag /t Date of birth/
+Date de naissance
+12.08.1964
+BERLIN
+Ausstellungsdam/Date
+of issue I Date de délivrance
+01.03.2017
+9. Behdroe/Authy/Autorerente
+STADT KOLN
+
+Geschlecht/Sex/
+Sexe
+
+5 Staatsangehorigket - Nationality/
+Nationalité
+DEUTSCH
+
+Geburtsort/Place of birth/L Lieu de naissance
+
+8. Gultig bis / Date of expiry/ 10. Unterschrift der Inhaberin,
+
+Date d expiration
+28.02.2027
+
+des Inhabers - Signature of bearer
+Signature de la titulaire, du titulaire
+
+VXId:H>>NNWdalsnw:NW>>0> TUR
+
+>>>>>>>28CCC:1079>>00693003AXL00

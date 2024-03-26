@@ -1,0 +1,53 @@
+INVOICE
+
+Brand Name
+- :
+Invoice to:
+Dwyane Clark
+24 Dummy Street Area.
+Location, Lorem Ipsum,
+570xx59
+
+Invoices
+Date
+
+52148
+01/ 02 /2020
+
+SL Item Description
+Lorem ipsum Dolor
+2 Pellentesque id neque ligula
+Interdum et malesuada fames
+Vivamus volutpat faucibus
+
+Price
+Ab Total
+$50.00
+$50.00
+$20.00
+560.00
+$10.00
+2
+$20.00
+$90.00
+$90.00
+
+Thank you for your business
+Payment Infor
+Accemns . 121 1470 wora
+AC Name Lermm ipsum
+Bane Detaile A p sank detaile
+Terms & Conditions
+Lerem - deler -it I
+consertetur adipiazing I Furce
+-ghisi pretium censectetur
+
+Sub Total
+Tax:
+Total:
+
+$220.00
+0.00x
+$220.00
+
+Authorised Sign

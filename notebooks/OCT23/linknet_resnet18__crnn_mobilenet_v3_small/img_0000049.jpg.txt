@@ -1,0 +1,83 @@
+WeCount
+d Des Chbe RN
+10OSPWY
+Swirce
+
+Facture
+
+Pour facture n 123456789
+
+Date de facturation 29.05.2021
+Paiement effectué e 28.06.2021
+Numéro de facture 123
+Numéro de client 1
+
+Destinataire :
+Mon client préféré
+Dr. House
+Rue de la comptabilité
+1208 Genève
+Suisse
+
+Emis par Xavier Giard
+Contact client M. L clientXYZ
+Date de la ventelprestation 14.05.2021
+
+Infos additionnelles
+
+Merci d'avoir choisi Mon Entreprise pour nos services.
+
+Service Après Vente - Garantie 1an.
+
+Description
+Main-d' ceuvre
+Produit
+
+Quantités Unités ix unitaire HT TVA %
+
+TVA
+7.7% 115.50CHF
+
+TOTAL TTC
+1615.50CHF
+1039.90 CHF
+
+25
+10
+
+h.
+pce.
+
+60.00 CHF
+103.99 CHF
+
+Total HT
+TVA
+Total TTC
+
+2539.90CHF
+115.50CHF
+2 655.40 CHF
+
+VeCount
+Ch. Des Chênes 10B
+1009 Pully
+Suisse
+N IDENUID EMMMI
+N TVA XXX
+
+Contact
+Xavier Giard
+Téléphone +41
+Email Havier.giardowecount.swiss
+www.weoount.svis:
+
+Coordonnées bancaires
+Banque
+BNP Paribas
+Code banque 10000000
+N de oompte 12345679
+IBAN
+CH58 23411240 C 4
+SVIFTIRIC
+FRHHCXX1001

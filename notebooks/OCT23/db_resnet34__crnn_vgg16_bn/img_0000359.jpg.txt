@@ -1,0 +1,141 @@
+COOVER
+
+BULLETIN DE PAIE
+Priede du AAAA/m/e as dd/mm/vy
+Aeerence bullatin
+5 sour A sociale
+Canigorie
+Emploi
+Date anciennete
+Dibut comar
+Fortail jour
+Con Col
+
+ENTREPRISE
+Adresse
+a Mlla
+SRET
+
+NAF
+
+Code
+
+Cotsations sfane
+Base
+Tau
+Montant
+Bans
+ASST
+10,250
+T 554,62
+1 554,62
+
+Cotisatians empieur
+Taus
+
+tiw de la rhrique
+
+Montant
+
+1001 saluine bnut
+HHMLT SALAIRE AKuT
+Sante
+A03 Camglamentaire Sanse
+RETRATE
+CD3 Srunnd socule pafonnée
+C02 Socurot siala diplafonnée
+cos Complemantain Lranche A
+DoI FAMSAE
+ASSURANKE CHOMAGE
+no1 ASSURANCE C-OMMGE
+
+A01 securst sarat-Maladie Matemite nalis pens
+003 ALCIDNTS Du RAMANL MALADES PRORESSIONNEUE
+
+1 554,62
+1 554,62
+1 $54,62
+1 $54,62
+1 tvss
+1 554,42
+- tvss
+1 t9'vss
+1 554,67
+- cy'vss
+L 227.99
+
+I 554,62
+- 554,42
+6,904
+107,27
+1 554,42
+0,40
+6,22
+- 554,62
+4,014
+62,34
+- 554.62
+- 554,62
+- 554,62
+- 554,62
+:
+105,71
+2,90
+45,08
+- 227,99
+0,001
+apo
+Ey'9LE
+
+700s
+108.82
+0,904
+13,99
+8,555
+132,92
+1,9045
+29,54
+6,015
+3,455
+53.63
+4,204
+1,645
+25,50
+
+FO1 AuTES CONTRBVTIONS ous PAN EMPOYEUR
+HO1 CSG deducele de n-gde ( le nvanu
+01 C56/005 non deducele de Fimple 1r le nnw
+Tor EXONERATONS DE COMSATIONS EMPLOVEUR
+
+MMPI Niet mposable
+PAS2OLS Meserse à e souce
+coTI Total Cotisasions
+
+364,40
+1 227,99
+B Et
+Mo Tane
+o -
+NET A PAYES
+1 23 6E4
+o po
+1 9402
+
+NET A PAYER AVANT IMPOT SUR LE REVENU
+impde sA a rovan
+inpla a e nevenu pleve - a oune
+Domicilation
+IBAN
+BIC
+Beneticaire
+
+dont dyolutien a a Mmuneration le Ala superassion dus cotisatiens cmage at malarie
+
+Bas
+:: 22/4*
+
+Tas personnanise
+a00
+Pyy : smanile agy
+Ntenan de alin amphy
+I - 1r hpliyne

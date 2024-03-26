@@ -1,0 +1,57 @@
+NOM DE VOTRE ENTREPRISE
+
+Slogan de votre entreprise
+
+Adresse
+
+Vile, Etat/Provinon Code Postal
+Telephone 123.450.7890 Fax 123.456.7891
+
+DATE 1/1/2002
+Numero Facture N': 100
+Code client:
+Pro forma valable jusqu'au: 101Jan/02
+Prepare par:
+
+Doit:
+Nom
+Entreprise
+Adresse
+Telephone
+
+Vile, EtatiProvince Code Postal
+
+Facture pro forma
+
+Commentaires ou indications particulieres: Aucun
+
+VENDEUR
+
+NUMÉRO B.C.
+
+DATE EXP.
+
+TRANSIT POINT FOB MODALITÉS
+
+Do a la livraison.
+MONTANT
+
+QUANTITÉ
+
+DESCRIPTION
+
+PRIX UNITAIRE
+
+TVA
+
+TOTAL HT 1
+TVA
+MONTANT DEDUIT
+AUTRES
+TOTAL a
+
+860%
+
+Si vous avez une question concemant la presente facture oud forma, chesisdez pas à nous contacter [NOM N" TEL.
+
+NOUS vous REMERCIONS DE NOUS AVOIR CHOISIS

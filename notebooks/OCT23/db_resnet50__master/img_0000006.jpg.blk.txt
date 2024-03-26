@@ -1,0 +1,19 @@
+[Nom de l'entreprise)
+FACTURE
+[Adresse)
+[ville (Province), Code postal] Téléphone : 000 000-0000
+.N DE FACTURE 2034
+DATE 12-20-8100
+FACTURE A (Nom)
+REF.CLIENT 564
+CONDITIONS Paiement à réception
+[Nom de rentreprise) [Adresse)
+[Ville (Provincel. Code postal) [N de téléphone) (Adresse de courriel)
+DESCRIPTION Frais de service
+OTE PRIX UNITAIRE
+MONTANT
+1 5
+200.00 75.00 (000s)
+200.00 375.00 (50.00)
+Main-d'ceuvre : 5 heures à 75 S rheure
+Remise neanou dient

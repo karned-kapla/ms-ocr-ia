@@ -1,0 +1,73 @@
+Appendia 10
+
+semars in CANCER BIOLOGY Vol I. 0661 : PP 127-136
+
+The role of cathepsin L in malignant transformation
+
+Susan E. Kane and Michael M. Gottesman *
+
+Procathepsin 7 is the major excreted protein of malignantly What is MEP: The first hint as to the identification of
+transformed mouse fibroblasts and it is one or the major MEP came from studies in which MEP was shown to
+acid cysteine proteases in mamalian cells. The broad gen- be a glycoprotein containing mannse 6-phosphate.
+aral protease activity of cathepsin L against a variety of Since mannose 6-phosphate is a Ivsosomal recogni
+extracellular matrix proteins as uell as other intracellular tion marker. it appeared that MEP was a lysosomal
+protein substrates, and its regulation by factors Tuhich stim- protein whose transcription was increased as the
+ulate growth, suggest that it contributes to the transformed result of growth stimulation. A search for hydrolytic
+phenotype. Possible /unctions in antigen processing, inua- activities associated wich purified MEP led to the dis-
+siveness, metastasis, and turnover of intracellular and covery that MEP was an acid protease inhibitable by
+secreted proteins involued in grouth regulation have been leupeptin, which put it in the class of cysteine pro-
+Key words: Cathepsin 1 / growth factors / amor pro- resembled that of cathepsin L.10 However, published
+THE ASSOCIATION of cathepsin L with the process of weights of 21,000 Da and 5000 Da, whereas MEP was
+malignant transformation was first demonstrated in a 39,000 Da protein. This discrepancy was resolved
+1978, when et was found that malignantly trans- when the sequence of MEP CDNA was determined
+formed mouse fibroblasts secrete large amounts of a and its deduced amino acid sequence was compared
+39,000 Da protein into their culture medium. This to the available partial protein sequence of cathepsin
+protein, termed MEP for major excreted protein, was L MEP was found to be the precursor to the lysoso-
+purified to homogeneity and rabbir antisera were mal form of cathepsin L.11 identical to the major cys-
+raised against the purified mouse protein. The anti- teine protease of activated macrophagesi? and the
+sera were found to precipitate an intracellular pro- major ras-induced protein of transformed
+tein which was present in nontransformed cells and fibroblasts. 15 For the remainder of this review, MEP
+synthesized at dramatically increased rates in trans- will be referred to as procathepsin L.
+be the result of elevated amounts oftranslatable MEP tied to growth stimulation in cultured cells? Does the
+mRNA. Later, after a cDNA for MEP was cloned,4 enzymology of cathepsin L indicate anything about
+this high level of mRNA was demonstrated be nuclear its possible function in malignancy? Why is pro-
+run-off siesse to be the result of incrcased transcrip cathepsin L secreted even though it carries lysosomal
+tion. PMA, a phorbol ester tumor promoter, and a recognition markers? How is it processed to yield
+variety of growth factorst. were shown to stimulate mature cathepsin L in lysosomes? How do oncogenes
+MEP synthesis and secretion, suggesting that MEP and growth factors regulate expression of procathep-
+was associated with the process of growth in cultured sin L mRNAP Does cathepsin L play a role in human
+
+proposed.
+
+teases.9 More detailed analysis of the proteolytic
+specificity of MEP on oxidized insulin B chain. a stan-
+dard protease substrate, showed that MEP activity
+data on cathepsin T suggested that the lysosomal
+form of this protease was a protein consisting of two
+polypeptide chains having approximate molecular
+
+moters / oncogenes / secreted proteases
+
+formed cells.2 This increased synthesis was shown to
+
+Why is the synthesis of procathepsin L so closely
+
+fibroblasts.
+
+cancer? This resiew will attempt to provide answers to
+
+these questions.
+
+From the Laboratory of Molecular Biology. Netional Cancer
+Institute. NIH, 9000 Rockpille Pikr. Building 37, Room 2E16.
+Bethesda, MD 20892 USA
+*To anom rebnuts requests should be addressed
+e 1990 by W.B Seunders Company
+1044-579X/90/0102-0104S5.00/0
+
+Enzymology of cathepsin L
+
+Cathepsin L is 15 porent cysteine protease, one of sev
+eral acid proteases presumed to be invoived in the
+
+127

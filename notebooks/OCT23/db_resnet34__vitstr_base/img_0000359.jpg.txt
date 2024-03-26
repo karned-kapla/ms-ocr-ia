@@ -1,0 +1,141 @@
+COOVER
+
+BULLETIN DE PAIE
+Periede du AAAA/Wu//P au dd/mm/Ym
+Reference bullatin
+5 Hour me scclale
+Catigorie
+Emploi
+Date ancieneté
+Dabut comrar
+Fortair jour
+Cone Coll.
+
+ENTREPRISE
+Adresse
+B Vill
+SRET
+
+NAF
+
+Code
+
+Cotisations ware
+Base
+Taux
+Montant
+Bane
+E9TS
+10,250
+T 554,62
+1 554,62
+
+Cotications emploeerr
+Taux
+
+Leelle de la rubrique
+
+Montant
+
+1001 Salaire brut
+BRUI SALAIRE BRUT
+Sinte
+AD3 Complementaire Sarce
+RETRAITE
+CD Serunne sociae elafonnee
+CD2 5ecurn vecial diplafonnde
+cos Complemantaire Franche A
+DOL FAMBLE
+ASSURANCE CHDMAGE
+to1 ASSUBANCE C-OMAGE
+
+A01 5ocurbe socale-Maladie Maternite i Dech
+B03 ACCIDINTS DU IRAVAIL MALADISS PROFESSIONNELLEY
+
+L 554,62
+1 554,52
+1 554,62
+- 554,62
+- ts'
+1 554,62
+- E9
+1 t9'vss
+1 514,62
+a 29'1
+L 227.99
+
+L 554,62
+m 554422
+6,90%
+107,27
+1 554442
+0,40%
+6,22
+in 554,62
+4,01
+62,34
+E 554,62
+- 554,62
+- 554,62
+. 554,62
+-
+105,71
+2,90
+45.0R
+- 227,99
+0,00%
+000
+E9'SCE
+
+7,00
+108,82
+0,90%
+13,99
+8,55N
+132,92
+1,90N
+29,54
+6,01
+3,45
+53.63
+4,20%
+1,64N
+25,50
+
+FO1 AUTRES CONTRISUTIONS oues PAR LEMPOYYEU
+HOL CSG déductere de rimod [ le revenu
+D CSG/CRDS nos ceductele de rimpl ser le revenu
+sor EXONERATIONS DE COTSATIONS EMPLOYEUR
+
+MP1 Net imposable
+PAS20L8 Betenue 4 e sounce
+cOT Total Cotisations
+
+364,40
+1 220,99
+u E
+Mod lant
+0 0
+NET A PAYER
+1 22 GE
+P po
+1 940022
+
+NET A PAYER AVANT IMPOT SUR LE REVENU
+impde sur a roveni
+implt sur a revenu preleve a a source
+Domiciliation
+IBAN
+RIC
+Beneticuire
+
+dont dvolutien a a remunération lel ala suppression dus cotisation chomage e malade
+
+Bese
+12 27.99
+
+Tau personnalise
+0,00
+Pae s shrmenile aginnyr
+Arvermen de cannaiion amplaye
+E - - hemplupe

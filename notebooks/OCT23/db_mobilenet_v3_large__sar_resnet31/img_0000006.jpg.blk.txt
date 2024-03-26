@@ -1,0 +1,19 @@
+[Nom de l'entreprise)
+FACTURE
+[Adresse]
+IVille (Province), Code postal) Téléphone : 000 000-0000
+.N 30 FACTURE 2034
+DATE LC-CO-SIOC
+FACTURE A (Nom)
+REF.CLIENT 564
+CONDITIONS Paiement e réception
+[Nom de rentreprise) [Adresse)
+(Ville (Province), Code postal) NI de téléphone) (Adresse de courriel
+DESCRIPTION Frais de service
+QTE PRIX UNITAIRE
+MONTANT
+- . The
+200.00 75.00 (ooros)
+200.00 375.00 (0005)
+Main-d'ceure : 5 heures à 75 S rheure
+Remise nouveau client

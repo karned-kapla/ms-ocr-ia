@@ -1,0 +1,21 @@
+FACTURE
+SAUCISSES SA 81-8S Cours Albert Thomas, 69003 Lyon, Teléphone: +33 12 545 6789 Fas +33 12 345 6789 Emai: reservation.ssecissuchscxegmatlcom . saucisnes.com
+N:123
+France
+DETAILLE DE FACTURE:
+Date de facture Sujet Montant Totale FACTURA A: NOMBRE DIRECCION TELÉFONO CORREO FLECTRONICO
+22 de abril de 2019 Jambons et saucise 8ODE Jorge Santos Calle Canteros 68, Huelva, Expaia +34 123 456 789 Jorgeanton@igmail.com
+9 TIPO DE ARTICULO 01 Jambons et saucimes
+DESCRIPCION Jambons 100% Expagnole
+OTY PRECIO 325€ 3 220€
+IMPORTE 325€ 660E
+02 Jambons et saucises premium Jambons et saucisses premium 7Kg
+03 04 05 06 07
+SOUS-TOTAL TVA (502) REMISE (5601)
+985€ 206.85€ SHI6IT
+MONTANT TOTALE 1.072.66
+METHODE DE PAIEMENT NOMBRE DEL BANCO SUJET NOM
+CONDITIONS GÉNÉRALES Auamentiunt undit a ccusS et aur magnis a solorum autas digento cr  rematum sed estimum hi me tenit a reat maio blat laccarit temquam voloribus aut magins a maio hil
+Ret Everum Bank 1710042019 Débora Consedus
+solorum
+Merci pour votre service.

@@ -1,0 +1,140 @@
+COOVER
+
+BULLETIN DE PAIE
+Periode du da/mm/wYY au dd/mm/n
+Reserence bullatin
+N socuree sociule
+Catigorie
+Emploi
+Date anciennese
+Debut centrat
+Fortait jour
+Canv. Coll
+
+ENTREPRISE
+Adresse
+CP vae
+SRET
+
+NAF
+
+Code
+
+Cothaaions alarie
+Base
+Taux
+Montant
+Bane
+49'est
+10,250
+1 554,22
+1 a9'SS
+
+Cotiations employ 1
+Taur
+
+Ubele de a anbuena
+
+Montane
+
+1001 Salaire brut
+BRUIT SALAIRE BRUT
+Sante
+AD3 Complementaire Santé
+RETRAITE
+CP1 securne sociale plafonnde
+€ Sécurite vocall deplutonnde
+cOS Complemantaire Franche A
+DOL FAMBLE
+ASSURANCE CHOMAGE
+B01 ASSURANCE C-OMAGE
+
+A01 Securité sociale-Maladie Maternite invitiite Dech
+D21 ACCIDENTS DU TRAVAIL MALADIES PROFESSIONNELLES
+
+554,62
+e9's
+554,62
+554,62
+554,62
+a 554,52
+t9'vss
+29v
+a 29'1s
+c9
+1227,99
+
+t9
+7,00
+108.82
+155462
+WO6'0
+6EET
+6,90
+107,27
+155462
+8,55N
+CeTE
+0440
+6222
+554,22
+1,90N
+1so
+401%
+62,34
+55442
+6,018
+554,62
+3,45
+Ese
+55452
+4,20%
+1554,62
+1,64N
+25,50
+ER0
+105,71
+2.90
+45,08
+1227,99
+0,00
+0,00
+E9'CE
+
+FOL AUTRES NNoungi oues PAR LEMPLOYEUR
+HOL CSG déductere de 1 - le revenu
+01 CSG/CRDS nos deductble de rimpot - le revenu
+111 EXONERATIONS DE COTISATIONS EMPLOYEUR
+
+IMPL Nut imposable
+PAS20L8 Retenue * e sounce
+cOT Total Cotisations
+
+364,40
+22p 7,99
+a a
+Mor Lne
+- a
+NET v PAYER
+a e GE
+0 0
+20055
+
+NET A PAYER AVANT IMPOT SUR LE REVENU
+impdt sur le revenu
+Impor sur a revenu preleve à l source
+Domiciliation
+IBAN
+BIC
+Bendficiaire
+
+dont cevolution a la remunération le ala uomaiddm des cotisations chomage et malade
+
+Base
+à 27.99
+
+Taux personnalise
+0,00
+2 a whemantie aqieny
+anggme a colivatinn emairyur
+E w 1 ferradr

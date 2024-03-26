@@ -1,0 +1,63 @@
+EXPERIMENTAL PARASITOLOGY 70, 111-113 (1990)
+
+MINIREVIEW
+Viruses of Protozoan Parasites
+JEAN L. PATTERSON
+
+Division of Infectious Diseases. Children's Hospital and Department of Microbiology and Molecular
+Genetics, Harvard Medical School, Boston, Massachusetts 02115, U.S.A.
+PATTERSON, J. L. 1990. Viruses of protozoan parasites. Experimental Parasitolog 70,
+The study of bacteriophages and viruses has pro- rus-like particles does not conciusively prove that a
+vided important leads in our understanding of the con- virus has been discovered. It is also important to con-
+trol of gene expression, RNA processing. and transla- sider the question: How does one isolate a lytic agent
+tion. The early work with bacteriophages enormously from an infecting microorganism? Presumably, .s the
+assisted in the development of modern molecular bac- in vitro culturing of infectious organisms, those that
+teriology. Since they are by definition obligate para- survive are resistant to cocultivating lytic agebts.
+sites of the eucaryotic cell, viruses have been essential Therefore. one € only isolate noniytically infected or
+in helping to elucidate eucaryotic gene regulation. persistently infected organisms. It appears that all vi-
+They must conform to all the prerequisites that allow ral systems of protozoan parasites, studied to date.
+for gene expression within a host and, not surprisingly, have accomplished just this. There have been several
+many of the models underlying present concepts of reports of the moiecular characterization of viruses in
+eucaryotic gene regulation are based on experiment: parasitic protozoa and these characterizations are crit-
+originally done with animal viruses. For example, ical in establishing the existence of a viral system.
+RNA splicing was first discovered in adenovirus (Ber- Wang and Wang (1986a) reported the presence of a
+get el al. 1977) and ironically much of our knowledge double-stranded (ds) RNA virus in Giardia lamblia. In
+of the function in translation of the mRNA cap struc- general, all of the work on the nature of RNA viruses
+ture is based on work with poliovirus, a virus which in protozoans has been derived from viral molecules
+does not have cap (sce Ehrenfeld 1982). Furthermore. isolated from the infected parasite. The double-
+studies with vesicular stomatitis virus (VSV) bave stranded RNA virus in G. lamblia is no exception. An
+given interesting insights into mRNA ribonucleopro associated nucleic acid found in the infected parasite
+tein complexes (Adam et al. 1986). The understanding appeared to be approximately 7 kb. Susceptibility of
+of some DNA virus's tissue tropism has delineated the ribonucleases in low a and insensitivity in high salt
+molecular basis of tissue specific suat expression, supported the hypotbesis that it was double-stranded.
+such a the function of tissue specific transcription Subcellular fractionation indicated that the dsRNA
+factors and enhancers (Freund et al. 1987; Gloss et al. could be found associated with the nuclear fraction.
+1987). The successful use of viruses as molecular tools Electron micrographs sbowed that the virus had an
+and models has been facilitated by their small genome estimated size of 33 nm. The RNA could be labeled
+size and small number of genes, a well as by the un- with "P-labeied pCp at the 3' end with T4 RNA ligase
+usual abundance of viral transcripts and proteins in and used a a probe and therefore was not circular.
+infected cells. These considerations highlight the po- There was a major protein band estimated at a molec-
+tential value of viruses for the study of parasitic or- ular weight of 66.000 Da. 2 an added advantage, the
+ganisms. Indeed. the lag is our understanding of gene virus could be used to infect other strains of Giardia
+Early experiments in the quest for viruses of para- parasitic protozoan, Trichomonas vaginalis (Wang
+sites o1 a great extent depended on electron micro- and Wang 1985). EM analysis of the RNA indicated a
+scopic examination (Molyneux 1974; Molyneux and linear double-stranded structure of 1.5 E in length,
+Heywood 1984; Croft and Molyneux 1979). Although with no apparent hairpins or loops. Later this double-
+this method is common, the end result is frequently stranded RNA was found to be between 5 and 6 kb and
+frustration. More importantly, the appearance of vi- associated with a virus (Wang and Wang 1986b). This
+
+111-113. e 1990 Academie Press, Ine
+
+regulation of parasites may be due. in large part, to the (Wang and Wang 1986a).
+
+lack of defined viral systems.
+
+A double-stranded RNA was identified in another
+
+111
+
+0014-4894/90 $3.00
+Copynight o 1990 S Academic Pres,, Lac.
+AD - of reproduction a any form rescrved
+
+50596949

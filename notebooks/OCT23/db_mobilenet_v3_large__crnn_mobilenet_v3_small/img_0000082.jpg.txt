@@ -1,0 +1,41 @@
+ASL
+- - : : :
+
+:
+
+a RANC
+2 SDENTITE
+MARTN
+
+REPUBLIQUE
+CART a 1T TONALLE
+
+Prinoms Siven names
+Matlis
+SEXE iSex
+FRA
+a DENASSARICE Place ofbirth
+LEU
+A ARIS TAltemate name
+HOMDUSAGE
+N €
+
+Cablle. - Marie
+
+Date -
+
+OAA , ENN
+
+NATIONAUTE Nationalty 2 OT - 1999
+
+date
+2 022030
+
+NOM - - a USAGE OATEDE/PRU Expiry
+
+usage DOCUMENT DocumentNo
+MYDFZAREA
+
+920442
+
+Slanature

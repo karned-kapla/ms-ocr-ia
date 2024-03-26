@@ -1,0 +1,193 @@
+496036
+SAS LABO DE a PAYE
+1RUE ROYALE
+75013 PARIS
+Siret - 52999999999999 Code NAF : 62037
+Urssaf 78079999999999999999 MONTREUIL CEDEX
+a N-1
+CPN
+Acquis
+0.00
+2.50 -
+Total pris 0.00 / 0.00 /
+Solde :
+0.00 a 2.50
+Matricule :
+Entre lel le 01/03/2013
+Emploi
+Qualif: ETAM
+
+BULLETIN DE SALAIRE
+
+Periode Mars 2013
+Paiement le . 31/03/2013
+P 01/03/2013
+MR DE LA PAYE JEAN
+1 RUE PETIT
+75013 PARIS
+01/03/2013
+
+Au 31/03/2013
+
+47 NoSec: 180099999999999
+ADMINISTRATEUR JUNIOR
+
+Anciennete 4
+Base
+151.67
+
+Classif: d 22
+
+Coeff: 310.0000 SMIC horaire . 9.43 Plafond Secu : 3086.00
+
+Rubriques
+SALAIRE DE BASE
+SALAIRE BRUT
+EP01 UPSSAF-Haladie-4em.-Inval
+EP02 URSSAF SOLIDARITE
+EPOS URSSAF ACCIDENT DU TRAVAIL
+EPD4 URSSAF ALLOC. FANILIALES
+FPOS URSSAF ASS. VIFILLESS PLAF.
+EPDE URSSAF ASS. VIEILLESSE DEPLAF
+EPO7 FNAL
+EFE2 REDUCTION FILLON TEPA 2012
+EP12 ASSEDIC Tr. a
+EP19 FONDS DE GARANTIE (AGS)
+EP20 RETRAITE ARROO NC T1
+EPR1 AGFF X TRANCHE 1
+E951 PREV. NC TA
+EP28 TAXE APPENTISSACE
+EP29 FORMATION CONTINU
+EP37 CSG DEDUCTIELE
+EWFS FORFAIT SOCIAL
+TOTAL : RETENJES
+
+Taux salarial Montant salarial Taux patronal Cot.Patronales
+
+11.0984
+
+1683.30
+1683.30
+
+1683.30
+1683.30
+1083.30
+1083.30
+1683.30
+1683.30
+1683.30
+1683.30
+1683.30
+1683.30
+1083.30
+1683.30
+1683.30
+1083.30
+1600.07
+6.23
+
+0.7500
+6.7500
+0.1000
+2.4000
+3.0000
+0.8000
+0.3700
+5.1000
+
+12.62
+113.62
+1.68
+40.40
+50.50
+13.47
+6.23
+84.06
+323.18
+
+12.8000
+0.3000
+1.2000
+5.4000
+8.4000
+1.6000
+0.1000
+0000001-
+4.0000
+0.3000
+4.5000
+1.2000
+0.3700
+0.6800
+0.5500
+8.0000
+
+215.46
+5.05
+20.20
+90.00
+141.40
+26.93
+1.68
+-283.47
+67.33
+5.05
+75.75
+20.20
+6.23
+11.45
+9.20
+0.50
+413.92
+
+NET DPOSARLE
+SP01 URSSAF CSG MON Denctiel
+SPO2 URSSAF CROS
+SPDO REMBOURSEMENT TRANSPORT
+NET A PAYER
+Heures periode
+Cumul heures
+Cumul h.sup
+Solde rep.remp.
+Solde rep.recup.
+
+1360.12
+32.55
+1344.53
+
+1660.07
+1000.07
+22.55
+
+2.4000
+0.5000
+
+39.84
+8.30
+
+151.67 Cumul baces
+151.67 Cumul bruts
+0.00 Cumul imposable
+Cum H.Majorees
+
+1683.30 Paiement
+1683.30
+1360.12 par virement
+0.00
+
+Total cot.patronales
+Total des retenues
+Cout global période
+NET A PAYER
+
+413.92
+785.24
+2097.22
+1344.53 Euros
+
+Bureaux d'études techniques, cabinets d'ingénieurs-comsella
+
+sociétés de conseils (CICF SYNTEC)
+
+A defant de Commation Collecave - Code 4 travail Durce des conges spind art.341-147.14.12 Durde preana artL.1237-1 er. L1234-1
+Dana votre interiet et pour vous aider a faire valoir vos draits. conservez ce bulletin de paie sans limitation de dunie.

@@ -1,0 +1,17 @@
+[VOTRE SOCIETE]
+[Choisir une date)
+N" DE LA FACTURE1234
+Festurer à Client N" ref cilent Adresse Telephone Vendeur Modalite de paiement Quantite
+Adresse de Evraison Destinataire Adresse Telephene
+Nom du dient (Entreprise) Rer client Adressel (Vile, Pays, Code Impos (Telephone) Nom du vendeur) Modainel N d'article
+piom du destinatairel Entreprise) [Adressel (vite, Pays, Code postal [Telephonel
+Date de paiement [Cholair une datel
+Date de tivraison [Choisir une date) Mode de Ivraison Mode de Ivraisont
+Modatite de Ivraison Prix unitaire
+Modalineg
+Total de la ligne (evant I
+Description
+Remise
+Total de la romisa Sous-total Taxes ventes Total
+Nous vous remercions de votre confiance. [Addresse, Code postal, Ville) - Adresse wets P (Telephonel - tgTelecopiel - [Adresse de messagerie)
+(Vetre seciese)

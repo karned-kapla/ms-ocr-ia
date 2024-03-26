@@ -1,0 +1,109 @@
+Bellomy Research, Inc.
+4025 UNIVERSITY PARKWAY
+WINSTON-SALEM, N.C. 27106
+
+Job #86127
+June, 1986
+
+TEST P1
+RJR PRE-RITT TEST VALLIDATION
+(WALKER #70301)
+
+NAME:
+TELEPHONE :
+
+TTVA RECORD
+1
+-2
+Completed
+Not At
+Interview
+Home
+-
+)
+)
+- -
+
+1
+1
+-5
+No Such
+Other
+Refused Person (AdIDads)
+1 a
+-
+-
+- -
+)
+- -
+
+Callback
+Appointment
+Date Time
+
+Attempt
+Number
+7
+1
+1
+
+(ASK TO SPEAK TO PERSON WHOSE NAME APPEARS ABOVE.)
+
+Hello, I'm
+
+from Bellomy Research, Inc. I'm calling to thank you for
+
+participating in a recent test and to check some information.
+
+1. In the past two weeks did you participate in a cigarette study in which you tested some cigarettes
+
+Yes.
+No.
+
+-1 SKIP TO Q.3
+2
+
+2. Do you smoke cigarettes?
+
+Yes
+No
+
+TERMINATE
+
+3. Hhat did the vrappers on the packs of cigarettes you tested look like? (DO NOT READ)
+
+white/Plain or white/Generic.
+Other (A4103dS)
+Don' t remember.
+
+1
+2
+
+4a. What was your usual brand of cigarettes when you started the cigarette test? (DO NOT READ)
+
+Correct
+Brand Circled
+C-
+
+Respondent
+Answer
+-2
+- (SPECIFY
+
+Mar lboro
+Winston
+Other.
+
+4b. What type of cigarette is that? Is it Full Flavor, Low Tar or Ultra Low Tar?
+
+Correct
+Type Circled
+2
+
+Respondent
+Answer
+2
+
+Full Flavor
+Low Tar.
+Ultra Lov Tar

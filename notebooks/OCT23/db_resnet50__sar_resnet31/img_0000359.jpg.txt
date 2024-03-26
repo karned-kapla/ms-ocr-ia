@@ -1,0 +1,141 @@
+COOVER
+
+BULLETIN DE PAIE
+Periode du ad/mm/my au dd/mm/m
+hederence bulletin
+5 securke sociale
+Catigorie
+Emploi
+Date anciennes
+Debut comrat
+Fortalt jour
+Conv 3
+
+ENTREPRISE
+Acriste
+d3 Vilie
+SIRET
+
+NAF
+
+Code
+
+Cotisations salare
+Cotisations
+emplastur
+Base
+Taux
+Mentant
+Base
+I
+Montant
+151,67
+10,250
+1 554,62
+1 1554,62
+
+Lasil
+de a rubrique
+
+1001 Salaire brut
+BRUTI SALAIRE DAUT
+Sante
+A03 Complémentaire Sant
+RETRAITE
+co3 socural socule plafonnde
+caz 50curiot sociale deplatomne
+cas Camplamentaire Tranche A
+DOL FAMILLE
+ASSURANCE CHOMAGE
+roi ASSURANCE CHOMAGE
+
+ADI socural socale-Maladie Maternite awalidite Déphis
+nos ACCIDENTS DU S3NVIVINANAL PROFASSIONNELLE
+
+zy'ssst
+ts'sst
+a'Psst
+1 554,52
+- 1554,62
+T 554,52
+T 554,52
+1 554,52
+1 554,52
+T 554,52
+1227,99
+
+1554,62
+a 554,62
+6.90
+107,27
+11 55462
+0,40%
+6,22
+a 55462
+401%
+62,34
+1 554,62
+1 55462
+4 554,62
+T 154,62
+6.800
+105,71
+2.90%
+45,00
+1227,99
+0.00%
+0,00
+E99CE
+
+7,005
+108,82
+0,905
+66'ET
+8,555
+132,92
+1,905
+29,54
+with
+3.45%
+ESES
+4,20%
+1,645
+25,50
+
+FOI AUTRES CONTKISUNS DUES PAR CEMPLOYEUR
+HOL CS6 deductele de 1 I le nevenu
+05 CSG/CRDS non defuctible de rimpot - le Fevenu
+101 DIONERATIONS or consanons EMPLOYEUR
+
+IMPI Net Imposable
+PAS2018 Heserse à a sounce
+COTI Total Coonations
+
+364,40
+1: 227,99
+23 33
+Mar tant
+D 00
+NET. A PAYER
+124 664
+o od
+coret
+
+NET A PAYER AVANT IMPOT SUR LE REVENU
+imolt sur a revenu
+imolt sur a revenu preleve a a source
+Domiciliation
+IBAN
+BIC
+Benenciaire
+
+dont duolution de e Nmuneration We a le suppression des cotisations chomage at malade
+
+Race
+: GELZE
+
+Taux personnalis
+G.00%
+Lotar - a atimm
+And 1 - ampline
+Datal - gar lemeler

@@ -1,0 +1,22 @@
+BULLETIN DE PAIE
+Edité le 11/11/2019 2019 Janvier
+Année Mois
+Nature Paie Salaire Mensuel
+Matricule Employeur Matricule 01 Affectation Emploi Code 100 200 210 240 250 400 470 500 Note
+Statut Personnel Mensuel
+Régime Horraire 48 Etat Civil Nbre Enfants
+Nom Omar
+Prénom Nasraoui Nombre 26,00
+Matricule Organisme 123456
+Direction Financiére
+Catégorie Nombre
+Echelle Gains 26,00 0.00 0,00 0.00 0.00 0.00 0,00 0.00
+Echelon Salaire de base
+800,000 Retenues 800,000 800,000 0,000 726,560 0,000 664,875 664,875 664,875 Net à Payer
+Libellé salaire de base Salaire Brut CNS.S Salaire Imposable Impôts
+0,000 0,000 73,440 0.000 61,685 0.000 0,000 0.000 664,875
+Net à payer avant diduction Net à payer hors arrondi Net à Payer 0,00 Conges en jours depuis e début de l'année
+Mode de paiement Espèces
+Banque Agence Compte
+Droit Pris Solde Solde RC Emargement
+0.00 0.00 0,00 0.00

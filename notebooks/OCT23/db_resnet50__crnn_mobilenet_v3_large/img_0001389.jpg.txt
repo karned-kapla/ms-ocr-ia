@@ -1,0 +1,73 @@
+TRUE CIGARETTES
+PRODUCT TEST
+-BELGIUM-
+
+Respondent Name
+Address
+Phone -
+Inv.
+Date
+
+Keypunch Duplicate
+(Cols. 1-12)
+
+Card 12 -2 (13)
+
+ESTABLISH CONTACT WITH THE PERSON WHO WAS GIVEN THE CIGARETTES.
+
+Hello, I'm Mrs.
+
+of Burke Marketing Research, the company which asked you to
+
+test somo clgarettes last week.
+
+I. How many packs of the clgarettes that we left have you smoked?
+
+of packs
+
+(14)
+
+IF LESS THAN 2 1/2 (50 cigarettes) PACKS, ASK RESPONDENT TO SMOKE THEM FOR ONE
+
+MORE DAY AND ARRANGE TO CALL BACK TOMORROW.
+
+Keypunch Skip
+(15-24)
+
+2.
+
+Let's begin with your Interest In buying True, now that you've tried them. HAND
+CARD #4. Suppose tho only brands of cigarettes you could buy wore those four
+If you were golng to buy a total of ten Individual packs of cigarettes, how
+You can buy as Auew or as fow packs of each brand as you want. You can buy as
+many as ten packs of one brand or no packs. But your total purchases must add
+
+brands listed on this card.
+
+many packs of each brand listed on this card would you buy?
+
+<
+
+dn to ten packs,
+
+BEGIN READING WITH X'ed PHRASE.
+a 1 ) How many packs of
+C ) How many packs of
+€ . - How many packs of
+
+WRITE NI NUMBER OF PACKS
+YOU OT00M PURCHASE
+
+How many packs of True would you buy?
+
+(25)
+(26)
+(27)
+(28)
+84044440
+
+would you buy?
+would you buy?
+would you buy?
+
+Total 10

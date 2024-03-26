@@ -1,0 +1,265 @@
+Bulletin de PAIE
+
+L'unite monétaire uslisée est rEuro
+
+AF CONSULTING
+1 Boulevard de roise
+95030 CERGY PONTOISE
+
+15 Paye du
+Matricule
+11 N Sécurité Sociale 179027535011061
+1o Emploi
+Qualfication Niveau iII
+Coefficient
+13 Date ancienneté 01/02/2007
+12 Entrée le
+14
+16 Heures payées 153,670
+W Plafond période 2 946,00
+RUBRIQUES
+18 Salare de base
+a Heures seplementaires a3
+Absences conges payes les L a 41
+24 indemnisation conges payts
+21 Prme 13eme mois mensuelle
+B Avantages u nature voiture
+Assurance maadie
+Assurance viellesse plafonnée
+2
+Aasucande viellesse deplafonnee
+Assurance viellesse deplatonnee
+27 Accident du traval
+28 Allocations famlales
+s2 FNAL platonne
+OC Contbution solidante autonomie
+SE Aseurance chomage AC
+34 AGS
+AGFF TA
+054
+AGFF TB
+Retrate complementare TA
+364
+Retrate complamentare a
+37 Cotisation CT
+APEC TA
+
+APEC TB
+40 Prevovance Cadre TA
+41 Mutuelle Cadre TA
+45 Taxe apprentissage
+464 Participation formation
+Participation formation atemance
+a CSG déductible
+Net imposatie
+44 CSG-CRDS non deductibile
+45 Care orange
+se Acompte
+51 Saise amet
+Avantages voiture a deduire
+49 Tles-restaurant Partiopation saanale
+RFOLET
+LE
+CUMUL BRUT
+3 999.35
+CONGES
+Dos
+CP. 2
+25.000
+*
+CP.N
+14.560
+
+0101/2011 au 31/01/2011
+Gestionnaire paie
+01/02/2007
+
+. Sécurité Sociale 780234450540010116 MONTRFUH CEDEX
+
+4 NAF
+
+7022Z
+Mr PAIE Jean
+1 Rue du Bourg
+75000 PARIS
+BASE
+TAUX
+151.67
+23.078
+2.00
+28.848
+200
+161.535
+2.00
+161.535
+a 999.35
+0750 -
+2946.00
+6650%
+E 999.35
+999.35
+0,100 /
+- 999.35
+900.35
+946,00
+990.35
+900.35
+2,400
+SE'666
+h $46.00
+0800
+063,35
+0.900
+946.00
+3.000
+053.35
+7.700
+a 999.35
+0.130 -
+940.00
+0.024
+053,35
+0.024 a
+046,00
+2946,00
+2.000 a
+900,35
+900,35
+3999.35
+007,96
+5100%
+4007,06
+2000 -
+60,40
+50.000
+15.00
+5.000
+
+SIRET 49405139400034 6
+
+T: 153,670
+
+A DEDUIRE
+
+A PAYER
+Taux
+350000
+-
+-32307
+323.07
+29166
+150.00
+- 999,35
+-3000 12.800 .
+-19591
+8.300
+1600 .
+400
+1100
+5400
+0,100
+0300
+0508
+- 000
+n4n
+-2357
+1.200 -
+948
+1,300 -
+-6838
+440 -
+-81.11 12.600 -
+620
+0220 -
+-071
+0030
+0.25
+003
+1,500
+-5892
+3000
+0680 a
+0400 -
+0.150 a
+20441
+-797,92
+3201.43
+-11623
+-914,15
+30.20
+20000
+-11000
+-15000
+-7500
+NET A PAYER
+s
+2 580,40
+CUMUL HEURES
+* 946,00
+153,670
+REPOS
+Dis
+RTT
+RC
+
+CHARGES PATRONALES
+
+Maatant
+
+Total brut
+
+-51192
+-24452
+63.90
+43.99
+215.96
+20
++12.00
+150.97
++1600
+3535
+1360
+-132.57
+-132.72
+-
+-1.00
+-
+44.19
+-6838
+27,20
+1600
+600
+- 777.54
+777,64
+
+Total des charges
+Total general dea charges
+
+CUMUL CHARGES PAT,
+1 777,64
+COUT GLOBAL
+5 776,99
+Acquis PrisPayés
+Restant
+
+CHEQUE
+31/01/2011 54
+3 999,35
+Acquis
+2080
+
+CUMBASE SSociale CUMUL IMPOSABLE PLAFOND SSociale
+
+ 3201,43
+Restant
+16000
+16640
+
+Pris
+9000
+
+Bases
+
+u U Prestataires de services dans a domaine du secteur tertiaire (0)
+
+DANS VOTRE INTERET ET POUR vous AIDER A FARE VALOIR vos DRITS CONSERVEZ CE BULLETN DE PAIE SANS LASTATION DE DUREE

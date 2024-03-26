@@ -1,0 +1,86 @@
+FACTURE
+
+SAUCISSES SA
+81-85 Cours Albert Thomas, 69003 Lyon,
+Telephone: +33 12 345 6789
+Fax +33 12 345 6789
+Email: reservation.saucissidematicon
+www. saucisses.com
+
+N:123
+
+France
+
+DETAILLE DE FACTURE:
+
+Date de facture
+Sujet
+Montant Totale
+FACTURA A:
+NOMBRE
+DIRECCION
+TELEFONO
+CORREO ELECTRONICO
+
+22 de abril de 2019
+Jambons et saucisses
+SODE
+Jorge Santos
+Calle Canteros 68, Huelva, Expaila
++34 A 2
+lorgesantos@gmall.com
+
+NO OdLL DEARTICULO
+01 Jambons et sauciases
+
+DESCRIPCION
+Jambons 100% Espagnole
+
+QTY
+1
+al
+
+PRECIO
+325E
+220F
+
+IMPORTE
+325E
+660E
+
+02 Jambons et saucisses premium Jambons et saucisses premium 7Kg
+
+03
+04
+05
+06
+07
+
+SOUS-TOTAL
+TVA (20%)
+REMISE (10%)
+
+985E
+206.856
+119.185
+
+MONTANT TOTALE 1.072.66
+
+METHODE DE PAIEMENT
+NOMBRE DEL BANCO
+SUJET
+NOM
+
+CONDITIONS GENERALES
+Auamentiumt undit accus et aut magnis a
+solorum autas digento com rematums sed
+estimum hil mo tenit a red maie blat laccarit
+temquam voloribus aut surateu a ocetal hil
+
+Ret Everum Bank
+1710042019
+Debara Consedus
+
+solorum.
+
+Merci pour votre service.

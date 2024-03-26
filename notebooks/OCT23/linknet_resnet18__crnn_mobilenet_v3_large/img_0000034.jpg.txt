@@ -1,0 +1,108 @@
+Nom de la société
+Siogan de vote socute
+Adresse.
+Ville, Province Code postal
+
+FACTURE
+NUMERO DE FACTURE
+DATE - ENTHEZ LA DATE
+
+Teléphone - Entrez le numen de téléphone
+Télécopieur 1 Entrez le numero de télécopieur
+
+A:
+Nom du client
+Nom de la société
+Adresse. Vile, Province
+Code postal
+
+DESCRIPTION
+
+Description du projet ou du service
+BON DE COMMANDE Numero
+
+DESCRIPTION
+
+MEURES
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+
+TAUX
+Taux
+Taux
+Taux
+Taux
+Tauxe
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+
+MONTANT
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+TOTAL MONTANT
+
+Entrez la description -
+intrez la description 2
+Entrez a description 3
+Entrez la description 4
+Entrez la description a
+Entrez la description 6
+Entrez la description L
+Entrez la description 8
+Entrez la description 9
+Entrez la description 10
+Entrea la description 11
+Entrez la description 12
+Entrez la description 13
+Entrez la description 14
+Entrez la description 15
+Entrez la description 16
+Entrez la description 17
+
+Veuilloz libeller tous les cheques à Fondre de Nom de la société
+
+Montant total dû dans 15 jours. Les palements - souffrance font robjet de frais de service de 1 %
+
+par mois.
+
+Nous vous remercions de votre confiance.

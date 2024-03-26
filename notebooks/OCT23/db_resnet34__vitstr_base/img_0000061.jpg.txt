@@ -1,0 +1,27 @@
+Email
+Préngm & Nom
+edcesse
+
+Invoice Date:
+171h March 2020
+Invoice Number:
+INV001
+ABN Number:
+
+INVOICE
+Nom du client
+Adresse du client
+Description
+Taches.effectuues
+
+Unit
+-
+
+Price/unit
+200 AUD
+TOTAL
+
+Amount
+200 AUD
+
+200AUD

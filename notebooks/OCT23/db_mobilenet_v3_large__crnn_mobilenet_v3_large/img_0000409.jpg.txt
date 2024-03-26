@@ -1,0 +1,172 @@
+Bulletin
+
+Logo
+
+de paie
+
+Employeur
+Nom
+Adresse
+CP et Vile
+Numéro APE
+Numéro SIRET:
+Numero Urssaf
+Convention collective
+Salaire de base
+Heures Supp à €
+Heures Supp à 50%
+SALAIRE BRUT
+
+Salarié:
+Nom et Prénom
+Adresse
+CP et Ville
+N 58
+Emploi
+Coefficient
+
+Periode
+Debut
+Fin
+Debut contrat
+Date d'anciennete
+
+Base
+151,67
+0
+D
+
+Taux
+19.78
+2473
+29.67
+
+A Payer
+000.03 €
+0.00 €
+0,00
+- 000.03 €
+Employeur
+Montant
+Base
+69,84€
+14,55
+197,88
+22,50
+196,50 €
+
+Plafond 8s
+
+3311,00 €
+
+Cotisations et contributions sociales
+CSG you déductible
+CRDS non déductible
+Ceg déductible
+Sécurté sociale
+Assurance maladie
+Assurance vieillesse
+AV deplafonée
+AV plafonnée
+Accidents du travail
+Allocation familiales
+Aide au logement
+AL diiplafonée
+AL plafonnée
+Assedic
+
+Salarie
+Base
+Taux
+2 910,03 € 2,40 %
+2910,03 € 0,50 %
+2 910,03 € 6,80 %
+3 000,03 € 0.75 %
+e E0'000 € 6,55 %
+
+Taux
+000,03 a 12,80 %
+a 000.03
+1,90 %
+3000.03 € 8,55 %
+000.03
+7,30 %
+3000.03 € 5.25 %
+m 000.03 - 0.40 %
+a 000.03 . 0.10%
+72,00
+000,03 € 4,00 %
+0.00 +
+000€
+4.00 -
+000.03 € 0,40 %
+114.00 E0000E . 570 %
+0,00€
+0.00
+10.30 %
+687.28
+Net à payer
+Salaire net imposable
+
+Montant
+384.00 €
+57,00
+256.50 €
+219.00
+157.50 *
+12,00
+3.00
+120.00 €
+0.00 €
+12.00€
+171.00 €
+0.00 €
+1392.02 €
+2 312,76 €
+2 382,60 €
+N
+N
+2.5
+2.5
+
+Assurance chomage tranche A
+Assurance chomage tranche B
+Assurance chomage tranche AGS FNGS)
+Cainan de retraite. (non cadre)
+Retraite complémentaire et AGFF tranche 1
+Retraite complémentaire et AGFF tranche 2
+Total des cotis a ations et . contributions
+Mode de réglement Virement
+Date
+Cumul annuel:
+Net imposable
+Soumis SS:
+Cout total:
+Heures salarées
+
+3000,03 € 2,40 %
+0.00 -
+2,40%
+3000,03 € 3.80 %
+0.00 €
+6.90 N
+
+31.10.2020
+
+Cumut de le période
+Net imposable
+Soumis SS:
+Coot total
+Heures salariées
+
+Congés payés
+Acquis
+Pris
+Restant:
+
+397,15 €
+3 000,03 €
+- 392,05 €
+151,67
+
+Aul-on de pale à conserver sans destaticn B hae

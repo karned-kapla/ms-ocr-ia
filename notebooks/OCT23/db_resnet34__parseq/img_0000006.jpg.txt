@@ -1,0 +1,52 @@
+[Nom de l'entreprise
+
+FACTURE
+
+[Adresse)
+
+[Ville (Province), Code postal)
+Téléphone : 000 000-0000
+
+N * FACTURE
+2034
+
+DATE
+2018-02-21
+
+FACTURE A
+[Nom)
+
+REF. CLIENT
+564
+
+CONDITIONS
+Paiement à réception
+
+[Nom de l'entreprise)
+(Adresse)
+
+[ville (Province) Code postal)
+[N de telephone)
+[Adresse de courriel)
+
+NOUdROS30
+frais de service
+
+QTE PRIX UNITAIRE
+
+MONTANT
+
+1
+5
+
+200.00
+75.00
+(50.00)
+
+200.00
+375.00
+(50.00)
+
+Main-d'ceure : 5 heures à 75 5 rheure
+
+Remise nouveau client

@@ -1,0 +1,19 @@
+[Nom de l'entreprise)
+FACTURE
+[Adresse)
+[Ville (Province), Code postal] Téléphone : 000 000-0000
+N DE FACTURE 2034
+DATE LC-CO-SIOC
+FACTURE A (Nom)
+REF.CLIENT 564
+CONDITIONS Paiement à réception
+[Nom de rentreprise) [Adresse)
+[Ville (Province). Code postal) [N" de téléphone) (Adresse de courriel)
+DESCRIPTION Frais de service
+QTE PRIX UNITAIRE
+MONTANT
+1 5
+200.00 75.00 (ooros)
+200.00 375.00 (50.00)
+Main-d'ceure : 5 heures à 75 S Theure
+Remise neanou client

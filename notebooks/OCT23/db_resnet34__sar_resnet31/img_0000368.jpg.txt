@@ -1,0 +1,207 @@
+EURO
+Original
+
+-
+- I
+42510 BALBIGNY
+- - -
+ona SS
+- -
+
+BULLETIN DE PAIE
+PAIE DU 01/05/2013 > 31/05/2013
+Mancule 0000000004
+NSS 100
+Emploi RESPONSABLE ATELER
+Quali 2EME ECHELON
+Niveau ACT 6
+Coeff. 270
+lodice
+Dane 8 debut drancienante
+Heures sapted
+
+-
+
+I
+
+Entre 9104000
+Sortie
+05/01/1967
+160
+
+42510 HALBIGNY
+ADEDUIRE
+
+QUANTITE
+QUISASE
+TALIX
+151.67
+14.0000
+17.33
+183125
+2 735,18
+0.8000
+to 735,18
+6.7500
+2735,18
+11 735.18
+2 735,18
+2 735,18
+- 735.18
+17.33
+738.18
+735.18
+2 735,18
+: 735,18
+2 736,18
+2736,18
+2 816.69
+816.60
+7 816.69
+
+CHALULE PATROSMER
+TAUX MONTANT
+
+RUBRIQUEE
+00A1.1 Joume de Solifarite Effectue
+0004 Salatre horaire
+1015 Prime dandennele Bois
+2016 Heures avepiementaire 25 .
+4383 Songes payes 21/05/13
+43832 1 jour CP.11/12 Soldes
+TOTAL BRUT
+2000 Malade
+2000 Ase Vielesse TA
+2000 Viedense del
+2090 Alocations familiales
+2120 Arcitent d. traval
+2150 FNAL TA
+5700 Conseution solidation dautomie
+5000 Deduc Patronale H Lisupe asop
+7000 ASCEDIC on tranthe A
+7034 AGFF 11
+7180 AGS OFNOS
+8000 Retraine ARROCO TI
+0100 Mutelle AG2R
+8529 Prevoy Mansualsation NC
+8530 Prevoy UCRR deces-ing
+9000 CSG deducable
+9002 cso non deduciole
+9004 CRDS
+TOTAL RETENUES
+NET IMPOSABLE
+
+A PAYER
+
+221.97
+193.85
+317.36
+7 735,18
+
+23.25
+184.62
+
+12.8000
+8.4000
+1,0000
+5.4000
+4.3000
+0.1000
+0.3000
+4,0000
+1.2000
+0.3000
+4.5000
+1.1880
+1,1870
+
+360,10
+229.76
+4376
+147.70
+117.61
+2.74
+8.21
+-26.00
+10041
+32.82
+8.21
+123.08
+96.90
+32.49
+32.47
+309.26
+
+24000
+0.8000
+3.0000
+0.7290
+5.1000
+24000
+0.5000
+
+65.64
+21.80
+82.06
+32.20
+19.94
+143.65
+67.60
+14.08
+655.01
+
+a 161.85
+
+Mede a meglement Vireman
+Paye 3 31052013
+I 3 3441 001 E SCIFF
+cumu anyu
+15 043.05
+Congle
+1102
+avous
+20.00
+prix
+3000
+and
+Charges aalartales
+
+3 a PATE GUMA contedax PATHORALES
+
+EUR
+- - IVA à F
+E : . : -
+11 90690
+15 430,00
+Far
+DE
+0000
+120.00
+1 54380 Nat a payer
+
+2 000.17
+cuses saun
+91550
+
+7 010.78
+cour GROUAL BALARE
+4 044,44
+VALEUR 5 cual
+Bnt
+3 735,18
+Neta Payer
+2 010.17
+Net imposable
+1610
+14 7
+
+cuvis BASTA -
+15 043.65
+1A
+*
+2000
+
+11 441.00 Base cao deduele Abattue
+Cen montant - calcules - le that a - de -
+
+prix VOTRE ANTET PT POUR vous AEXER A FARE VALOIR a choms CONSERVER CE ALALETR DE PAR SANS LANTATION DE bunn

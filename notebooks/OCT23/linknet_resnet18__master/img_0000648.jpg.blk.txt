@@ -1,0 +1,5 @@
+m -
+Carte postale
+10,4
+classique
+14,8 cm

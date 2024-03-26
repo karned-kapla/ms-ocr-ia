@@ -1,0 +1,141 @@
+COOVER
+
+BULLETIN DE PAIE
+Periode du as/mm/YYY au dd/mm/YYY
+Reserence bulletin
+5 sécurite sociale
+Catggrrie
+Emplai
+Date anciennent
+Debut comtrar
+Fertaz jour
+Com 3
+
+ENTREPRISE
+Adrsse
+43 Vilie
+SIRET
+
+NAF
+
+Cole
+
+Cotisations salare
+Cotisations
+emplonurr
+Base
+Taux
+Mentant
+Base
+I
+Montant
+151,67
+10,250
+1 554,62
+1: 554,62
+
+LBeIK
+de la rubrique
+
+1001 Salaire brut
+BRUTI SALAIRE BRUT
+Sante
+A03 Complémentaire Sanee
+RETRAITE
+Ca1 securne socuale plafonnde
+ca2 securn sociale deplatornde
+cas Comgrementaire Tranche A
+DOL FAMILLE
+ASSURANCE CHOMAGE
+1O1 ASSURENCE CHOMAGE
+
+ADI securne sociale-Maaadie Matemite tnvtidite Depis
+DDI ACCIDENTS DU S3IIVvIw PROF-SSIONNELLEY
+
+19'1551
+29195
+191
+1 554,52
+1 554,622
+T 554,52
+1 554,52
+1 554,52
+1 554,52
+1 554,62
+1227,99
+
+1554,62
+a 554,62
+6,0
+107,27
+E 55442
+040
+6,22
+m 55462
+401%
+62,34
+1 554,62
+m 55452
+a 554,62
+1 554,62
+6,80
+105,71
+2,00%
+45,08
+1227,99
+000
+0,00
+E9SCE
+
+7,00%
+108,82
+0,90%
+6EEE
+8,55%
+132,92
+1,90%
+29,54
+Nto'
+3,45
+Es'
+4,20%
+1,645
+25,50
+
+FOI AUTRES CONTEIUUIIONS oUeS PAR CEMMOOYEUR
+HOI CS6 diducteee de I I le -eveuu
+0I CSG/CRDS non deducible de Fimpot - le revenu
+J DIONERATIONS DE COTISATIONS EMPLOYEUR
+
+IMPI Net Imposable
+PAS2018 Reterue 4 a source
+COTI Total Cotisttions
+
+364,40
+12 227,99
+21 33
+Mer tant
+o od
+NET. A PAFER
+124 G44
+o o
+2O0111
+
+NET A PAYER AVANT IMPÔT SUR LE REVENU
+imeit sur a revenu
+Imair sur E revenu prlieee a a source
+Domicilaaton
+IBAN
+BIC
+Beneficiaire
+
+dont evolution de et remuneration le a et suppression des cotisations chomage at malade
+
+Rate
+a GEL
+
+Taux personnalisd
+0,00%
+Inarr srmie le agemmry
+Anieemen a mmtirr emiine
+Total i gar ferelreee

@@ -1,0 +1,108 @@
+Nom de la société
+Siogan de votre eocied
+Adresse,
+Ville, Province Code postal
+
+FACTURE
+NUMERO DE FACTURE
+DATE a ENTREZ LA DATE
+
+Teléphone : Entrez le numéro de téléphone
+Télécopieur : Entrez le numéro de télécopieur
+
+A 1
+Nom du chent
+Nom de la société
+Adresse, Vile,, Province
+Code postal
+
+DESCRIPTION a
+
+Description du projet ou du service
+BON DE COMMANDE Numero
+
+DESCRIPTION
+
+HEURES
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+
+TAUX
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+
+MONTANT
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+TOTAL MONTANT
+
+Entrez la description -
+Entrez la description 2
+Entrez la description 3
+Entrez la description 4
+Entrez la description 5
+Entrez la description 6
+Entrez la descr iption 7
+Entrez la deser ription B
+Entrez la description 9
+Cntrez la description 10
+Entrez la description 11
+Entrez la description 12
+Entrez la description 13
+Entrez la description 14
+Entrez la description 15
+Entrez la description 16
+Entrez la description 17
+
+Veuiliez hhelle tour les chèques à Fondre de Nom de la société
+
+Montant total du dana 15 jours Les paiements en souffrance font robjet de frais de service de 1 %
+
+par mois.
+
+Nous vous remercions de votre contiance.

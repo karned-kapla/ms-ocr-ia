@@ -1,0 +1,86 @@
+Mon Entreprise
+123 Rue de France
+75000 Paris
+France
+
+Facture No. 2018-08-003
+
+Date de a facture 26/07/2018
+Référence de a facture 2018-08-003
+Numéro de client 456
+Paiement do 25/08/2018
+Modalité de paiement 30 jours
+Emis par Pierre Fournisseur
+Contact client Michel Achoteur
+Date de la vente/prestation 11/07/2018
+
+Destinataire E
+Acheteur SA
+Michel Acheteur
+31 rue de la Forêt
+13 100 Aix-en-Provence
+France
+
+Infos additionnelles
+
+Merci d'avoir choisi Ma Compagnie pour nos services.
+
+Service Après Vente : Garantie 1 an.
+Désignation des produits
+ou prestations
+
+Quantités Unités Prix unitaire HT TVA %
+
+TVA
+300,00 €
+207,98 €
+
+TOTAL TTC
+1 800,00 €
+1 247,88 €
+
+Main-d'ceuvre
+Produit
+
+25 h.
+10 pce.
+
+60,00 €
+103,99 €
+
+20%
+20%
+
+Total HT
+TVA
+Total TTC
+
+2 539,90 €
+507,98 €
+3 047,88 €
+
+Date de règlement :
+Mode de règlement :
+
+Nom de votre société
+Adresse
+8 et vile
+No. Siren ou Siret
+No. Dimmatriculatioon RCS
+No. TVA intra.
+
+Contact
+Nom Prénom
+Teléphone : XXX
+Email: XXX
+Site : XXX
+
+Détails bancaires
+Banque
+XXX
+Code banque XXX
+No de compte XXX
+IBAN
+XXX
+SWIFT/BIC
+XXX

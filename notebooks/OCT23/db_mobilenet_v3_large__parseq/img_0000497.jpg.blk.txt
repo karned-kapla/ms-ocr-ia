@@ -1,0 +1,42 @@
+. - DE
+a
+a
+4
+A E > a
+JRS JRS
+à
+- - 5 P PI a a e a
+ORF
+0000
+A NS
+8
+350 3900
+R
+5
+- 9 0 9 - 35 a a - - - 2 a 3 5 3 5 E
+000
+251
+MEN
+TS
+- a
+a
+- - RE -
+- D
+- - N
+GE
+8 D a Nr
+- 1 -
+35
+-
+< JE
+31
+ABS
+St
+-
+a G
+L e d
+. - MA
+I In a
+- E
+- -
+- a

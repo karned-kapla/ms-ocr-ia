@@ -1,0 +1,106 @@
+Sept. - 1995
+mmuno h6oy
+
+Identification and Localization ofa Developmental Stage-
+Specific Promoter Activity from the Murine A5 Gene'
+
+Jun Yang, Michele A. Glozak, and Bonnie B. Blomberg?
+
+Department of Microbiology and immunology, University of Miami School of Medicine, Miami, FL 33101
+
+The A5 protein is expressed in pre-B cells in association with VpreB and u-heavy chains, and is critical for
+diferentiation to the B cell stage. Pre-B cell-specific expression of the A5 and VpreB genes is regulated at the level
+of transcription initiation. In this report, we have identified several DNase I-hypersensitive sites 2.5- to 6.0-kb
+downstream of the A5 gene, which are present in the pre-B cell line 70Z/3, but not in the myeloma cell line J558L
+These sites, however, were shown to have no transcriptional enhancer activity as measured by transient trans-
+fection. Enhancer activity was identified within a 361-bp fragment (-296 to +65, where +1 is the major 5'
+transcription initiation site) upstream of the mouse A5 gene. This activity in orientation and position independent,
+and is also tissue and differentiation stage specific (active in pre-B but not B and T cells). Deletion constructs
+indicate that three adjacent areas (-210 to -169, -153 to -64, and -64 to -22) are all necessary for enhancer
+activity. Pre-B cell-specific promoter activity was shown to reside within the -219 to +109 fragment. Basal
+promoter activity resides within the -64 to +109 fragment, but is not tissue specific or stage specific. A negative
+element within the - -101 to -64 region is active in all lymphoid cell lines tested and therefore cannot by itself be
+responsible for the tissue and stage specificity. The data indicate that the elements responsible for the enhancer
+activity (-210 to -22) are part of the A5 gene promoter and likely confer the tissue and stage specificity via
+positive elements within the -210 to -22 region. The Journal of Immunology, 1995, 155: 0000-0000,
+
+he stages of B cell development are characterized been identified on the surface of uH chain-negative pro-B
+by successive rearrangements of gene segments of cells (9, 10) in association with a 130-kDa protein (10).
+bep heavy (H) and light e chain loci and by sc- The 2 gene plays a critical role in B cell development, as
+quential acquisition of cell surface Ags. Two of these mol- the targeted disruption of this gene resulted is mice that
+ecules, A5 and VpreB, which can form a surrogate Ig L showed a block in B cell development at the large pre-B
+chain, are transcribed only in murine pro-B and pre-B cell stage and significant reduction in the number of ma-
+ogy to the JA and CA L chain gene segments within the 3' in pro- and pre-B cells is controlled at the level of tran-
+part of exon 2, the intron between exon 2 and exon 3, and scription initiation (12, 13), which involves the interaction
+3 (6). The proteins encoded by the 2 and VpreB between transacting factors and the cis-clements such as A
+genes can form an L chain-like structure and be expressed promoters and enhancers. The A5 and VpreB promoter re-
+on the surface of pre-B cells in association with Ig uH gions differ from those of per conventional Ig L chain
+chains 'D 8). In addition, the AS/Voreb complex has also genes de that they lack a TATA element, which determines 11 cleos
+The costs of publication 2 this article were delrayed l4 part by the payment of B29 (16), terminal decsymnaclovslyferaderae (TdT)
+page charges. This article must therefore be hereby marked advertisemons in (17), and CD19 (81) Multiple transcription initiation sites
+Address correspondence and reprint requests to Dr. Bonnie B. Blomberg mines the transcription initiation site "(LI)
+
+cells, but not in mature B cells, plasma cells, or other ture peripheral B cells (11).
+
+lineage cells (1-5). The A5 gene shows sequence homol-
+
+The selective expression pattern of A5 and VpreB genes
+
+exon
+
+of
+delate
+Other
+(12, 14).
+lym-
+genes include 1 (15),
+are also observed in these genes (15, 91 18), except in the
+contains an initiator clement that deter-
+The promoter activity of the mouse
+been shown e be responsible for its VeRB! gene
+protein (EBB-1) can bind to the promoter region and #
+
+the transcription initiation site, and both genes contain
+
+multiple transcription initiation sites
+
+Receiedd
+7. 1995.
+
+for publication November 17, 1994,
+
+for
+Accepled publication Jne
+
+TATA-less
+phocyte-specifie,
+which
+TdT gene,
+
+accordance wigh 18 USC. Section 1734 solely 9 indicate this fact.
+This work was supported ba Grants A132138 andA121870 from the National
+Department of Microbiology pue Immunology, (R-1381, University ol Miami
+School ef Medicine, PO. Bor 016960, Miami, FL 33101,
+Abbreviations used in paper: H, heavy (chainil light ichain); CAT,
+ferase: En, heavy chain intronic enhancer; EuP, e TLC thie layer
+Copyright o 1995 by The American Association of Immunologists
+E: Please aheck
+OAD. S 14 1:n legends
+
+Institutes of Healh,
+
+has
+celi
+A
+expres-
+0022-176205309.00
+
+pre-Bépecific
+
+aes
+
+this
+
+- - joomodueon? acetyl translerase: Tdl, terminal Beorymucleotdyturans sion (12). An carly B lymphocyte-specific DNA-binding
+
+chronetegrephy

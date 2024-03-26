@@ -1,0 +1,142 @@
+COOVER
+
+BULLETIN DE PAIE
+Periede a ad/mm/wry - dd/mm/Ym
+Reference bulletin
+N shour se sociale
+Categorie
+Emplai
+Date anciennent
+Debut comrat
+Fertait jour
+Came Coll.
+
+ENTREPRISE
+Adresse
+CP Vile
+SIRET
+
+NAF
+
+Code
+
+Cotisations salane
+Base
+Taux
+Montant
+Base
+COIST
+oscor
+- 554,62
+1 554,62
+
+Cotisations empine eur
+Taux
+
+Ubelie de a rubrique
+
+Montant
+
+1001 Salaire brut
+BRUTI SALAIRE BRUT
+Sante
+A03 Complementaire Sanna
+RETRAITE
+coi Securite sosiale plafonnde
+a Securite vosiale deplatonnde
+cos Complementaire Tranche A
+DOL FAMILLE
+ASSURANCE CHOMAGE
+601 ASSURANCE CHOMAGE
+
+A01 socurnt sociale-Maladie Maternite invullate Deces
+801 ACCIDENTS 8 TRAVAIL-MALADIES PROFESSIONNELLEY
+
+1 554,62
+1 554,62
+- 55462
+1 55462
+1 ta'ss
+1 55462
+1 tovss
+L ca'ss
+1 conss
+- c9'ss
+1227.99
+
+- m'rss
+7,00%
+108,82
+554,42
+0.90%
+se'tt
+6,90%
+107,27
+154,42
+8.55%
+CE'CET
+0,40%
+&
+554,62
+1.80
+PSE
+NTOT
+63,34
+: 554,52
+sto's
+= 55462
+NSYE
+53,63
+554,62
+4,20%
+: 554,62
+1.64%
+25,50
+wou's
+106,71
+2,90N
+45,08
+1227,99
+woo'0
+0,00
+E'SCE
+
+FO1 AUTRES SNOUNNININOS DUES PAR CEMPLOYEUR
+H01 CSG deductele de 1 [ le revenu
+C6/CRDS non deduciele 4 rimple - le -venu
+tor EXONERATIONS DE COTISATIONS EMPLOYEUR
+
+01
+
+Tani Net imposable
+PAS2018 Retenue à le sounce
+cori Total Cotisations
+
+364,40
+- 227, .99
+Et EE
+Mor lant
+a a
+MET A PAYER
+- to 59
+po
+1 de 02
+
+NET A PAYER AVANT IMPOT SUR 31 REVENU
+implit I le revenu
+imple - a revenu preles a a source
+Domiciliation
+IBAN
+SIC
+Beneficiaine
+
+done dvolution a a iimunération Ide a la suppression dus cotisations chomage at malade
+
+Base
+1 227,9
+
+aur personnalise
+0.00%
+La : simment a astenving
+Anigemen d sana tom engayme
+E 1 1 tomplugnar

@@ -1,0 +1,7 @@
+PLACE
+STAM d
+HERE
+
+daVousod
+
+FROM :

@@ -1,0 +1,52 @@
+[Nom de l'entreprise]
+
+FACTURE
+
+[Adresse]
+
+[ville (Province), Code postal]
+Téléphone 1 000 000-0000
+
+N DE FACTURE
+2034
+
+DATE
+12-c0-8102
+
+FACTURE A
+(Nom)
+
+RÉF.CLIENT
+564
+
+CONDITIONS
+Paiement à réception
+
+[Nom de l'entreprise)
+[Adresse)
+
+[Ville (Province). Code postal)
+[N de téléphone)
+[Adresse de courriel)
+
+DESCRIPTION
+Frais de service
+
+QTE PRIX UNITAIRE
+
+MONTANT
+
+1
+5
+
+200.00
+75.00
+(000s)
+
+200.00
+375.00
+(50.00)
+
+Main-d'ceuve : 5 heures à 75 S Theure
+
+Remise neannou client

@@ -1,0 +1,199 @@
+EURO
+Original
+
+BULLETIN DE PAIE
+PAIE ou 01/05/2013 au 31/05/2013
+Matricule 0000000004
+N"
+Emploi RESPONSABLE ATELER
+Qual 2EME ECHELON
+Nivau ACT a
+Coeft 270
+indice
+Date de debut danciennene
+Heures paydes
+
+42510 BALBIONY
+- :
+
+Entree 01042000
+Sortie
+05/01/1987
+161
+
+42510 BALBIGNY
+A DEDUIRE
+
+QUANTITE
+ou asve
+TAUX
+151.67
+14.6500
+17.33
+18.3125
+91'SEL
+bosaro
+a 735,18
+6,7500
+735,18
+2 735,18
+1 735,18
+735,18
+735,18
+17.33
+a 735,18
+a 735,18
+- 735,18
+735,18
+735,18
+2 735,18
+- 01600
+2 816.00
+2 816,69
+
+CHARGES PATRONALES
+TAUX MONTANT
+
+RUBRIQUES
+DOA1. Joume de Solidarite Effectule
+0004 Salaire horaire
+1015 Prime danciennele Dois
+2016 Heures supplementaires % a
+4383 1Conges payes 21/05/13
+43832 jour CP.11/12 Soldos
+TOTAL BRUT
+2000 Maladie
+ocos Ass. Viellesse TA
+2000 Vellesse dept.
+0600 Allocations familiales
+2120 Accident du travail
+2150 FNAL TA
+6700 Contribution solidanto datonomie
+0069 Deduc Patronale H.Supp PSOD
+7000 ASSEDIC 00 tranche A
+7034 AGFF 11
+7180 AGS (FNGS)
+8000 Retraite ARRCO LL
+8109 Mutelle AG2R
+6298 Prevoy Mensualisation NO
+8639 Precy UGRA deces-inv.
+9000 CSC deducable
+9002 CSO non deductible
+9004 CRDS
+TOTAL RETENUES
+- IMPOSABLE
+
+A PAYER
+1 221.97
+serse
+31736
+735,18
+
+23.25
+184.62
+
+12.8000
+8,400
+1.0000
+5.400
+4.3000
+0.1000
+0.3000
+4.0000
+1.2000
+0.3000
+4,5000
+1.1080
+1,1870
+
+350,10
+229,76
+43.78
+147.70
+117.61
+2.74
+821
+-26.00
+10941
+32.82
+821
+123.08
+96.90
+32.49
+32.47
+arees
+
+2.400
+0.000
+3.0000
+0.7290
+5.1000
+2.4000
+0.5000
+
+6584
+21.88
+82.06
+32.29
+19.94
+143,68
+67,60
+14.08
+655.01
+
+3 161.85
+
+Mode a Reglement Virement
+Paye 3 31052013
+Com 1 3041 BOS G SCERES
+cumus -
+91 043.65
+Cengits
+11/12
+-
+30,00
+aud
+0000
+m
+Charges salariales
+
+N1 a PATER
+2 000,17
+cumus HEURES
+915.50
+
+- saisin
+E
+4 000.78
+COUT GLOBAL SALARE
+044.44
+VALEURE 1N nan
+nor
+73518
+N Payer
+a 000.17
+Nier imposable
+191,85
+14 78041
+
+EUR
+cueut MPORT
+Rail -
+11 90590
+15 430,00
+811
+DE
+00'00
+120,00
+sares Mer - par
+
+CUMUL BASE :
+15 043.65
+12/13
+:
+300
+
+11 41101 - a deducuble Alamue
+Ce montants - caicule - le 1 de convenion de
+
+DANS VOTRE NTERET ET rous vous AIDER A FARE VALOIR vot CROITS CONSERVER ce BIALETS DE a SANS LANTATION DE DUREE

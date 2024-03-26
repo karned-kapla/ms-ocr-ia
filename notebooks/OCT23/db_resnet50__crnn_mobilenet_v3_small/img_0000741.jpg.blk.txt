@@ -1,0 +1,13 @@
+-
+-
+VOTREW
+d2 L d e d e
+d 1
+ONSE
+REP
+Aurons-nous l'honneur de vous compter parmi nous ?
+-
+VOS NOMS ET PRÉNOMS:
+INO
+NON
+Nombre d'adultes: Nombre d'enfants:

@@ -1,0 +1,140 @@
+COOVER
+
+BULLETIN DE PAIE
+Periode du ds/me/Trre au da/mm/ni
+heerence bulkatin
+N scurte aoclale
+Catigorie
+Emploi
+Date anciennent
+DHout centrat
+Fortait jour
+Carv. Coll
+
+ENTREPRISE
+Adresse
+CP vae
+SIRET
+
+NAF
+
+Code
+
+Cotutions salarié
+Base
+Taux
+Montant
+Bae
+L9'TST
+10,250
+- 554,62
+1 DVS
+
+Cotisations employ 1
+Taus
+
+Libele de a anbuena
+
+Montant
+
+1001 Salaire brut
+BHUTT SALAIRE BRUT
+Sante
+A03 Camglémentaire Santé
+HETRASTE
+C21 Socurnt soclale plafonnde
+€ Sécurite sociale déplafonnée
+cos Camplemantaire Branche A
+DOL FAMSLE
+ASSURANCE CHOMAGE
+81 ASSURANCE C-OMGE
+
+A01 Securité socaleMaladie Matamite invalcite Deces
+B21 ACCIDENTS DU TRAVAIL MALADES PROFESSIONNELLES
+
+1554,62
+CVST
+554,62
+554,62
+1554,62
+a 554,52
+z'vs
+CS1
+a ts'vS
+CviS
+1227,99
+
+'vist
+7,00%
+108.82
+155482
+NOO
+66ET
+6,90%
+107,27
+155462
+8,55%
+T6TET
+040%
+622
+155462
+1,90%
+wst
+401%
+62,34
+55482
+6,01%
+554,62
+3,45%
+EVES
+55452
+4,20%
+1554,62
+1,64%
+25,50
+GAON
+105,71
+2.90%
+45,08
+1227,99
+0,00N
+0,00
+ESSE
+
+FOL AUTRES SOU/MININOT buEs PAR CHAROYUR
+HOL CSG dédurtele de 1 - l nevanu
+0s CSG/CROS nos aducti de rimpot M le revenu
+101 ENONERATIONS DE COTISATIONS EMPLOYEUR
+
+IMPI hut Imposable
+PAS2018 Retenue a e source
+COTI Total Cotisations
+
+364,40
+22 7,99
+- *
+Mor Lant
+- a
+NET y PAYER
+- r 6E4
+o o0
+zoess
+
+NET A PAYER AVANT IMPOT SUR LE REVENU
+imple sur le revenu
+imple su E revenu prlev à a source
+Domicilation
+IBAN
+Bic
+Bendficiaire
+
+dort cevolution 3 la Nmunération lie ala voaiddns des cotisatens chomage et malade
+
+Base
+- D2795
+
+Taux personnalise
+GOON
+1 - stementle asen/rm
+aigemen a colnatinng eateur
+E sne 1 feraioer

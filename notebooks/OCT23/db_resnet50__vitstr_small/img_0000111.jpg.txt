@@ -1,0 +1,29 @@
+peg
+
+CARTE
+RÉPUBLIQUE
+
+.
+
+NATIONALE D'IDENTITE FRANÇAISE
+NOM/Sumame /IDENTITY.CARD
+
+MARTIN
+
+Maëlys- Prénoms/ Given nnames
+SEXE F: / Sex
+
+Gaëlle, Marie
+s FRA NATIONALITE/NNdOnatyy
+PARIS LIEUDENAISSANCE / Place of birth
+F NOM NOM D'USAGET Alternate ename
+D'USAGE
+NDDDDDUUMNNTOOImeeete
+X4RTBPFW4
+Srgnttere
+
+DATEDENASSS//OMBdon 13 071990
+
+11 DATE 02.233 D'EXPIR. Exxpiry date
+vor à
+384213

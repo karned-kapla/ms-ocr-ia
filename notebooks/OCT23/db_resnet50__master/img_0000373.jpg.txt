@@ -1,0 +1,188 @@
+Fiche de paie à 39 heures
+Fiche de paie (A conserver sans limitation de durée)
+
+Employeur
+Nom ou raisonsociale:
+Adresse:
+No: Siret:
+No Urssaf:
+CodeAPE:
+Salaire
+
+Salarié
+Nom, prénoms:
+Adresse:
+No SS:
+Emploi: serveur
+Niveau:1
+Taux horaire
+11.01
+12,11
+3.76
+3.76
+Part patronale
+
+Echelon:1
+
+Conventioncollective : CCNdes CHR du 30avril 1997et sesavenants
+
+Période du: 01/04/2022 au 30/04/2022
+Horaire de travail: :169 heures
+Salaire de base (151.67x11.01) a
+Heures supp à 110 % (2)
+Avantages ennaturenourriture
+Indemnités compensatrices: nourriture
+Salaire brut
+Cotisations sociales
+CSG (déductible) (3)
+CSG + CRDS (non déductibles)(3)
+SS maladie
+SS vieillesse plafonnée
+SS vieillesse déplafonnée
+Contribution autonomie solidarité
+Accident du travail
+Allocations familiales
+Retraite complémentaire
+Assurance chômage
+CEG
+AGS
+SSFnal
+Taxe d'apprentissage
+Formation continue
+Contribution au financement des OS
+Prévoyance (4)
+Mutuelle frais de santé
+Exonération cotisations
+Déduction forfaitaireheures sup.
+Réduction Fillon (5)
+Réduction cotisations heures sup. (6)
+Total cotisations-contributions
+(737,93 26 -432.97 II 278.96)
+(451.22 - 23,74 = 427.48)
+Salaire net avant impôt
+Avantages nourriture
+(2045,21 42748 - 82.72-1535.01)
+cotisation chomage et maladie C
+Impôt surl le revenu (8)
+Montant net imposable
+Salaire net à payer
+Repos compensateur
+
+Nombre d'heures
+
+Montant (3)
+1669.89
+209.88
+82.72
+82.72
+2045,21
+Part salariale
+138.19
+58.93
+141,12
+8.18
+64,42
+17,59
+
+151.67
+17,33
+22
+22
+Base
+2032.21
+2032.21
+2045.21
+2045.21
+2045.21
+2045.21
+2045,21
+2045.21
+2045.21
+2045.21
+2045.21
+2045.21
+2045.21
+2045.21
+2045.21
+2045.21
+2045.21
+28
+17.33
+209.88
+
+Taux (%) Montant(C) Taux (%) Montant(C)
+
+6.80
+2.90
+6.90
+0.40
+-
+3.15
+0,86
+
+7.00
+8.55
+1.90
+0.30
+2.21
+3.45
+4.72
+4.05
+1.29
+0.15
+0.10
+0.68
+0.55
+0,016
+0.43
+0.50
+1.50
+
+143.16
+174.87
+38.86
+6.14
+45.20
+70,56
+96.53
+82.83
+26.38
+3.07
+2.05
+13,91
+11.25
+0,33
+8.79
+14.00
+26.00
+432.97
+278,96
+
+0.43
+0.50
+
+8,79
+14,00
+
+11,31
+
+23,74
+427.48
+82,72
+1535,01
+29.65
+1490.59
+7.45
+1483,14
+Reste
+
+Dont évolution rémunération liée àl la suppression
+
+(2045.21- 42748 209.88 + 59.93 + 14,02+ 879 =1490.59)
+Impôt surl le revenu prélevé àl la source
+Taux neutre à 0.5 % (salaire de 1440Ca1496C)
+Payél le 30/04/2022 parvirement du:
+
+Cumul des heures Droits acquis
+
+Utilisés

@@ -1,0 +1,36 @@
+Test neuer Personalausweis
+
+TTTT00001
+
+Ansichtsexemplar
+
+Name Surname/Nom
+MUSTERMANN
+
+GEB. GABLER
+Vornamen/ Given names : -
+
+ERIKA
+
+Geburtstag/Date of bith
+Date de naissance
+
+Nationalife
+
+12.08.1964 DEUTSCH
+
+Gebortiort Place of birth/Lieu de naissance
+
+BERLIN
+
+bis/Date of expiry
+Butig a expiration
+31.10.2010
+
+000001
+
+der Inhaber rin/des Inhabers
+of bearer
+de la titus
+Unterncheot
+Signature

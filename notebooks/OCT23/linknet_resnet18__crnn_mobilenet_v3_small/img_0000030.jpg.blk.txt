@@ -1,0 +1,19 @@
+FACTURE No FA_2018011
+MON LOGO
+Alattention de :
+Paris
+rig
+37 France
+vioz Variable non renseignée
+SIRET Code APE 123A
+45
+Date d'émission de la facture :
+09/02/2018
+N TVA Intra : Variable non renseignée
+Date d'échéance de la facture : 25/02/2018
+Objet [Demo] Excel Niveau 2
+Intitulé
+Prix H.T.
+Formation - Formation . Formation - Formation -
+1 400,00 € 1 400,00 C 1 400,00 € 1 400,00 € 20,00 €
+- Préparation du cours (x1)

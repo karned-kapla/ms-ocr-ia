@@ -1,0 +1,69 @@
+Le nom de votre société
+
+Facture
+Numéro de client :
+Numéro de facture :
+Date de facture
+Date de livraison :
+Echéance de paiement
+Expédier à 4
+Adresse
+Code postale vile
+Teléphone
+Email
+Prix unitaire HT
+
+Adresse
+Code postale ville
+Téléphone
+Facturer à -
+Adresse
+Code postale ville
+Téléphone
+Email
+Description
+
+Email
+Site web
+
+Quantité
+
+Prix total HT
+
+€0.00
+€0.00
+€0.00
+€0.00
+€0.00
+€0.00
+€0.00
+€0.00
+€0.00
+€0.00
+€0.00
+20.00%
+€0.00
+€0.00
+€0.00
+
+Remarques et Boopprv de paiement
+L'indemnité forfaitaire pour frais de
+recouvrement en cas de retard de paiement
+Numero de compte bancaire, BIC, IBAN
+
+SOUS-TOTAL
+e
+REMISE 1
+SOUS-TOTAL MOINS LES REMISES :
+TAUX DE TVA .
+TOTAL TTC
+EXPÉDITION ET MANUTENTION 1
+SOMME FINALE A PAYER .
+
+A inclure ici:
+
+Nous apprécions votre clientèle.
+
+Si vous-avez des questions sur cette facture. n'hésitez pas à nous contacter.
+
+Numero SIRET Code APE Numéro TVA intracommunitaiire

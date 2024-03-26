@@ -1,0 +1,53 @@
+INVOICE
+
+Brand Name
+talsime san -
+Invoice to:
+Dwyane Clark
+24 Dummy Street Area.
+Location. Lorem Ipsum,
+5708x59
+
+Involces
+Date
+
+52148
+01/02/2020
+
+- Item Description
+Lorem Ipsum Dolor
+Pellentesque id neque ligula
+interdum et malesuada fames
+Vivamus volutpat faucibus
+
+Price
+$50.00
+$20.00
+$10.00
+$90.00
+
+Qty. Total
+$50.00
+$60.00
+$20.00
+$90.00
+
+Thank you for your business
+Payment infor
+Araunt . 1214 1479 9012
+ac Nim Leer sum
+Bank Detalle - pet sank deta
+Terms & Cenditions
+LsI laum duier - I
+consertetur aatszing - fce
+esim - sensestetur
+
+Sub Total:
+Taxs
+Total:
+
+$220.00
+0.00x
+$220.00
+
+Autharised Sign

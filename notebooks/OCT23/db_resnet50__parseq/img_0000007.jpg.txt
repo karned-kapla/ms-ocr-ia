@@ -1,0 +1,65 @@
+[VOTRE SOCIETE]
+
+[Choisir une date)
+
+N" DE LA FACTURE1234
+
+Facturer a
+Client
+k ref client
+Adresse
+Telephone
+Vendeur
+Modaline de
+paiement
+Quantine
+
+Adresse de Ivraison
+Destinataire
+Adresse
+Telephone
+
+Nom du dient
+Entreprisel
+mul buag
+pAdresse)
+(vie, Pays, Code postal
+[Telphone)
+(Nom du vendeur)
+Modalinel
+N darticle
+
+Nom du destinatairel
+Entreprise)
+[Adressel
+(vite, Pays, Code postait
+[Teighone)
+
+Date de paiement [Cholair une datel
+
+Date 8 tivaison [Choisir une date)
+Mode de Ivraison Mode de hraisoni
+
+Modaline de
+livraison
+Prix unitaire
+
+Modaling
+
+Total de la ligne
+(evant remise)
+
+Description
+
+Remise
+
+Total de a romisa
+Sous-total
+Tanes ventes
+Total
+
+Nous vous remercions de votre confiance.
+[Addresse, Code postal, Ville) - Adresse wets
+P [Telephonel - E[Telecopiel - [Adresse de messagerie)
+
+[Vetre sociese)

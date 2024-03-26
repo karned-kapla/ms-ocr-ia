@@ -1,0 +1,60 @@
+<Nom de la compagnie>
+LOGO <Adresse postale>
+Detail a contact
+
+FACTURE
+Date
+No de facture
+
+CCoddiiions de paiement par exemple: du dans X jours>
+
+Destinataire
+<Nom>
+<Nom de la societe>
+<Adresse postale>
+<Téléphone>
+<Email>
+
+Envoyez à
+<Nom>
+<Nom de la societe>
+<Adresse postale>
+<Téléphone>
+<Email>
+
+DESCRIPTION
+
+QUANTITÉ
+
+PRIX UNITAIRE
+
+TOTAL
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+%0000
+0.00
+0.00
+0.00€
+
+Remarques, notes et instructions de paiement
+
+SOUS-TOTAL
+REMISE
+SOUS-TOTAL MOINS LES REMISES
+TAUX DIMPOSITION
+TAXE TOTAL
+EXPEDITIO, MANUTENTION
+SOLDE DU

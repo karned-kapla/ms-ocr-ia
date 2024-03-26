@@ -1,0 +1,141 @@
+COOVER
+
+BULLETIN DE PAIE
+Periode du as/mm/VYYY au dd/mm/VITT
+heterence bulletin
+1 sécurité sociale
+Catlgorie
+Emploi
+Date anciennent
+Debut contrat
+Fortait jour
+Con 3
+
+ENTREPRISE
+Adeesse
+d3 Ville
+SIRET
+
+NAF
+
+Code
+
+Corisations salard
+Catisations
+emploeur
+Base
+Taux
+Mentant
+Base
+I
+Montant
+151,67
+10,250
+1 554,62
+1 1554,62
+
+LBelle
+de la rubrique
+
+1001 Salaire brut
+BAUTI SALAIRE BAUT
+Sante
+A03 Camplementaire Sante
+RETRAITE
+cO1 Socurnt sociale plafonnde
+CO2 Securnt sociale déplafonnée
+COS Comglementaire Tranche A
+DOL FAMILLE
+ASSURANCE CHOMAGE
+1O1 ASSURANCE CHOMAGE
+
+ADS Socurat socaleMaladie Matamite Invaliaite Deces
+nos ACCIDENTS DU SEOVIVW-TNVEL PRORESSIONNELET
+
+e'SSt
+EsTSsI
+a'viSt
+a 554,52
+a 1554,62
+T 554,52
+1 554,52
+1 554,52
+1 554,52
+1 554,62
+1227,99
+
+1554,62
+- 554,62
+690%
+107,27
+a 55462
+040%
+6,22
+- 55462
+401%
+62,34
+1 554,62
+- 55452
+a 554,62
+1 554,62
+680%
+105,71
+2.90%
+45,08
+1227,99
+000%
+0,00
+ESSE
+
+7,00%
+108,82
+0,90%
+66ET
+8,55%
+132,92
+1,90%
+29,54
+Nto'9
+349K
+EES
+4,20%
+1,64%
+25,50
+
+FOS AUTRES CONTRSBSITIONS buEs PAR CHAROYEUR
+HOL CSG dédurtele de 1 [ l nevanu
+01 CSG/CRDS nos defathle de Fimgot M le reven
+1e1 EXONERATIONS DE COTISATIONS EMPLOYEUR
+
+IMPI Net Imposable
+PAS2018 Hetene a a source
+COTI Total Cotisations
+
+364,40
+1 227,99
+2 33
+Mor tant
+o od
+NET. A PAFER
+124 6E4
+a od
+206161
+
+NET A PAYER AVANT IMPOT SUR LE REVENU
+imptt sur a revenu
+Impit sur E revenu preleve à a source
+Domicilation
+BBAN
+Bic
+Bendficiaire
+
+dont dvolution de Le rmundration lie à le suppression dus cotisations chomage st malade
+
+Raie
+s GEEZE
+
+Taux personnalisd
+GOON
+tatas sment le ae/TYY
+Mipmn a ailre epme
+Total me anr funplepee

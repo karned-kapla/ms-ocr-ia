@@ -1,0 +1,126 @@
+Date d'ancienneté dans l'entreprise
+LIEU DE PAIEMENT DES COTISATIONS SOCIALES
+
+Intitule du poste occupé
+PERIODE :
+DU
+AU
+MATRICULE 1
+Centre imputation 1
+P.COM COMMINICATIO
+EMPLOI
+REDACTRICE HED
+
+BULLETIN DE PAIE
+
+SOCIETE
+
+45000 ORLEANS
+DATE ANC.
+02/01/18
+QUALIFICATION
+
+Identification
+complète de
+l'employeur
+ETABLISSEMENT
+
+APPOINTEMENTS a HORAIRE
+322,50
+
+NIVEAU POST. COEFTICIENTS N SECURITE SOCIALE
+
+Nombre d'heures travaillées
+pendant la période concerne
+
+Identification du salarié
+
+CONVENTION COLLECTIVE
+-ENTREPRISE DE TRAVAIL TEMPORAIRE
+CODES
+LIBELLES
+1820 1 Indennite de stage
+2500 1
+TOTAL BRUT
+SANTE
+Securite Sociale - Maladie
+Maternate Invalidite Deces
+ACCIDENTS DU TRAVAIL-
+PETRAITE-
+Securite sociale plafonnée
+FAMILLE--
+Allocations familiales
+CONTRIBUTIONS DUES EMPLOYEURS-
+Autres contributions
+caa CROS-
+CBG non imposable
+cas CRDS imposable
+TICKETS RESTALTUNT
+4210 1 Indennite de stage
+
+BASES ou TAUX ou * MONTANTS MONTANTS CHARGES PATRONNALES EVENEMENTS
+
+NOMBRES
+
+A AJOUTER AI DEDUIRE TAUX MONTANTS DATES QUANTITES
+
+Les différentes
+catégories de
+risques possibles
+
+Regroupement des contributions
+
+del l'employeur
+
+Total des
+cotisations
+Salaire à la charge
+du salarié
+
+Total des
+contributions
+à la charge de
+l'employeur
+
+brut
+
+SOUS TOTAUX
+CUMULS ANNUELS
+
+MODE DE REOLEMENT
+Virement 31/03/18
+LIBELLES
+Brut fiscal
+Net imposable
+I S.s.plafonnée
+Indemnités
+Cotisations E
+Cotinations pat.
+Codt salarial
+
+DATE DE CODE CODE N" DE COMPTE
+REOLEMENT BANGUE GUICHET
+
+DOMICILIATION
+MOIS
+
+NET A PAYER
+:
+CUMULS ANNUELI
+RELIQUATS ACQUIS a COURS
+Décompte des congés payés
+
+Salaire net
+
+MOIS
+
+LIDELLES
+H/). travaille
+CONGES PAYES
+Joure C.P. acquis
+Joura C.P. pria
+Solde C.P.
+Solde C.A.
+
+6,15
+6,15

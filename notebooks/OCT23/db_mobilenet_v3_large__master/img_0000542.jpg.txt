@@ -1,0 +1,257 @@
+GUIDE - FICHE DEPAIE
+
+Pour en apprendre plus sur votre fiche de paie
+
+"NO DE SALARIE" et "EK
+correspondent
+respectivement au
+"matricule" (identifiant
+paie) et au "code de
+sécurité dont vous avez
+besoin pour accéder au
+portail Digiposte
+Période de la paie, jour de
+paie, et votre numéro de
+sécurité sociale
+Adresse du salarié en cas
+de modifications penser à
+la modifier sur Atoz
+Votre salarie
+temps plein
+(proratisé en fonction de
+l'horaire hebdomadaire)
+Horaire hebdomadaire du
+mois de paie en cours
+Votre salaire tr l'heure
+Date d'entrée et
+d'ancienneté (si, par
+exemple, période
+d'intérimaire)
+Votre calendrier de
+présence du mois
+précèdent votre période
+de paie (ex paie de
+- calendrier
+septembre
+daoût)
+Le calendrier de présence
+vos
+variables de
+impacte
+en
+en
+paie négatif ou
+positif
+Ex: Je suis
+1
+malade
+semaine en août, errai
+je
+la déduction sur la paie de
+septembre (période de
+paie en haut à droite du
+BP)
+Acronymes
+CP congés payé
+MA maladie
+HN = heures de nuit
+ABS NON
+NN
+AUT ORISEE NON PAYEE
+Net
+Votre salaire et le type
+de paiement
+Détails bancaires du
+bénéficiaire
+Légende des abréviations
+du calendrier de présence
+Messages de l'employeur
+Par exemple
+1) paiement de la
+prévoyance
+Correction de la
+précédente fiche de
+paie
+
+BULLETIN DE PAIE
+NODE SALARIE
+11111111 XK 12340
+MAMBA300801 CO MOOLOO TTYT
+2 CD NOR TYTT
+DATEDE PAIEMENT
+00 Nom TTYT
+ON DE SECURTE SOCIALE 123456
+an
+NOM DUSALARIE
+ADRESSE COMPLETE
+CODEPOSTAL- VILLE
+IORAIRE
+5,00
+SAL TPS PLEIN 165 50, 17
+TAUX HORAIRE:
+10,88
+DATE ENTREE 24/05/2021
+PEORE ESOTT E D00000
+DATE ANCIENNETE:25/02/2021
+NOVERE
+PAIT aun a
+OVEUR
+our BASE TAUX OUN MONTA AVT
+ANT
+ab
+
+Adresse de l'employeur et
+convention collective
+
+NOM DE L'ENTREPRISE
+ADRESSE COMPLETE
+CODE POSTAL VILLE
+12 79901234
+CONVENTION BUR D' ETUDES RIDEL
+COLLECTIVE CAR à TNG CON 3 a ILA SOCIETES DR CONSETLS
+Détails de l'emploi occupé
+ATTECTATION 100200001181
+Eléments de paie qui
+ENILOI
+AGENT DE TRI
+115,00
+impactent in stre salaire
+CLMBIFICATION OUV ISL
+Brut de ce mois
+Première ligne de salaire
+DESGNATON
+de base corresponds à
+SALAIKE DE BASE
+votre sall aire: mensuel sur
+NAJORATION H NUIT
+2 DIN AFT
+le mois de paie
+E 7 TERIE 101
+AUSE RE UNERE &
+Toutes les autres lignes
+ABSEICE S.MALADIE
+H'ONI LALADIE
+correspondent aux
+SEET NALADIE A SON
+variables issues du
+INDONGES BAYES
+calendrier de présence .
+EGL GARX TIES CONV
+ROUME RATION SRUTE. (1)
+impactent votre brut
+a a
+SECUR TTE SOCIALE NALADIE NATERNITE
+INVALIDITE DECE
+IRE NC E
+COMPLEXENTAIRE SANTE
+VTS DU TRAY
+RETRAITE
+le
+a
+no PTE SOC PLAP NEE
+a
+SECUR TEL SOCIALE DEPLAFONNEE
+de
+Cotisations obligatoires
+MPLE RENT DE TRANCHE
+FANILLE
+salariales
+qui
+et patronales
+ASSURANCE CHONU AGE
+servent à calculer votre
+COTISATIONS STATUTAIRES
+B PREVES PAR 5 NTD ON L a TVI
+net
+COMERIBUT 1085 : : L' DUPLOYEUR
+à payer.
+AUTRES
+CSG DEDU a BLE DE 2 TNPOT su : as NU
+CSO/CROS MON DEDUCTIBLES N L DUPOT suz : REVENU 161
+EXONERATIONS DE COTTSAT DONS ENOLOY EUR
+COTI SAT. BALARIALES. (2)
+a
+"COZISAT.
+FR UNTE
+54 €
+Déductions sur le net (non
+JOINT E : REVENU
+TAUX 7E 1 NAL ISE
+imposable)
+AUTRES RETERIES
+Revenu total avant la
+NET A PAYER AVANT IMPOT SUR : REVENU
+1211 32
+KM
+DONT VOLUTICN DE 1 NERATION LIEE 4 1 SUPPRESSIC 1
+22
+déduction des impôts
+DE 0718A71001 SALN NRIALES CRONAGE : NALADIE
+CNUS E UROS
+APAER
+1167 de
+RELEVENENT 4 5 SOURCE
+RS
+434
+Résumé des contributions
+TOTAL LEGENENTS VERSE ENIL PLOYEUR LOYEUR
+10 Et
+157 :
+a CUROS VIRDIENE
+A i
+du salarié et de
+AVANT 1 URR
+de ETE GENERALE
+l'employeur pour 8 mois
+NET TISCAL
+1313
+694
+BIC OGETRPP
+ERAN FR76 3000 0000 1111
+et pour le total de l'année
+4444 5555 666
+Total des congés payés
+CONCES PAYES- ACQUIS
+Part 0198
+EU COURS
+.00 7.32
+acquis et en cours
+ACQUIS
+8.80
+1,00 0,0 D
+d'acquisition (en jours) sur
+la période de paie
+li/ le solde affiché prends
+en compte les CP pris sur
+le calendrier de paie
+0 le suis en congés en
+août, mon solde: sera
+actualisé sur la paie de
+septembre
+
+N
+
+PE 1234X
+
+TH DEC a ZA
+
+1476
+1577
+571
+157
+
+la HALADIE
+DECES PAYES
+an ms DE NUIT EXCER.
+
+pain, sans a la de d 1 Pour
+
+i vor lar rubague dese
+
+tier
+
+Pour toute question ou demande de renseignements, n'hésitez pasà
+contacterà contacter le service des ressources humaines a LS60650L'LO
+ou soumettre une question sur HR cases via l'application ou le portail Atoz
+
+amazon

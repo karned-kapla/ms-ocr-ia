@@ -1,0 +1,27 @@
+Email
+Préngm, Nom
+Adcesse
+
+Invoice Date:
+17mh March 2020
+Invoice Number:
+INV001
+ABN Number:
+
+INVOICE
+Nom du client
+Adresse du client
+Description
+
+Unit
+
+Price/unit
+200 AUD
+TOTAL
+
+Amount
+200 AUD
+
+3 a 4
+
+200AUD

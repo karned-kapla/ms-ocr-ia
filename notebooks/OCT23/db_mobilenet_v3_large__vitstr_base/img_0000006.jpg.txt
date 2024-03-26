@@ -1,0 +1,52 @@
+[Nom de l'entreprise)
+
+FACTURE
+
+[Adresse)
+
+[Ville (Province), Code postal)
+Téléphone : 000 000-0000
+
+. 30 FACTURE
+2034
+
+DATE
+L2-20-8102
+
+FACTURE A
+(Nom)
+
+RÉF.CLIENT
+564
+
+CONDILOON
+Paiement e réception
+
+(Nom de reenrrppiise)
+(Adresse)
+
+(Ville (Province), Code postal)
+.N de teléphone)
+(Adresse de courriel
+
+DESCRIPTION
+frais de service
+
+QTE PRIX UNITAIRE
+
+MONTANT
+
+-
+- de
+
+200.00
+75.00
+(00'os)
+
+200.00
+375.00
+(000o))
+
+Main-d'ceuvr : 5 heures à 75 S rheure
+
+Remise nouveav client

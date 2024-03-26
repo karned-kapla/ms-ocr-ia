@@ -1,0 +1,33 @@
+Bellomy Research, Inc. 4025 UNIVERSITY PARKWAY WINSTOT-SALEM, N.C. 27106
+Job 186127 June, 1986
+TEST e1 RJR PRE-RECRUIT TEST VALIDATION (WALKER #70301)
+NAME: TELEPHONE f:
+TTVO RECORD -2 Not At Home
+1 Completed Interview
+1
+-4 No Such Refused Person (AIDE4S) C - C
+-5 Other
+Callback Appointment Date Time
+Attempt Number 1 1
+-
+(ASK TO SPEAK TO PERSON WHOSE NAME APPEARS ABOVE.)
+Hello, I'm
+from Bellomy Research, Inc. I'm calling to thank you for
+participating in a recent test and to check some information.
+1. In the past tvo weeks did you participate in a cigarette study in which you tested sone cigarettes?
+Yes No
+-1 SKIP TO Q.3 -2
+2. Do you smoke cigarettes?
+Yes No
+TERMINATE
+3. What did the wrappers on the packs of cigarettes you tested look like? (DO NOT READ)
+White/Plain or white/Generic. Other (SPECIFY) Don' t remember
+1 -2
+4a. What was your usual brand of cigarettes when you started the cigarette test? (DO NOT READ)
+Correct Brand Circled -2
+Respondent Answer 1 -2 - (SPECIFY)
+Marlboro Winston. Other.
+4b. What type of cigarette is that? Is it Full Flavor, Low Tar or Ultra Low Tar?
+Correct Type Circled -
+Respondent Answer
+Full Flavor Low Tar. Ultra Low Tar.

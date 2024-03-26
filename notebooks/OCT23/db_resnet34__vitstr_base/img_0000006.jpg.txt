@@ -1,0 +1,52 @@
+[Nom de l'entreprise,
+
+FACTURE
+
+(Adresse)
+
+(Ville (Province), Code postal)
+Téléphone : 000 000-0000
+
+N a FACTURE
+2034
+
+DATE
+2018-02-21
+
+FACTURE A
+[Nom)
+
+REF. CLIENT
+564
+
+CONCILION
+Paiement à réception
+
+[Nom de l'entreprise)
+(Adresse)
+
+[ville (Province) Code postal)
+[N de téléphone)
+[Adresse de courriel
+
+NOUAPOS30
+frais de service
+
+QTE PRIX UNITAIRE
+
+MONTANT
+
+1
+5
+
+200.00
+75.00
+(50.00)
+
+200.00
+375.00
+(50.00)
+
+Main-d'ceuvr : 5 neures à 75 S rheure
+
+Remise nouveav client

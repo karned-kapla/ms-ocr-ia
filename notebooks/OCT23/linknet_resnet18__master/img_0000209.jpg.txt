@@ -1,0 +1,19 @@
+Test neuer Personalausweis
+
+DAWT02466
+
+Anwendungstest
+
+MUSTERMANN
+
+MARKUS
+
+17.06.1982 DEUTSCH
+
+BERL IN
+
+31.10.2010
+
+836592
+
+termant

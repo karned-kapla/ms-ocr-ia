@@ -1,0 +1,19 @@
+[Nom de l'entreprise)
+FACTURE
+(Adresse]
+[ville (Province), Code postal) Teléphone : 000 000-0000
+N 3E FACTURE 2034
+DATE 16-70-8106
+FACTURE A [Nom]
+REF.CLIENT 564
+CONDITIONS Paiement e réception
+[Nom de rentreprise) [Adresse)
+(Ville (Province), Code postal) NI de teléphone) [Adresse de couriel
+DESCRIPTION Frais de service
+QTÉ PRIX UNITAIRE
+MONTANT
+: - 1
+200.00 75.00 (000s)
+200.00 375.00 (000s)
+Main-dioure : 5 heures a 75 s rheure
+Remise nouveau client

@@ -1,0 +1,21 @@
+FACTURE
+SAUCISSES SA 81-85 Cours Albert Thomas, 69003 Lyon, Telephone: +33 12 14 6789 Fax +33 12 345 6789 Email: tescrvation.ssucisscsurgmaidcom a saucisses.com
+N:123
+France
+DETAILLE DE FACTURE:
+Date de facture Sujet Montant Totale FACTURA A: NOMBRE DIRECCION TELÉFONO CORREO FLECTRONICO
+22 de abril de 2019 Jambons et saucime 800E Jarge Santos Calle Canteros 68, Huelva, Expana +34 123 456 789 lapounbniigmalom
+$ TIPO DE ARTICULO 01 Jambons et saucimes
+DESCRIPCION Jambons 100% Espagnole
+QTY PRECIO 325€ 3 220E
+IMPORTE 325€ 660€
+02 Jambons et saucisses premium Jambans et saucisses premium 7Kg
+03 04 05 06 07
+SOUS-TOTAL TVA (%02) REMISE (01)
+9856 206,856 SNTGIE
+MONTANT TOTALE 1.072.66
+METHODE DE PAIEMENT NOMBRE DEL RANCO SUJET NOM
+CONDITIONS GENÉRALES Auamentiunt undit a ccUs et aut magnis a solorum autas digento ce - rernatums sed estimum hil to lenit a redt maie blat laccarit temquam voloribus aut magins a maio hil
+Ret Everum Bank 1710042019 Débora Consedus
+solorum.
+Merci pour votre service.

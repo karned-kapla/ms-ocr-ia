@@ -1,0 +1,140 @@
+COOVER
+
+BULLETIN DE PAIE
+Piriode du dd/mm/mYYy a dd/mm/mYy
+Reserence bulkitin
+Ne stuiit socile
+Catigorie
+Emploi
+Date anciennent
+DEbut centrat
+Fertaz jour
+Canv. Coll
+
+ENTREPRISE
+Adresse
+CP yare
+SRET
+
+NAF
+
+Code
+
+Cotiittonn slari
+Base
+Taux
+Montant
+Bane
+29'S
+10,250
+1 554,62
+1 t''s5
+
+Cotrations emplor 1
+Taus
+
+Ubele de a anbuen
+
+Montant
+
+1001 Salaire brut
+BRUIT SALAIRE BRUT
+Sante
+A03 Comprementaire Sante
+RETRAITE
+CB1 securne sociale plafonnde
+€ Securite sociale deplatornde
+cas Complémertaire trarche A
+DOL FAMILE
+ASSURANCE CHOMAGE
+601 ASSURANCE CHOMAGE
+
+A01 Securite sociale-Maaadie Matemite invidtt Depis
+BD1 ACCIDENTS DU TRAVAIL- MALADIES PROFESSIONNELLES
+
+554,62
+29Y
+554,62
+554,62
+554,622
+a 554,52
+t9'ss
+29115
+a 29's5
+19155
+1227,99
+
+29'
+7,00%
+108,82
+155442
+WO6'
+6EEE
+6,90M
+107,27
+155442
+8,55%
+2E'E
+040
+6222
+554,62
+1,90%
+H5'
+401%
+62,34
+55482
+6,01%
+554,62
+3,45%
+1s'
+55442
+4,20%
+1554,52
+1,645
+25,50
+RR0
+105,71
+2,00%
+45,08
+1227,99
+0,00%
+0,00
+E9SCE
+
+FOL AUTRES MNOGNMININO oUeS PAR CEMFOOYEUR
+HO1 CSG diducteee de I - le reveuu
+01 CSG/CRDS non deducttee de rimpot - le revenu
+101 DIONERATIONS DE COTISATIONS EMPLOYEUR
+
+IMPI Net imposable
+PAS2018 Retenue 4 . source
+cOTI Total Cotisations
+
+364,40
+22p 7,99
+- a
+Mer tnnt
+- 0e
+NET y PAYER
+a a G44
+0 o
+ZOE55
+
+NET A PAYER AVANT IMPÔT SUR LE REVENU
+imple sur l revenu
+Imple sur E revenu prlieve a l source
+Domicilaatin
+IBAN
+BIC
+Benificiaire
+
+dont revolution a la remunerttion le ala omaadd des cotisations chomage e malade
+
+Base
+- 227.9
+
+Taux personnalise
+0,00%
+2 par mmmmrtle agieymm
+Angeeme a cotnattir imginyur
+E - 1 ferreirmr

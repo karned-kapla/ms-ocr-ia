@@ -1,0 +1,57 @@
+NOM DE VOTRE ENTREPRISE
+
+Siogan de votre entreprise
+
+Adresse
+
+Ville CutProvince. Code Postal
+Télephone 123456.7890 Fax 123.456.7091
+
+DATE 1/1/2002
+Numere Facture N: 100
+Code client
+Pro forma valable jJusqu'au: 16lan/02
+Prepare par
+
+Doit:
+Nom
+Entreprise
+Adresse
+Telephone
+
+Ville, CtatProvince Code Postal
+
+Facture pro forma
+
+Commentaires ou Indications particulières: 1 Aucun
+
+VENDEUR
+
+NUMERO BC
+
+DATE EXP.
+
+TRANSIT POINT FOR MODALITÉS
+
+Do à la Ivraison
+MONTANT
+
+QUANTITE
+
+DESCRIPTION
+
+PRIX UNITAIRE
+
+TVA
+
+TOTAL HT $
+TVA
+MONTANT DEDUIT
+AUTRES
+TOTAL $
+
+860%
+
+Si vous avez une question concerant la prdsende facture oud forma, chisistez pas a nous contacter INOMI N TEL
+
+Nous vous REMERCIONS DE Nous AVOIR CHOISES

@@ -1,0 +1,36 @@
+Test neuer Personalalausweis
+
+L00001111
+
+Ansichtsexemplar
+
+Name Surname/Nom
+MUSTERMANN
+
+GEB. GABLER
+Vornamen/Giver
+ERIKA
+
+renoare
+
+Geburtstag/Date Date de
+naissance
+
+of bith Staatsangehorigke: ation . -
+
+Nationalife
+
+12.08.1964 DEUTSCH
+
+Gebortiort/Place of birth/Lieu de naissance
+
+BERLIN
+
+bis/Date of expiry/
+Butes expiration
+31.10.2010
+
+000001
+
+der Inhaberin/des Inhabers
+Unterschrift of bearer Signature de la titulairel

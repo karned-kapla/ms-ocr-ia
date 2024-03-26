@@ -1,0 +1,57 @@
+NOM DE VOTRE ENTREPRISE
+
+Slogan de votre entreprise
+
+Adresse
+
+Vile CtatProvincn, Code Postal
+Telephone 123.55.7889 Fax 123.456.0891
+
+DATE 1/1/2002
+Numéro Facture N:: 100
+Code client:
+Pro forma valable jusqu'aur 10/Jan/02
+Prepare par
+
+Doit:
+Nom
+Entreprise
+Adresse
+Telephone
+
+Vile, EtatProvince Code Postal
+
+Facture pro forma
+
+Commentaires ou Indications particulieres: 1 Aucun
+
+VENDEUR
+
+NUMERO BCC.
+
+DATE EXP.
+
+TRANSIT POINT FOR MODALITES
+
+Do à la livraison
+MONTANT
+
+QUANTITE
+
+DESCRIPTION
+
+PRIX UNITAIRE
+
+TVA
+
+TOTAL HT $
+TVA
+MONTANT DEDUIT
+AUTRES
+TOTAL $
+
+860%
+
+SI vous avez une question concemant la présente tacture oud forma, nhessiser pas à nous contacter INOM N TEL.
+
+NOUS vous REMERCIONS DE NOUS AVOIR CHOISIS

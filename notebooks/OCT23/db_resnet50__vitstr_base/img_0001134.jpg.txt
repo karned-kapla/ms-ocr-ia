@@ -1,0 +1,88 @@
+Mutations .E signal transduction pathways
+
+and inherited diseases
+Paolo Sassone-Cors and Emiliana Borrelli
+
+NOTICE:
+
+PROTECTED THISMATERIAL MAY BE
+EYCOPYRIGHT LAW
+TITLE17US CODF
+
+CNRS-INSERM, Strasbourg, France
+
+Intracellular signal transduction pathways have central roles is processes
+such as growth, differentiation, neurotransmission and development. The
+aberrant expression of components of various signal transduction pathways
+has profound consequences for cellular functions. Recent findings indicate
+that many cases of neoplasia and inherited diseases have, at their roots,
+mutations in key steps of signalling pathways.
+Current Opinion in Genetics and Development 1992, 2:455-458
+
+Introduction
+
+Troubles in the nucleus
+
+A prerequisite for normal cell growth and differentiation
+ls chat 8 cell must be able to receive, interpret and re-
+
+In the nucleus, many transcription factors 8 as AP-1
+(7-), NF-XB (8), CREM (-6) and SRF (10) have been iden-
+
+spond appropriately O) signals sent both from other cells tfedd as the final targets of signal transduction pathways.
+and from their environment. The plasma membrane is Some of them are constituted by oncoproteins, like Fos
+the extemal interface of the cell that bears many elements and Jun for AP-1 '(-4) and Rel for NF-xB (11). Yet other
+required for the primary analysis of such signals. Among oncogenic products have been found to have important
+interact specifically with a variety of compounds. Binding of Myc, Myb and ErbA dipp Correct transcription initia
+ofa ligand to its receptor initiates a cascade of events that tion relies upon cooperation between these various fac-
+trol lof gene expression. By altering the spectrum of genes the regulatory activity of nuclear oncoproteins have been
+expressed, the cell appropriately adapts its physiology OI found o1 respond to various signalling systems (14.,15),
+a given stimulus. Aberrations 5 this process can lead to and as such Pinoo be considered as transcriptional anti.
+nesis. Two major signal transduction pathways, which A striking example of how inherited diseases and neo-
+use cyclic adenosine monophosphate (CAMP) and dia- plasia can be associated wich a specific transcription fac-
+cylglycerol (DAG) as secondary messengers, exist (1,2.3). tor defect concern the disease Wilm's tumour (16-J. In
+Each pachway is characterized by its specific protein ki the USA, among children under 16 years of there
+nase, protein kinase < (PKA) and protein kinase C (PKC), are 350 new cases of Wilms' tumour diagnosed age, every
+respectively, although a large number of kinases has been year. Congenital abnormalities associated with Wilms'
+membrane receptors and cytoplasmic and nuclear com- of the genitalia and neurofibromatoosis (NF). The mode
+ponents are responsible for the fine modulation of gene of inheritance is autosomal dominant with variable pen-
+expression [5-). Significantly, oncogenic products 8 etrance (17). In the past, this kind of neoplasia has been
+cupy pivotal positions in all the pathways of intracellular explained by a 'rwo-hit mutation model, in which the
+for cellular physiology and metabolism. The past year has is located at the Wilms' tumour locus (11p13), has been
+& many important advances in our understanding of cloned and characterized. It is postulated 9 be a tumour
+
+these elements are membrane receptors that are able to functions at the level of
+
+regulation, as in the cases
+
+modulate a variety Q cellular functions including the con-
+
+tors (13-). In 'uoppppe proteins thar negatively modulate
+
+deregulated cell proliferation and ultimately tumourige oncogenes.
+
+identified to date (4). A myriad of interactions between
+signalling (6*), graphically demonstrating that aberrations
+in transducing systems can have dramatic consequences
+the links between defective signal transduction and dis-
+ease. In this review we will focus on some key examples
+that represent paradigms of this phenomenon.
+
+tumour include aniridia, hemihypertrophy, malformation
+loss of a functional gene product resulted from muta-
+tion at homologous loci. Recently the wtl gene, which
+suppressor gene and encodes a nuclear protein that in-
+teracts with specific DNA promoter elements by means
+of a zinc finger-containing domain (16-). The Wilms'
+
+Abbreviations
+
+CAMP ccylii adenosine monophosphate; CF-cysiic fibrosis: CFTR-CFF transmembrane regulator,
+CRE-CAMP-responiive elements: DAG-diayylglycroo CAP-GIPPss-aativatig protein, G-protein CTP-binding protein;
+Ne-neurolbromattoiis PKA- protein kinase A PKC-protein kinase d WT-Wims' tumour.
+
+Current Biology Ltd ISSN 0959-437X
+
+455
+
+2031367951

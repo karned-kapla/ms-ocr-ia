@@ -1,0 +1,240 @@
+Cliquez sur l'icône
+
+pour en savoir plus
+
+Societe Exemple SA
+11 rue de Cambra
+75017
+PARIS
+Etabissement Etabissement principal
+SRET 73203932000017
+URSSAF 0203978900360
+Code Salarie 5001
+Emploi Secretaire
+Echalon 5
+
+BULLETIN DE PAYE
+
+Pariode de paie du 01/11/2007 au 30110007
+Paiement Par Vrement le 05/122007
+Piafond du mois 2682.0
+Lepic (nde Durant) Martine
+15, avenue des Marechaux
+PARIS
+
+APE 200C
+93510 MONTREURL
+N SS 274127545100356
+Coet 200
+
+Qualfication Secretaire de direction
+
+75012
+
+Convention coliective Dureaux detudes lechniques
+
+Cabinets dingenieurs consels
+De conseil (SYNTEC)
+Libele
+SALAIRE DE BASE
+LJSS dodunes
+Heures dabsence
+Manten de salaire
+LISSGN M1 retenue pour garantie du NET
+SALAIRE BRUT
+CFILBU Reducton Fion
+Maiade Mater Deces Vell
+CSG-CROS non deducables
+csa diducticle
+Assurance vielesse
+Viellesse deplatonne
+Allocations tamilales
+Accident du raval
+Aide au logement
+Aide au logement, 20 salanes
+Sondame aux personnes agees
+Assurance chomage, AB4
+AGS (FNGS)
+Retrate non cadre. TA
+AGFF non cadre, TA
+Taxe d'apprentissage
+Conere adotionnete taxe apprent
+Formation pro, 20 salaries
+Partopation construction a sal
+Versement transport Paris
+Mutuele
+TOTAL RETENUES
+NET IMPOSABLE
+LJSS versees
+NET A PAYER
+
+Element
+IJSSM
+R001
+RMSAL
+C120
+C115
+C116
+C130
+C140
+C150
+C160
+C180
+C181
+C190
+C200
+C220
+C300A
+C330A
+C600
+C601
+C610
+C620
+C700
+C710
+IISSP
+
+Base
+Tx SAL
+151.67
+9.231
+175.06
+55.15
+9.231
+509.09
+32.90
+96.52
+12.350
+47.68
+1192.04
+0.850
+1205.19
+2.900
+1205.19
+5.100
+1192.04
+6.650
+1192.04
+1192.04
+1192.04
+1192.04
+1192.04
+1192.04
+1192.04
+1192.04
+1192.04
+1192.04
+1192.04
+1192.04
+1192.04
+1192.04
+1192.04
+2682.00
+16333
+
+M: SAL
+1400.00
+-175.06
+-509.09
+500.09
+-3290
+1192.04
+-10.13
+-3495
+-61.46
+-79.27
+
+Tx. PAT.
+
+Mt. PAT.
+
+-100.000
+12800
+8.300
+1.600
+5.400
+1.000
+0.100
+0.400
+03000
+4.000
+0.150
+4.500
+1.200
+0.500
+0.180
+1.600
+0.450
+2500
+1.880
+
+47.68
+-15258
+-9894
+-1907
+-6437
+-11.92
+-1.19
+-4.77
+-358
+-47.68
+-1.79
+-5364
+-1430
+-5.96
+-2.15
+-1907
+-5.36
+-29.80
+-50.42
+-538.91
+
+2.400
+3.000
+0.800
+
+-28.61
+-3576
+954
+
+0.900
+
+-26.28
+-286.00
+940.99
+16333
+1069.37
+
+Net Imposable
+Montant Hres exondrdes
+Salaire brut Retenues
+
+940.00 Net A Payer
+0.00
+CUMULS
+Net
+Heures
+
+1069.37
+Montant Retenues
+2037
+
+Congle Paye
+N-1 N
+Da 30.00 15.00
+Pris 000 0.00
+Reste 30.00 15.00
+
+Repos
+Compensateur
+0.00
+000
+0.00
+
+Salariales imposable travailes hres exo. patronales
+
+13193.40 315025 10095.49 1170.19
+
+541781
+
+Dans votre intaret, conservez ce bullen sans limation de dunee,

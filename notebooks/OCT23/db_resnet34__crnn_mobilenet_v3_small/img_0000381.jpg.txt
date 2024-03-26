@@ -1,0 +1,196 @@
+496036
+SAS LABO DE LA PAYE
+1 RUE ROYALE
+75013 PARIS
+
+BULLETIN DE SALAIRE
+
+Période Mars 2013
+Paiement le 31/03/2013
+Du 01/03/2013
+
+Siret 5299999999 Code NAF 6203Z
+Urssaf 7807999999999990 MONTREUIL CEDEX
+
+Au 34/03/2041
+
+CPI N-1
+Acquis 0.00
+Total pris 0.00
+Solde
+
+CP N
+2.50
+2.50
+0.00 / 2.50
+Entré(e) le 01/03/2013
+
+MR DE LA PAYEJEAN
+
+1 RUE PETIT
+75013 PARIS
+
+Matricule 47 No Sécu 180099999999995
+Emploi ADMINSTRATEUR JUNIOR
+
+Ancienneté 01/03/2013
+
+Qualif ETAM Classif a 2.2 Coeff 310-0000
+
+SMIC horaire 9.43 Plafond Sécu 3086.00
+
+Taux
+salarial
+11.0984
+
+Montant
+salarial
+1683.30
+1683.30
+
+Taux
+patronal
+
+Cot
+Patronales
+
+Rubriques
+
+Base
+151.67
+
+SALAIRE DE BASE
+SALAIRE BRUT
+
+EP01 URSSAF-Maladie-Matern -Inval
+EPO2 URSSAF SOLIDARITÉ
+EPO3 URSSAF ACCIDENT DU TRAVAIL
+EP04 URSSAF ALLOC FAMILIALES
+EP05 URSSAF ASSVIEILESSE PLAF
+EP06 URSSAF ASS. VIEILLESSE DEPLAF
+EP07 FNAL
+EFE2 REDUCTION FILLON TEPA 2012
+EP12 ASSEDIC Tr. A
+EP19 FONDS DE GARANTIE (AGS)
+EP20 RETRAITE ARRCO NC T1
+EPR1 AGFF NC TRANCHE 1
+E951 PREV.NC TA
+EP28 TAXE DAPPRENTISSAGE
+EP29 FORMATION CONTINUE
+EP37 CSG DÉDUCTIBLE
+EWESFOREAIT SOCIAL
+TOTAL RETENUES
+
+1683.30
+1683.30
+1683.30
+1683.30
+1683.30
+1683.30
+1683.30
+1683.30
+1683.30
+1683.30
+1683.30
+1683.30
+1683.30
+1683.30
+1660.07
+6.23
+
+07500 12.62
+6.7500 113.62
+0.1000 1.68
+2.4000 40. 40
+3.0000 50.50
+0.8000 13.47
+0.3700 6.23
+5.1000 84.66
+323.18
+
+12.8000
+0.3000
+1.2000
+5.4000
+8.4000
+1.6000
+0.1000
+-100.0000
+4.0000
+0.3000
+4.5000
+1.2000
+0.3700
+0.6800
+0.5500
+8.0000
+
+215.46
+5.05
+20.20
+90.90
+141.40
+26.93
+1.68
+-283.47
+67.33
+5.05
+75.75
+20.20
+6.23
+11.45
+9.26
+0.50
+413.92
+
+NET IMPOSABLE
+SP02 URSSAF CRDS
+NET A PAYER
+Heures période
+Cumul heures
+Cumul h. sup
+Sold rep. remp.
+Sold rep. remp.
+
+1660.07
+1660.07
+32.55
+
+2.4000
+1360.12
+0.5000 39. 84
+8.30
+32, .55
+1344.53
+1683.30 Paiement
+1683.30
+1360.12 par virement
+0.00
+
+SP01 URSSAF CSG NON DEDUCTIBLE
+SP00 REMBOURSEMENT TRANSPORT
+
+151.67 Cumul bases
+151.67 Cumul bruts
+0.00 Cumul imposable
+Cumu H. Majorées
+
+Total cotisations 413.92
+
+patronales
+Total des
+retenues
+Coût globale
+période
+NET A PAYER
+
+785.24
+2097.22
+1344,53 Euros
+
+Bureaux d'études techniques. cabinets 'ingénleurs-conseile
+
+sociétés de conseils (CICF SYNTEC)
+
+A aut de Convention Collective Code dut Travail Durée des congés pavés art. 13141-3.6711.12 Durée préavis art.L.1237-1 et L1234-1
+Dans votre intérêt et pour vous aider à faire valoir vos droits, conservez ce bulletin de paie sans limitation de durée.

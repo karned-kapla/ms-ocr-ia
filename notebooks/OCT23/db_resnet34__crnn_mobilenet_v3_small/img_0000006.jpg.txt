@@ -1,0 +1,52 @@
+[Nom de l'entreprise,
+
+FACTURE
+
+Adresse)
+
+[Ville Province), Code postal)
+Téléphone : 000 000-0000
+
+N % FACTURE
+2034
+
+DATE
+2018-02-21
+
+FACTURE A
+[Nom]
+
+RiF. CLIENT
+564
+
+COMIOINOINE
+Paiement à réception
+
+[Nom de lentreprise)
+Adresse)
+
+[Ville Province) Code postal)
+(N de téléphone)
+(Adresse de courriel)
+
+NOUL4BES30
+Frais de service
+
+QTE PHIX UNITAIRE
+
+MONTANT
+
+1
+5
+
+200.00
+75.00
+(50.00)
+
+200.00
+375.00
+(50.00)
+
+Main-d'ome : 5 heures à 75 5 rheure
+
+Remise nouveau cient

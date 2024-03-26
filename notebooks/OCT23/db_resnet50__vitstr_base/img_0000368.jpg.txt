@@ -1,0 +1,198 @@
+BULLETIN DE PAIE
+PAIE DU 01/05/2013 AU 31/08/213
+Matricule 0000000004
+N -
+Emploi RESPONSABLE ATELIER
+& 2EME ECHELON
+Niveau ACT 6
+Coeff. 270
+Indice
+Date de debut dancionnene
+Heures paydes
+
+EURO
+Original
+
+42510 BALBIGNY
+ORD :
+
+Entree 01042200
+Sortie
+05/0119977
+189
+
+42510 BALBIGNY
+ADEDURE
+
+QUANTITE
+ou BASE
+TAUX
+151.67
+14.5500
+17.33
+18.312
+2735,18
+0.8500
+2735,18
+6.7500
+2735.18
+2735.18
+2735.18
+2735,18
+2735,18
+17.33
+2735.18
+2735.18
+2735,18
+21 735,18
+2735,18
+2735,18
+h 816.89
+2816.09
+2816.00
+
+CHARGES PATRONALES
+TAUX MONTANT
+
+RUBRIQUES
+D0A1.1 Joumde de Solddarit Effechude
+0004 Salare horare
+1015 Prime danciennee Bois
+2016 Heure suppiementairs 25 %
+4383 10onges payes 21/05/13
+43812 1 jour CP.1112 Soldes
+TOTAL BRUT
+2000 Maladie
+ocor Ast Viedeesse TA
+2060 Vellesse depl
+2000 Alocations lamilaale
+2120 Accident du traval
+2150 FNAL TA
+5700 Contribution solidarte daatonomee
+1000 Deduc Patronale H.Sppp. (nc20Sal)
+7000 ASSEDIC AC tranche A
+7034 AGFF T1
+7180 AOS UFGSS)
+8000 Retrane ARRCO T1
+8100 Mutelle AG2R
+8529 Prevoy Mensunlisation NC
+8539 Provoy UGRR deces-in
+9000 CS0 deductible
+9002 CSO non deductble
+9004 CRDS
+TOTAL RETENUES
+NET IMPOSABLE
+
+APAYER
+2221.97
+196.85
+317.36
+2735,18
+
+21.25
+184.82
+
+12.8000
+84000
+1.8000
+54000
+4.3000
+0.1000
+0.0000
+4.0000
+1,2000
+0.3000
+4.6000
+1.1880
+1.1870
+
+350.10
+229,76
+43.78
+147.70
+117.11
+2.74
+8.21
+-26.00
+109.41
+32.82
+8.21
+123.08
+99.90
+32.49
+32477
+1309,26
+
+24000
+0.000
+300000
+0.200
+5.1000
+2.4000
+0.0000
+
+65.4
+21.88
+82.06
+32.29
+19.04
+143.65
+67,60
+14.08
+655.01
+
+2161,85
+
+Wode a Reglement - Virement
+Paye 5 31/052013
+l Cel 3041 BOS ET SCEEEES
+CUMUL BRUT
+15 043.05
+Conghe
+1112
+acque
+30.00
+pri
+30.00
+matarte
+Charges salarian
+
+NETAPATER SUMUL CHARLES PALRONALES
+
+EUR
+FLAFONO E
+11 908990
+15 430,00
+am
+DE
+120,00
+120.00
+3582,80 Ne . payer
+
+2000,17
+CUMULHEURES
+915.50
+
+7050.78
+COUT GLOBAL SALARE
+4 044,44
+VALEUR EN EUR
+ant
+273518
+Net . Payer
+2020.1
+Net imposable
+101.80
+14 780.41
+
+CUMUL BASE 3.5 CUMUL IMPOLABLE
+
+15 043.65
+1273
+30.00
+30.00
+
+14411.0 Bese cSO deducsble Abamue
+De montants sore caicuee salon le - a cenvesiin de
+
+DANS VOTRE INTERET ET POUR vous ADDR . FARE VALOIR 2 CROITS CONSERVER ce BULLETI DE PAE SANS LMITATION DE DUREE

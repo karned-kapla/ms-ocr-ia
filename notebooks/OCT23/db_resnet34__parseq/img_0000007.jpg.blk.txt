@@ -1,0 +1,17 @@
+[VOTRE SOCIETE]
+[Choisir une date)
+N" DE LA FACTURE1234
+Facturer à Client N" ret. client Adresse Telephone Vendeur Modalite de paiement Quantite
+Adresse de Ihraison Destinataire Adresse Telephene
+Nom du dient Entreprise) mul dient Adressel (Vile, Pays, Code Imsos [Telephonel (Nom du vendeur) Modaine N d'article
+(Nom du destinatairel Entreprisel [Adresse) (vile, Pays, Code postal [Telephonel
+Date de paiement Cholsir une datel
+Date de livraison 1Choine une datel Mode de livraises Mode de leraisont
+Modaline de Ivraison Prix unitaire
+[Modaling
+Total de la igne lavant remise)
+Description
+Remise
+Total de la remise Sous-totel Tares ventes Total
+Nous vous remercions de votre confiance. [Addresse, Code postal Ville) I Adresse wet P (Telephonel - igTelecopiel - [Adresse de messagene)
+Votre seciese)

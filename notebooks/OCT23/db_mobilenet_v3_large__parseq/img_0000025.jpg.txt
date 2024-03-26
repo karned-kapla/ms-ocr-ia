@@ -1,0 +1,67 @@
+Fater A - Commeno F - I de Rave deev Made Antine Cedice Mar E 1 - Redente t - -
+
+Run
+
++
+
+0601
+Nom
+
+FACTURE
+
+DATE
+Date
+
+N" DE S FACTURE VOTHE socient
+
+Rue
+Cede postal Vile
+Telephone
+Telecopie
+Adresse a -
+
+Numero
+
+FACTURER A
+Rue
+Code postal Vile
+Telephone
+Telecopie
+Adesse de cournier
+
+VENDEUR POSTE CONDITIONS DE PAIEMENT DATE DECHEANCE
+
+Ale reception
+DESCRIPTION
+
+QUANTITE
+
+PRIX UNITAIRE TOTAL DE LA LIGNE
+
+2
+I
+I
+1
+
+( a 1
+0 a I
+De- a 1
+( a ma
+
+Men - €
+Mentare - €
+Man - C
+Mate - €
+Mar - a
+Muda - a
+M. - €
+Mwe - e
+Sove-tocal
+TVA
+Total
+
+i
+
+-
+
+a

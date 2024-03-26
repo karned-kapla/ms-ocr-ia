@@ -1,0 +1,41 @@
+OFFICE USE ONLY CEC
+CECX
+CECC
+OEC
+OECX
+OECC
+OCC
+RECOL #833190 February, 1990
+MARKETING INFORMATION SYSTEMS, INC. Englewood Cliffs, New Jersey 07632 0069-496-102/6C91-1E9-008-
+FOR OFFICE USE ONLY: MBL PORTFOLIO QCT (Screener)
+100 Sylvan Avenue
+Hello, I'm 1.
+of Marketing Informa tion Systems. We re conducting an
+opinion survey today among men and women between the ages of 18 and 54 about various
+products used in the household and P.I like to ask you a few questions. First of all, are you between the ages of 18 and 54?
+CARD = '103 7(1) à (THANK AND TERMINATE) 35 - 39.. 45 - 49. 50 - 54.. 10( )-1 )-2 )-3 )-4
+8-
+Yes...
+- 1
+No...
+2.
+What is your exact age? RECORD EXACT AGE AT LEFT BELOW: THEN nXn CORRESPONDING
+AGE CATEGORY) (EXACT AGE)
+18 24... 9( 1-( 25 29. 30 LE 34..
+L )-4 à )-6 a )-7
+)-2 (CHECK QUOTAS) 40 - 44... ) )-5
+(CHECK QUOTAS
+)-3
+3.
+(RECORD, DO NOT ASK:)
+White. Black. Hi spanic. Asian. Other (SPECIFY:) Male. Female.
+4.
+(RECORD, DO NOT ASK:)
+11( )-1 )-2
+(CHECK QUOTA)
+5.
+Next, I'm going to read you a list of products. For each one I read, please tell me if you, yourself, use the product. The first one is... (READ ENTIRE
+LIST ONE AT A TIME AND RECORD).
+Yes No 12( )-1 ) 1 I )-2 . ) )-3 - )-4 A a . )-5 )-6 a 1 ) )-7 I ) (
+Antacids. Aspirin. Beer. Breakfast cereals. Cigarettes. Diet soda Frozen vegetables.
+THANK AND TERMINATET 2042625482

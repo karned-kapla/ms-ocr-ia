@@ -1,0 +1,65 @@
+fransat
+
+FRANSAT
+-
+Facture no -
+
+Adresse de facturation
+- -
+a - - -
+- - - -
+I
+Votre identifiant FRANSAT
+- 100 Inne
+Désignation
+UA:
+
+Votre référence client FRANSAT : -
+
+Date de paiement le : -
+Mode de paiement : I -
+
+- I
+
+Ouantité
+1
+
+PU HT
+00 €
+
+PU TTC
+TUR 00 €
+
+Pack Sport Sans engagement à 14.99 € TTC/mois
+
+Date de début:
+
+I
+-
+
+Total HT
+Total TVA
+Total
+
+TUR 00 €
+1.00 €
+1.00 €
+
+Détails des Taxes
+Taux
+TVA 10 %
+
+Total HT
+2018 00 €
+
+TVA
+.00 €
+
+FRANSAT, société anonyme, au capital de 2 323 823 EUR, RCS
+32 Boulevard Gallieni 92130 Issy -les Moulineaux
+No TVA intra- communautaire FR 89512443201
+
+Paris No 512 443 201,
+www. fransat.fr
+
+via eutelsat

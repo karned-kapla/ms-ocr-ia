@@ -1,0 +1,24 @@
+Bulletin
+Logo
+de
+paie
+Employeur e Nom Adresse CP et Vile Numéro APE Numéro SIRET Numéro Urssaf Convention collective Salaire de base Heures Supp. à € Heures Supp. à 50% SALAIRE BRUT
+Salarie 1 Nom et Prénom Adresse - CP et Vile N" SS Emploi Coefficient
+Période - Debut Fin: Debut contrat Date d'anciennete
+Base 151,67 0 -
+Taux 19.78 24.73 29.67
+A Payer 3 000.03 € 0,00 e 0,00 - . 000.03 €
+Plafond 8S
+33 311,00 €
+Cotisations et contributions sociales CSG non déductible CRDS non deructihle Cag déductible Sécurté sociale Assurance maladie Assurance vieillesse AV dieplafonée AV plafonnee Accidents du travail Allocation familiales Aide ne logement TV diiplafonée AL plafonnée Assedic
+Salarie Base Taux a 910,03 € 2,40 % - 910,03 € 0.50 % a 910,03 € 6.80 % 3000,03 € 0,75 % 3000,03 € 6.55 %
+Employeur Montant Base 69,84 € 14,55 € 197,88 € 22,50 €
+Taux 3000,03 € 12,80 % 196,50 € 3 000.03 € 1,90 % 3000,03 € 8,55 % a 000.03 € 7,30 R 3000.03 € 5,25 % 3000,03 € 0,40 % à 000.03 € 0,10 % 72,00 € 3 000,03 € 4,00 % 0,00 € 000 € 4,00 - 3 000.03 € 0,40 % 114.00 € 3000,03 € 5,70 2 0,00 € 0.00 € 10,30 % 687.28 € Net à payer Salaire net imposable
+Montant 384.00 € 57,00 € 256,50 € 219.00 € 157,50 € 12,00 € 00€ € 120,00 € 0.00 € 12,00 € 171.00 € 0.00 € . 392.02 € 2 312,76 € 2 382,60 € N N 2.5 2,5
+Assurance chomage tranche A Assrance chomage tranche B Assurance chomage tranche AGS (FNGS) Caisse de retraite (non cadre) Retraite complémentaire et AGFF tranche 1 Retraite complémentaire et AGFF tranche 2 Total des cotisations et contributions Mode de réglement Virement Date Cumul annuel: Net imposable Soumis SS: Cout total Heures salanées
+3000,03 € 2,40 % 0.00 € 2,40 % 3000,03 € 3.80 % 0.00 € 6.90 %
+31.10.2020
+Cumul de le période a Net imposable Soumis SS Coût total Heures salariées
+Congés payés Acquis Pris Restant
+2397,15 € 3 000,03 € 4 392,05 € 151,67
+Aut-on 8 pale à conserver sans lestation B drée
