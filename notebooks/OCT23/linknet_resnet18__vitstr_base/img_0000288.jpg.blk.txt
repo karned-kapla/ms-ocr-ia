@@ -1,0 +1,9 @@
+BASC
+40000D08
+CITSZEN :
+- - a
+CANBCHR -
+e0 :
+en
+- -
+00000014RAUES

@@ -1,0 +1,18 @@
+[Nom de l'entreprise)
+FACTURE
+(Adresse)
+(Ville (Province), Code postal) Téléphone : 000 000-0000
+NN DE FACTURE 2034
+DATE 12-co-810c
+FACTURE A (Nom)
+REF. CLEEN 564
+CONDIIINN Paiement à réception
+(Nom de l'entreprise) [Adresse)
+(ville Province). Code postal) NI de téléphone) [Adresse de courriel)
+DESCRIPTION Frais de service
+QTE PRIX UNITAIRE
+MONTANT
+1
+00'00 75.00 lor'0))
+200.00 375.00 (50.00)
+Main-drceuvre - 5 heures à 75 u rheure Remise neannou client

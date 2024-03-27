@@ -1,0 +1,51 @@
+[Nom de l'entreprise)
+
+FACTURE
+
+Adresse)
+
+[Ville (Province), Code postal)
+Téléphone I 000 000-0000
+
+N" a FACTURE
+2034
+
+DATE
+12-co-810c
+
+FACTURE A
+(Nom)
+
+REF. CLIENT
+564
+
+CONDITIONS
+Paiement à réception
+
+(Nom de l'entreprise)
+(Arresse)
+
+(iille Province)), Code postal)
+(N de téléphone)
+[Adresse de courriel)
+
+DESCRIPTION
+Frais de service
+
+QTE PRIX UNITAIRE
+
+MONTANT
+
+1
+
+200.00
+75.00
+(50.00)
+
+00/00
+375.00
+(50.00)
+
+Main-d'ceuvre - 5 heures à 75 $ Theure
+
+Remise nouveau client

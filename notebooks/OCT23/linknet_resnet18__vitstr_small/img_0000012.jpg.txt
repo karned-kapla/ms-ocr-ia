@@ -1,0 +1,59 @@
+INVOICE
+
+Brand Name
+:
+Invoice to:
+Dwyane Clark
+24 Dummy Street Area,
+Location, Lorem ipsum,
+570x*59
+
+Invoices
+Date
+
+52148
+01 a 2020
+
+SL Item Description
+Lorem ipsum Dolor
+
+Price
+Qty.
+Total
+$50.00
+$50.00
+$20.00
+560.00
+$10.00
+1
+$20.00
+$90.00
+$90.00
+
+Pellentesque id neque ligula
+interdum et malesuada fames
+Vivamus volutpat faucibus
+
+Thank you for your business
+Payment Info:
+--rum
+A/S
+-
+
+Sub Total:
+Taxi
+Total:
+
+$220.00
+0.00x
+$220.00
+
+-
+
+Terms & Conditions
+L ipeum a
+-
+- -ering
+-grissi
+
+Authorised Sign

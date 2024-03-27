@@ -1,0 +1,20 @@
+Mon Entreprise 123 Rue de France 75000 Paris France
+Facture No. 2018-08-003
+Date de la facture 7/23/2020 Référence de la facture 2018-08-003 Numéro de client 456 Paiement do R/22/2020 Modalité de paiement 30 jours Emis par Pierre Fournisseur Contact client Michel Acheteur Date de la vente/prestation 7/8/2020
+Destinataire : Acheteur SA Michel Acheteur 31 S de la Forêt 13 100 Aix-en-Provence France
+Infos additionnelles
+Merci d'avoir choisi Ma Compagnie pour nos services. Service Après Vente : Garantie 1 an. Désignation des produits ou prestations
+Quantités Unités Prix unitaire HT TVA %
+TVA 300,00 € 207,98 €
+TOTAL TTC 1800,00 € 247,88 €
+Main-d'oeuvre Produit
+25 h. 10 '0od
+60,00 € 103,99 €
+20% 20%
+Total HT TVA Total TTC
+2 539.90 € 507.98 € 3047,88 €
+Date de règlement Mode de règlement :
+Nom de votre société Adresse CP ot ville No. Siren ou Siret No. D'immatriculation RCS No. TVA intra,
+Contact Nom Prénom Téléphone XXX Email: XXX Site XXX
+Détails bancaires Banque Code banque No de compte IBAN SWIFT/BIC
+XXX XXX XXX XXX XXX

@@ -1,0 +1,93 @@
+Pierre, 62 37659 Saint remy
+Telephone: +33
+Email: wanpiere@supertact.com
+www superfact.com
+
+Jean
+Pierre
+
+507
+
+Facture
+
+08 de mai de 2019 No.1301
+
+FACTURER A..
+Nom
+Adresse
+Telephone
+Email
+
+PAYMENT ECHU.
+08 de de 2019
+juin
+NUMERO DE DEMANDE
+ne de mai de 2019
+TOTALE
+$660.25
+
+NO TYPE D'ARTICLE
+01 Nom du servicelarticle
+02 Nom du servicelarticle
+03 Nom du servicelarticle
+04 Nom du servicelarticle
+05 Nom du servicelarticle
+06 Nom du service/article
+07 Nom du servicelarticle
+
+aonetalLEFFURL
+
+QNT
+PRIX
+1
+90E
+3
+53€
+2
+32E
+2
+57€
+L
+60E
+5
+90E
+de
+90E
+
+P.T
+90€
+150E
+64€
+114€
+60€
+450€
+90€
+
+Description d'article/ service ici
+Description d'article/ service ici
+Description d'article/ service ici
+Description d'articlel service ici
+Description d'article/ service ici
+Description d'article/ service ici
+Description d'article/ service ici
+
+Méthode de payment
+Nom du Banque
+Numero de compte
+Titulaire du compte
+Terms et conditions
+
+FACTURE TOTALE
+SUBTOTAL
+TVA (21%)
+REDUCTION (10%) 21€
+TOTALE
+
+1000 €
+210€
+1200€
+
+Auamentiunt undit accus et aut magnis a solorum autas digento pon
+rematum sed estinum hil mo tenit as reet maio blat lacearit temquam
+
+voloribus nut magins a maio hil solorum.

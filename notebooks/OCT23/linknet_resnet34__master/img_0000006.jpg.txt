@@ -1,0 +1,50 @@
+[Nom de l'entreprise]
+
+FACTURE
+
+(Adresse)
+
+(ville (Province), Code postal)
+Teléphone : 000 000-0000
+
+.N DE FACTURE
+2034
+
+DATE
+12-20-8100
+
+FACTURE A
+(Nom)
+
+RÉF. CUENT
+564
+
+CONDITIONS
+Paiement à réception
+
+(Nom de rentreprise)
+[Adresse)
+
+(Ville Province). Code postal)
+NI de téléphone)
+[Adresse de courriel
+
+DESCRIPTION
+Frais de service
+
+OTÉ PRIX UNITAIRE
+
+MONTANT
+
+1
+
+00/000
+75.00
+(00'05)
+
+200.00
+375.00
+(50.00)
+
+Main-d'ceuvre . 5 heures a 75 5 rheure
+Remise neanou client

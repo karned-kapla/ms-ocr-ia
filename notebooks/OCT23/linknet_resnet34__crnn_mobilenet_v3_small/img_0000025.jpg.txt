@@ -1,0 +1,61 @@
+- - - Cmme - L - - dm - - -euv - - E - - - - - - : -
+
+a Fnain
+
+FACTURE
+
+Logo
+Nom
+
+DATE
+Date
+
+N DE LA FACTURE VOTHE BOCIETE
+
+Rue
+Cede postal Vile
+Telphone
+Telcopie
+Aresse de -
+
+Numero
+
+FACTUREN A
+Rue
+Code postal Vile
+Teiphene
+Telscopa
+Ase de courier
+
+VENDEUR POSTE CONDITIONS DE PAIEMENT DATE D'ECHEANCE
+
+A la ncestien
+DESCRIPTION
+
+QUANTITE
+
+PRIX UNITAIRE TOTAL DE LA LIGNE
+
+Pda
+hua
+nda
+nuda
+
+Oend -
+Omrend p
+Daend prode
+Orend p
+
+M- - C
+Ma - A
+M- - C
+Ma - E
+- - e
+- - a
+-- an €
+- - 6
+Souetal
+TVA
+Toal
+
+1

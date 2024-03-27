@@ -1,0 +1,21 @@
+C L 34
+BALLOT
+Name led
+Date
+Code
+Using the definitions supplied, please indicate your current evaluation of the air in this room, according to each of the four scales below.
+ODOR STRENGTH (intensity)
+slight
+extreme
+NASAL IRRITATION (intensity)
+Tslight
+extreme
+EYE IRRITATION (intensity)
+slight
+extreme
+OVERALL ACCEPTABILITY
+OF ROOM AIR extremely
+neither acceptable or unacceptable
+extremely acceptable
+unacceptable
+G:ballot

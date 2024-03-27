@@ -1,0 +1,138 @@
+CIGARETTE TEST NO. 80-20
+
+Location
+
+Name
+
+You have been given two packs of cigarettes, one pack labeled nIn and one pack labeled ndu
+Please smoke these cigarettes and complete and return the questionnaire to your Panel
+1. Which cigarette do you prefer? In Brand ( ) "p" Brand ( ( No Choice ) ).
+2. Using the seven point rating scale below, how would you rate the specific characteristics
+
+Supervisor by Friday, September 19.
+
+for these two brands
+
+Amount of Taste
+Too
+About
+Too
+Much
+Right
+Little
+2
+3 4
+5
+6
+7
+2
+3 4
+5
+6
+7
+Swee tness
+00
+About
+Too
+Sweet
+Right
+2
+3
+4
+5
+4
+5
+Harshness - Mildness
+Too
+About
+Too
+Harsh
+Right
+Mild
+2
+3
+4
+5
+6
+7
+2
+3
+4
+5
+
+Quality of Taste
+Poor
+Excellent
+2
+3
+4
+5
+1
+2
+3
+4
+5
+7
+Aftertaste
+Pleasant None
+2
+3
+4
+2
+3
+5
+Draw
+Too
+About
+00
+Hard
+Right
+Easy
+2
+3
+4
+5
+6
+2
+3
+4
+5
+6
+7
+
+Brand 1u
+Brand "p"
+
+Little Unpleasant
+
+Brand lu
+Brand "p"
+
+Brand nIn
+Brand udu
+
+3. A11 things considered, 1f you were to make out a report card on the nl. Brand, the "P"
+Brand, and your own brand using the grading system A through F, where A 1s excellent and
+
+F is totally unsatisfactory, how would you grade?
+
+Brand uIn
+Brand "p"
+Own Brand
+
+A
+B
+C
+D
+E
+F
+A
+B
+C
+-
+E
+A
+.
+
+4. Why did you prefer your choice?
+Thank you for your cooperation.

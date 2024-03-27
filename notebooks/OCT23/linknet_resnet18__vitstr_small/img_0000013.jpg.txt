@@ -1,0 +1,60 @@
+<Nom de la compagnie>
+LOGO <Adres se postale>
+<Det ails du contact
+
+FACTURE
+Date
+No de facture
+
+<Conditions de paiement par exemple du dans x jours>
+
+Destinataire
+<Nom>
+<Nom de la societe>
+<Adresse postale>
+<Téléphone>
+<Email>
+
+Envoyez à
+<Nom>
+<Nom de la societe>
+<Adresse postale>
+<Téléphone>
+<Email>
+
+nas-RIRIIO
+
+QUANTITE
+
+PRIX UNITAIRE
+
+TOTAL
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00%
+0.00
+0.00
+0.00€
+
+Remarques, notes et instructions de paiement:
+
+sOuS-TOTAL
+REMISE
+SOUS-TOTAL MOINS LES REMISES
+TAUX DIIPOSITIIN
+TAXE TOTAL
+EXPEDITIO, MANUTENTION
+SOLDE DU

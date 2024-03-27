@@ -1,0 +1,40 @@
+Genetic Epidemiology 5:265-275 (1988)
+
+Estimating Genetic Parameters of Survival
+Distributions: A Multifactorial Model
+
+Joanne M. Meyer and Lindon J. Eaves
+
+Department of Human Genetics, Medical College of Virginia, Richmond
+For a number of genetically influenced illnesses, age of onset is correlated between
+relatives. In some cases, age of onset also serves as an index of an individual's
+inheritedi liabiliry o ue illness. Typically, survival models for age of onset distri-
+butions do not allow for these effects. We have used the gamma distribution as the
+basis of a model which specifies genetic variabiliry in age of onset. Specifically,
+we allow the hazard frequency parameser of the gamma distribution to be a
+monotonic function of an individual S inherited liabiliry o an illness. Simulations
+under various gamma models indicate that age of onset correlations may be
+strikingly different from correlations in liabiliry. Maximum likelihood estimation
+procedures were used to obtain parameter estimates from simulated data sets and
+to deiermine whether it ia possible 01 discriminate between gamma processes of
+different order. The results for 1,000 pairs of twins (500 monozygotic and 500
+dirygotic) gave parameter estimates that were fairly accurate but that decreased in
+precision as the order of the gamma process increased. We discuss the effect this
+may have on inferences made about age of onset.
+Key a ords: age of onset correlations, survival models, gamma distribution
+
+INTRODUCTION
+
+Genetic analyses of illnesses and behaviors showing a variable age of onset
+require a knowledge of the cumulative probability of onset by given ages. Some
+approachés [Weinberg, 1915; Stromgren, 1938; Risch, 1983) derive this probability
+from prior age of onset distributions. Others [Elston, 1973; Heimbuch et al., 1980;
+Risch, 1983] estimate parameters of a cumulative age of onset distribution from the
+data. When the data allow its use, the latter method ie more appealing since specific
+
+Reccived for publication January 11, 1988; revision accepied April 22, 1988.
+
+Address reprint request 10 Joanne Meyer, Deparument of Human Genetics, Bor 33 Medieal College of
+
+Virginia, Richmond, VA 23298.
+a 1988 Alan R. Liss, Inc.

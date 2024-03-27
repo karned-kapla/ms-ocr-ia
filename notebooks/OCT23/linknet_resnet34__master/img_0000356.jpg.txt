@@ -1,0 +1,137 @@
+DATE : Février 2021 BULLETIN DE PAIE
+METIER : Interne en médecine (et FFI)
+
+ETABLISSEMENT
+Adresse
+No SIRET :
+No URSSAF
+N APE :
+NOM I PRENOM
+
+N.I.R
+CODE AGT 020000
+STATUT : 77 Interne
+GRADE :
+ETABLIS. HOPITAL
+AFFECT
+
+1940101000000000
+
+26700000000000
+267000000000000000000
+8600a
+
+Lieu paiement : URSSAF Lieu
+
+1071 Résident Médecine Générale
+
+URGENCES
+
+Mode de paiemen t : bancaire
+ECHELLE ECHELON ma joré travail REMUN
+
+Indice Temps
+TAUX
+100/100 1 00/100
+NB JOURS M
+Enfants Nombre
+NB
+LIBELLE
+ou
+BASE
+TAUX
+Rémunération brute
+005 Traitement Base Médical
+1539,42
+057 Ind. Sujétion Internes
+435,18
+072 Majo. Logt-Nour Inter/D.J
+84,22
+621 Garde C'a/IJA/quI
+4,00 149,00 M-1
+Brut imposable
+Cotisations
+S.S. Totalité
+S.S. Plafonnée
+C.R.D.S
+C.S.G Déductible
+C.S.G Non déductible
+IRCANTEC Tranche A
+Autres charges
+Total cotisations
+Net à payer avant impôt
+
+01
+NB JOURS M-1
+30
+CODE
+PAIE
+
+PLEINS REDUITS PLEINS REDUITS SFT Heures
+
+PARTS PATRONALES
+TAUX
+MONTANT
+
+R*
+
+A PAYER
+1539,42
+435,18
+84,22
+596,00
+163,00
+2817,82
+
+A DEDUIRE
+
+627 Garde suppl. Int/FFI/D.J 1,00 163,00 M-1
+
+0,40 2817,82
+6,90 2817,82
+0,50 2768,51
+6,80 2768,51
+2,40 2768,51
+2,80 1026,28
+
+11,27 22,22 626,12
+
+194,43
+13,84
+188,26
+66,44
+28,74
+502,98
+
+8,55 240,92
+
+4,20
+
+43,10
+283,49
+1193,63
+
+2314,84
+
+Prélèvement à la source 7,50 2395,12
+
+179,63
+
+MENSUEL IMPOSABLE NET
+CUMUL AVANTAGES EN NATURE
+CUMUL ANNUEL TMPOSABLE
+
+2395, 12
+0,00
+4790,24
+
+NET A PAYER : 2135,21 Euros
+
+ATD
+
+Info
+
+Bulletin de paie fictif reprenant la situation d'un interne de lère année céliba taire, C enfant à charge,
+
+non nourri, non logé, ayant effectué 4 gardes de sem aine et 1 garde de week-end
+Document à conserver sans limitation de durée aucun duplicata ne pourra être délivré

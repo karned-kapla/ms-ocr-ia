@@ -1,0 +1,108 @@
+CiR uh
+
+CELL REGULATION, Vol. 2, 373-381, May 1991
+
+Activation of muscarinic acetylcholine receptors
+inhibits cell cycle progression of small cell
+
+lung carcinoma
+
+Carol L. Williams and Vanda A. Lennon
+Departments of Laboratory Medicine
+and Pathology, Immunology, and Neurology
+Mayo Clinic and Foundation
+Rochester, Minnesota 55905
+
+model for studying the dysregulation of cell cy-
+cle progression. This highly metastatic tumor
+accounts for 25-30% 9, all lung cancers and
+causes >25 000 deaths annually in the United
+States (Birrer and Minna, 1989). SCLC cells ex-
+press receptors for several autocrine growth
+factors, including gastrin-releasing peptide
+(GRP, homologous to amphibian bombesin)
+(Cuttitta et al., 1985; Carney et al., 1987), insulin-
+like growth factor-I (IGF-I)(Macauly et al., 1988;
+Nakanish et al., 1988b), and a transferrin-like
+molecule (Nakanishi et al., 1988a; Vostrejs et
+al., 1988). Activation of these receptors gen-
+gers, which must converge on a common point
+to induce SCLC proliferation.
+In addition to receptors for
+factors, some SCLC cell lines express musca-
+1985; Williams and Lennon, 1990a) and nicotinic
+acetylcholine receptors (Maneckjee and Minna,
+1990). The ability of acetylcholine receptors to
+regulate cell proliferation has recently been
+al., 1989; Maneckjee and Minna, 1990). Based
+on our finding that activation of M3 muscarinic
+acetylcholine receptors (mAChR) causes hy-
+drolysis of phosphoinositides (PI) and inhibits
+voltage-gated à channel activity in SCLC
+cells, we proposed that mACHR activation may
+affect SCLC proliferation Williams and Lennon,
+1990a). We report here that mACHR activation
+inhibits DNA synthesis induced by serum, bom-
+besin, insulin, or IGF-I in SCLC cells. MAChR
+agonists arrest SCLC cells in both S and G,/M
+pears to disrupt a common event induced by
+transduction by growth factor receptors.
+mACHR activation decreases DNA synthesis
+cells cultured in serum (Figure 1). This inhibition
+
+We previously reported that activation of musca-
+rinic acetylcholine receptors (mACHR) of M, subtype
+causes hydrolysis of phosphoinositides and inhibits
+voltage-gated 3 channel activity ln small cell lung
+carcinome (SCLC) cells. We now report that mACHR
+activation couses exponentially growing SCLC cells
+concomitant with a decrease in DNA synthesis. Cell
+cycle progression and DNA synthesis resume when
+down-regulated In serum-starved
+SCLC cells, MACHR activation inhibits DNA synthe-
+like growth factor-I. The finding that DNA synthesis
+is Inhibited even when mACHR are activated after
+exposure of cells to growth factors indicates that
+decreased signal transduction by growth factor re-
+growth inhibition. Our data suggest that mACHR
+activation disrupts a common event that le induced
+by different growth factors and is fundamental for
+in normal cells, the transition from proliferation
+to terminal differentiation is marked by with-
+drawal from the cell cycle and an inability to
+reenter the cycle in response to growth factors.
+tion, but constitutively remain in the cell cycle;
+rupted (Heldin and Westermark, 1984; Wein-
+stein, 1987; Kraus et al., 1988). Small cell lung
+carcinoma (SCLC) provides a clinically relevant
+Abbreviations: GRP, gastrin-releesing peptide; ICse half-
+factor-l; mAChR, muscarinic acetyicholine receptors: PBS,
+phosphate buffered saline; PI, phosphoinositides: SCLC.
+e 1991 by The American Society for Cell Biology
+
+to arrest in S and G,/M phases of the cell cycle, erates different intracellular second messen-
+sis Induced by serum, bombesin, insulin, or insulin- rinic (Sorenson et al., 1983; Cunningham et al.,
+ceptors le not the mechanism of mAChR-mediated recognized (Conklin et al., 1988; Ashkenaz: et
+
+are
+MACHR
+
+peptide growth
+
+cell cycle progression.
+Introduction
+
+Transformed cells do not undergo this transi- phases of the cell cycle. mAChR activation ap-
+the regulation of cell cycle progression is dis- different growth factors, which follows signal
+
+Results
+
+maximal inhibitory concentration; IGF-1, insulin-fike growth by cells growing exponentially in serum
+
+Carbachol decreases
+
+*H-thymidine uptake by
+
+small cell lung carcinoma.
+
+373

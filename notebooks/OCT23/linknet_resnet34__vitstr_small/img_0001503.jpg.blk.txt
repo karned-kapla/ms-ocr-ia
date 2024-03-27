@@ -1,0 +1,31 @@
+Bellomy Research, Inc. 4025 UNIVERSITY PARKWAY WINSTONSSALEM, N.C. 27106
+Job #86127 June, 1986
+TEST #1 RJR PRE-RECRUIT TEST VALIDATION (WALKER 170301)
+NAME: TELEPHONE #:
+TTVD RECORD -2 Not At Home
+7
+Callback Appointment Date Time
+Attempt Number L 1 1
+Completed Interview - )
+No Such Refused Person (SPECIFY)
+Other
+(ASK TO SPEAK TO PERSON WHOSE NAME APPEARS ABOVE.)
+Hello, I'm
+from Bellomy Research, Inc. I'm calling to thank you for
+participating in a recent test and to check some information.
+1. In the past two weeks did you participate in a cigarette study in which you tested some cigarettes?
+Yes No.
+I- SKIP TO Q.3 -2 1 -2
+2. Do you smoke cigarettes?
+Yes No
+TERMINATE
+3. What did the vrappers on the packs of cigarettes you tested look like? (DO NOT READ)
+White/Plain or white/Generic Other (SPECIFY) Don' t remember
+-1 -2 L- Correct Brand Circled -1 -2
+4a. What was your usual brand of cigarettes when you started the cigarette test? (DO NOT READ)
+Respondent Answer -2 3 (SPECIFY)
+Marlboro. Winston. Other.
+4b. What type of cigarette is that? Is it Full Flavor, Low Tar or Ultra Lov Tar?
+Correct Type Circled
+Respondent Answer -1
+Full Flavor Lov Tar Ultra Lov Tar

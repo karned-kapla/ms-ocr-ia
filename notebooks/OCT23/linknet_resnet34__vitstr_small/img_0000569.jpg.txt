@@ -1,0 +1,79 @@
+0300 Réd. Olidari*
+0320 ASSEDIC loi 7
+
+PAIE
+
+0502 FNGS
+0680 Ret
+
+DE
+
+0140
+
+BULLETIN
+
+EN EUROS
+
+7033 AGFF ARRCO
+
+N°2
+
+704
+
+N.Cadre NC
+
+Exemplaire
+
+AU 31/10/0
+
+05
+
+2
+
+01/10/03
+
+a Form.
+
+DU
+PAIE
+
+T.apprentissage
+Form.alternance
+
+Contrib
+CSG
+
+000010
+
+continue RDS
+
+MATRICULE:
+
+PRESSE
+
+CSG non
+TOTAL
+ET
+
+NSS.S.:
+EMPLOI:
+
+ATTACHEE DE
+
+déduct
+Déductible
+
+EMPLOYE
+
+RETENUES
+
+QUALIFICATION:
+
+cien IMPOSABLE
+aveau Annoi-
+
+COEFFICIENT:
+
+SECTION:
+
+08/01/01

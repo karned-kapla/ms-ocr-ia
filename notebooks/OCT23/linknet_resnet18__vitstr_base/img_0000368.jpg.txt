@@ -1,0 +1,202 @@
+BULLETIN DE PAIE
+PAEE 8 01/05/2013 Au 3100/2013
+Matricule 0000000004
+> :
+Emploi RESPONSABLE ATELIER
+Quall 2EME ECHELON
+Niveau ACT e
+Coel 270
+Indice
+Date de decut dancionnene
+Heures paydes
+
+EURO
+Original
+
+42510 BALI
+
+Entee 01/042000
+Sortie
+0 1
+10
+
+42510 BALBIGNY
+A DEDUIRE
+
+QUANTITE
+our BASE
+TAUX
+151.67
+14.5000
+17.33
+18.312
+735,18
+0,8500
+735,18
+6,7500
+735.18
+735,18
+2735,18
+2735,10
+735.18
+17.33
+2 735,18
+P 735.18
+735.18
+735.18
+736.18
+735.18
+016.09
+816.60
+816.69
+
+CHARGES PATRONALES
+TAUT MONTANT
+
+RUBRIQUES
+0041. Joumne de Solidarit Effechude
+0004 Salaire horaire
+1015 Prime danceennee Doi
+2010 Heure supplémentaires se A
+4383 1Conges payes 21/0//13
+43832 our CP.11/12 Soldes
+TOTAL BRUT
+2000 Maladie
+DCOC - Viediesee TA
+2060 Vellesse dipl
+2000 Alocations femeaale
+2120 Accident du travail
+2150 FNAL
+6700 Contriution sondact daatonome
+5900 Deduc Parronale HSupp -
+7000 ASSEDIC AC tranche A
+7034 AGFF T:
+7180 AGS (FNGS)
+8000 Retraite ARRCO Ti
+8109 Mutelle AG2R
+6298 Prevoy Mar
+8530 Prevoy 5
+9000 CSG deducsble
+9002 CS0 non deductible
+9004 CRDS
+TOTAL RETENUES
+NET IMPOSABLE
+
+APAYER
+
+221.97
+195.85
+317.36
+735,18
+
+23.25
+184.82
+
+12.8000
+8.4000
+1.0000
+5.4000
+4.3000
+0.1000
+0.3000
+4.0000
+1.2000
+0.3000
+4.6000
+1.1880
+1.1870
+
+350.10
+229,76
+43.78
+147.70
+117.6
+2.74
+221
+-26.00
+109.41
+32.22
+2
+123.00
+94.00
+32.49
+32.47
+309,26
+
+24000
+0.000
+3.0000
+0.200
+5.1000
+24400
+0.0000
+
+6584
+21.88
+82.06
+32.29
+19.94
+143.65
+67.80
+14.00
+655.01
+
+NO
+
+2161.85
+
+vode de Reglement Viremant
+F 5 3500/2013
+I 3 3041 BOIS E SCHRES
+cue -
+15 043.65
+Conghe
+11/12
+acquis
+00
+pri
+a
+Charges salarlales
+
+PATER EUMU - PATRONALES
+
+EUR
+LAFOND E
+15 430,00
+e
+120,00
+
+2 000,17
+E HEURES
+915.50
+
+7 009.78
+COUT GLOBAL SALACE
+. 044,44
+VALEUR 17 tun
+-
+273518
+N Payer
+200.17
+Net imposable
+101.55
+- P8E,4
+- - 1 de cenveninn de
+E 4 CALEEN DE PAR A LMNAATION ne BUREE
+
+c AAS
+1 043.65
+12/13
+-
+30.00
+
+cueur IMPOLEEE
+11 90890
+a1
+sa2.0 4 payer
+
+11 411 - * deducmee Ahamue
+
+&
+
+DANS VOTRE enee ET POu 2
