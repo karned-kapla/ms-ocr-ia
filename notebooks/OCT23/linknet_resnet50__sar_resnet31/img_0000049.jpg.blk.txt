@@ -1,0 +1,21 @@
+WeCount Ch Dar Chohes 00 1003A Saisre
+Facture
+Pour facture to 123456789
+Date defacturation 29.05.2021 Paiement effectué le 28.06.2021 Numéro de facture 123 Numéro de olient 1 Emis par Xavier Giard Contact client M. I clientXYZ Date de la ventelprestation 14.05.2021
+Destinataire : Mon client préféré Dr. House Rue de la comptabilité 1208 Genève Suisse
+Infos additionnelles
+Merci d avoir choisi Mon Entreprise pour TOS services.
+Service AprèsVente Garantie 1an.
+Description Main-douvre Produit
+Quantités Unités ix unitaire HT TVAX
+TVA 7.7% 115.50CHF
+TOTAL TTC 1615.50 CHF 1039.90 CHF
+25 10
+h. pce.
+60.00 CHF 103.99 CHF
+Total HT TVA Total TTC
+2539.90 CHF 115.50 CHF 2 655.40 CHF
+VeCount Ch. Des Chenes 10B 1009 Pully Suisse N IDE/UID DINNN N TVA: XX101X
+Contact Xavier Glard Téléphone Email-ravier.jardeweoount.swiss www.wecountswiss
+Coordonnées bancaires Banque BNP Paribas Code banque 10000000 N de oompte 12345678 IBAN CH58 23411240 482 4 SWIFTIEIC FRHHCXX100
+3

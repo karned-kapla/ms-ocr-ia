@@ -1,0 +1,89 @@
+Bulletins salariés / Liste des salariés
+
+-
+
+Edition
+Duplicatas
+
+Evènements
+
+Etats Administratifs
+Piècesjointes
+
+Préparation des paies
+
+Aperçu
+
+Importer
+
+Bulletins
+Tout
+
+Acomptes
+Rechercher
+
+Salaries
+
+Sélectionner Sans hitre
+
+Entrez votre recherche
+
+<CLIC € AFFICHE LE
+BULLETIN DE PAIE
+
+ule
+2
+1000
+3005
+3103
+3208
+3220
+4300
+6098
+<
+Tous
+
+Civilité Nom
+M
+M
+M
+M
+M
+Mme
+M
+Mile
+
+Prénom
+Jean
+Jean
+Noel
+Pierre
+Emn
+Flor
+
+Paie
+
+Cloture
+
+CARMIN
+MARTIN
+PETIT
+MOREAU
+RICHARD
+THOMAS
+BERNARD
+ROUBERT
+
+31/01/17
+31/10/17
+31/10/17
+LL/OL/LE
+
+<DOUBLE CLIC> SUR UN
+
+SALARIÉ AFFICHE NOS BULLETIN
+FrarpE PAIE EN PRÉPARATION
+
+Frédérique
+
+31/10/17

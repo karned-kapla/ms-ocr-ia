@@ -1,0 +1,197 @@
+BULLETIN DE PAIE
+PAIE ou 01/05/2013 au 31/052013
+Matricule 0000000004
+à -
+Emploi RESPONSABLE ATELIER
+Qual ZEME ECHELON
+Nivau ACT a
+Coeff. 270
+Indice
+Date de debut danciennene
+Heures paydes
+
+EURO
+Original
+
+42510 BALBIONY
+-
+
+Entree 010420009
+Sortie
+05/01/1987
+169
+
+42510 BALBIGNY
+a DEDUIRE
+
+QUANTITE
+ou BASE
+TAUX
+151.67
+14.0000
+17.33
+18.3125
+735,18
+0,8500
+735,18
+6,7500
+735,18
+735,18
+735,10
+735,10
+735,18
+17.33
+735,18
+a 735.18
+735,18
+735,18
+736,18
+735,18
+010.09
+816.60
+816.00
+
+CHARGES PATRONALES
+TAUX MONTANT
+
+RUBRIQUES
+DOA1.1 Joumee de Solidarite Effectule
+0004 Salaire horaire
+1015 Prime danciennent Bois
+2010 Heure supplementaires % %
+4383 1Conges payes 21/05/13
+43832 1 jour CP.11/12 Soldes
+TOTAL BRUT
+0000 Maladie
+ocos Ass. Viellesse TA
+2000 Vellesse dept,
+0600 Allocations temitiales
+2120 Accident du travail
+2150 FNAL TA
+6700 Contribution solidante datonomie
+5900 Deduc Patronale HI Supp. (esob
+7000 ASSEDIC AC tranche A
+7034 AGFF 11
+7180 AGS (FNGS)
+8000 Retraite ARRCO T1
+8109 Mutelle AG2R
+6298 Prevoy Mensualisation NC
+8639 Prevoy UGRA decle-inv
+9000 CSG deducsble
+9002 cso non dedumble
+9004 CRDS
+TOTAL RETENUES
+NET IMPOSABLE
+
+A PAYER
+- 221.97
+195.85
+31736
+a 735,18
+
+23.25
+184.02
+
+12.8000
+8,400
+1.0000
+5.400
+4.3000
+0.1000
+9.3000
+4.0000
+1.2000
+0.3000
+4,5000
+1,1880
+1,1870
+
+350,10
+229,70
+43.78
+147.70
+117.61
+2.74
+8.21
+-26.00
+10941
+3282
+821
+123.00
+9630
+32.49
+32.47
+se'60s
+
+2.400
+0.000
+3.0000
+0.7290
+5.1000
+2.4000
+0.5000
+
+6584
+21.88
+82.06
+32.29
+19.94
+143,68
+67,60
+14.08
+655.01
+
+a 161.85
+
+Mode a Reglement Virement
+Paye Le 31/052013
+I CHEL 1001 001 G SCERES
+Gven a
+15 043.65
+Congets
+11/12
+acque
+aud
+a
+esteme
+Charges salariales
+
+N1 PAYER CUMUL HARDET PAURA -
+
+EUR
+- MROTART
+RAR
+11 908.90
+15 430,00
+ktt
+De
+00'00
+120,00
+58210 - - I
+
+2 080,17
+- STWN3H
+91550
+
+4 000.78
+COUT duonst SALARE
+4 044.44
+VALEUR 5 nan
+nur
+- 73518
+Nie . Payer
+- 080.17
+Net Imposatie
+191,85
+78041
+
+- BASE :
+15 043.65
+thia
+-
+300
+
+11 441.00 - a deducuble Abattue
+Cen montants - - - le tha a convenion de
+
+DANS VOTRE enrest ET jous vous AIDER le FARE VALOR vot peons CONSERVER ce GULLETIN De PAR SANS LANTATION a DUREE

@@ -1,0 +1,18 @@
+[Nom de l'entreprise)
+FACTURE
+[Adresse)
+[Ville (Province), Code postal] Téléphone : 000 000-0000
+N DE FACTURE 2034
+DATE LC-CO-SIOC
+FACTURE A [Nom)
+REF. CLIENT 564
+CONDITIONS Paiement à réception
+(Nom de rentreprise) [Adresse)
+(Ville (Province), Code postal) (N de téléphone) [Adresse de courriel
+DESCHIPTION Frais de service
+QTE PNIX UNITAIRE
+MONTANT
+-
+00'000 75.00 (50.00)
+200.00 375.00 (50.00)
+Main-d'ceure a un heures à 75 5 rheure Remise nouveau client

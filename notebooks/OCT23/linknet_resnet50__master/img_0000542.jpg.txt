@@ -1,0 +1,270 @@
+GUIDE FICHE DE PAIE
+
+Pour en apprendre plus sur votre fiche de paie
+
+ON. DE SALARIE et "EK"
+correspondent
+respectivement au
+"matricule" (identifiant
+paie) et au code de
+sécurité" dont vous avez
+besoin pour accéder au
+portail Digiposte
+BULLETIN DE PAIE
+Période de la
+paie, jour de
+et votre
+13111111 XK
+paie,
+numéro
+de
+12340
+to Room TTYT
+sécurité sociale
+CD 10000 TYTT
+DD 10004 TYTY
+NODE SECURITE SOCIALE 123456789012345
+Adresse du salarié en cas
+de modifications, penser à
+/asa
+la modifier sur Atoz
+NOM DU SALARIE
+Votre salarie temps plein
+ADR ESSE COMPLETE
+(proratisé en fonction de
+CC DE PO a STA
+l'horaire
+hebdomadaire)
+HORA RE
+0,00
+Horaire hebdomadaire du
+SAL. TPS PLEIN
+5 7
+TAUX ORAIRE:
+: a
+mois de paie en cours
+DATE ENTREZ 24/05 /2021
+PEOPLESOFT IDODDOO
+DATE ANCIENNETE 25 /02/
+Votre salaire a l'heure
+NOVERE
+PLOVE EME COMEU
+Date d'entrée et
+d'ancienneté (si, par
+exemple, période
+d'intérimaire)
+calendrier
+Votre
+de
+présence du mois
+précèdent votre période
+de paie (ex paie de
+septembre calendrier
+d'août)
+Le calendrier de présence
+vos
+variables de
+impacte
+paie en négatif ou en
+positif
+Ex: Je suis malade
+semaine en août, le verrai
+déduction
+la
+sur la paie de
+de
+septembre (période
+paie en haut à droite
+du
+BP)
+Acronymes :
+CP congés payé
+MA maladie
+HN . heures de nuit
+NN ABS NON
+AUTORISEE NON PAYEE
+Votre salaire Net et le type
+de
+paiement
+Détails bancaires du
+bénéficiaire
+Légende des abréviations
+du calendrier de présence
+Messages de l'employeur.
+Par exemple
+1) paiement de la
+prévoyance
+2) Correction de la
+précédente fiche de
+paie
+
+Adresse
+de l'employeur et
+convent
+ion collective
+
+NOM DE L'ENTREPRISE
+ADRESSE COMPLETE
+CODE POSTAL VILLE
+1934567000123. - APE 1234X
+CONVENTION BOR TUDES TECHE
+COLLECTIVE CAR o TNO CORSEILS, a ACT TRS DE CONSETLS
+AFFECTAT ION ISILOODOZ601
+CENT DE TRI
+EMPLOT
+1 BIFICATION OUV 115L
+SGNATION
+SALAIKE DE BASE
+NA Drape NOE a NUT
+AFT 008
+il C FE # 100N
+DEUNKRE
+SENCE MALADIE
+/
+IND. a HAT 2 # TR.
+1388 NALADIE A SON
+ARCONCES :
+KEG of GAR ANTIKS conv
+RDOMERATION BRUTE. (1)
+SANTE
+SECUR TTE SOCIALE HALADIE NA TERNI 42
+INVALIDITE DECES
+ACI 72 AL LID: ITE DECES a
+CONDYL VELIGNG DIT SACAR
+CCIDENTS DU TRAVA 11 NALADIES PROF ESSIONNE
+a TRA SET
+SOCIALE PLAFCENE
+woas BEE
+C K ONNEE
+MORS ENENTA DE MANNE
+COTISAT 10NS STATUTAIRES
+CONVENT TION COLLECT IVE
+JHWEUR
+.7
+ave
+ivma
+wa DUPLOTEUR
+arr
+Ga CADE CHOM TINA men N. ins MOR xas : REVENU 16
+EXONE
+DE
+TONS EU
+-
+ERATIONS COTISAT ENPLON
+E ET: SA 5 (2) :
+1103: PA 301WWW
+RAME
+Havadwank
+TAUX FERSONNAL 151
+AUTRES RETERES
+NET v PA YER AVANT IMPOT SUR 5 REVENU
+1211 132
+ONT N DLUZION NE LA RENENERATION LIEE N if SUI
+23
+ES COTISATIONS SN ALES CRONAGE ET HAI ADIY
+(REVENUS EN H
+UME
+052021 L a APAYER
+1167 :
+INDN3AXTXUA ALL SOUICE
+5 EU
+232102
+t
+E
+ALLEGENENTS ENPLOYE EUR
+1862 £5
+5211 lai
+EUROS IRDENT
+XXXXX tal RE
+VANTAGES TURE
+SOCIETE GENERALE
+NET TISCA
+1313 il
+6H 5 BIC SOGEFRPP
+TBAN: FR76 3000 0000 1111
+444 5555 666
+CONGES PAYES ACOO 18
+PRIS SOLDE
+COURS
+15
+:
+ACOU
+18
+.00 38
+Nais
+ep
+bun un 3 a sans a a dun Pour
+
+POR
+DATE DE PAIEMENT
+
+N SIDET
+
+Détails
+de l'emploi occupé
+Eléments de paie qui
+impactent votre salaire
+Brut de: ce mois
+Première ligne de salaire
+de base: corresponds
+votre salaire mensuel sur
+le mois de paie
+Toutes les autres lignes
+correspondent aux
+variables issues du
+calendrier de présence
+impactent votre brut
+Cotisat ions obligatoires
+servent à calculer votre
+net
+à
+payer.
+Déductions sur le net (non
+imposable)
+Revenu
+total avant la
+déduction des impôts
+Résumé des contributions
+du salarié et de
+8 mois
+l'employeur pour
+et pour le total del l'année
+Total des
+congés payés
+acquis et en cours
+dacquisition (en jours) sur
+la période de paie
+Ni/ le solde affiché prends
+en compte les CP pris sur
+le calendrier de paie
+ex le suis en congés en
+août, mon solde sera
+actualisé sur la paie de
+septembre
+
+a
+
+S
+E
+TU
+ini 1755
+15: TTC 4
+%
+
+salariales et patronales qui KMOLL ABICE CHONNGE
+
+LE
+COLADE PAYES
+DE ma se aure EXCEPT.
+
+a
+
+dintam - voir
+
+www 3 0015 patich
+
+Pour toute question ou demande de renseignements n'hésitez pas à
+contacter à contacter le service des ressources humaines : LS6P650L10
+ou soumettre une question sur HR cases via l'application ou le portail Atoz.
+
+amazon

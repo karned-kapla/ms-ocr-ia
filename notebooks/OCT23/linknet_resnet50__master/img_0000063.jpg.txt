@@ -1,0 +1,80 @@
+Payer en ligne >
+Facture No
+Date: de créations 20/09/2018
+Date de vente: 20/10/2018
+
+280/8103/60/H
+
+Vendeur:
+FIDELI
+
+Acheteur:
+Compagnie ABC
+41 allée de l'Abreuvoir
+75006 Paris, France
+Numéro TVA FR987654321
+Adresse de livraison
+63 avenue des Ormes
+78300 Poissy
+France
+Qte
+pc
+- pc
+kg
+
+32 Rue du commerce
+75022 Paris CEDEX, France
+Numéro TVA FR123456789
+fideli@fideli.co
+Téléphone: 01.67.76.77.67
+
+N
+
+Désignation
+
+PU HT
+450,00
+14,99
+3,75
+Total:
+TVA
+
+Total HT TVA Montant TVA Total TTC
+
+1 Abris de jardin bois
+a Arroseur oscillant
+3 Terre
+
+450,00 20%
+14,99 20%
+18,75 20%
+483,74
+483,74 20%
+
+90,00
+3,00
+3,75
+96,75
+96,75
+Total HT
+Montant TVA (20%)
+Total TTC
+
+540,00
+17,99
+22,50
+580,49
+580,49
+483,74
+96,75
+580.49
+
+A payer: 580,49 €
+
+En lettres: cing cent quatre-vingts € quarante-neuf centimes
+Mode de règlement: Carte bancaire
+IBAN: FR14 2004 1010 0505 0001 3M02 606
+
+Nom du vendeur
+
+FIDELI, 32 Rue du commerce, 75022 Paris CEDEX

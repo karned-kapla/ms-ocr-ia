@@ -1,0 +1,65 @@
+[VOTRE SOCIETE]
+
+[Choisir une date]
+
+N DE LA FACTURE1234
+
+facturer a
+Clent
+k ref client
+Adresse
+Telephone
+Vendeur
+Modalne de
+paiement
+Quannn
+
+Aresse de Eraisoe
+Destinataire
+Adresse
+Telphene
+
+Pom de dient
+(Entreprisel
+wl dient
+jAdressel
+Me, Pays Code imod
+[Telephone
+Nom du vendeurl
+MModalaet
+N danticle
+
+Pom du destnatairel
+Entreprisel
+IAdressol
+(vie. Pays Code postall
+(Teghonel
+
+Date de paiment IChoisir - datel
+
+Date de Baalson Choisir une datel
+Mode de Inaisen Mode de Fraison
+
+Modatee de
+Braison
+Prix unitaire
+
+[Modalne
+
+Total de a Rigne
+(avant remise)
+
+Description
+
+Remise
+
+Total de a toma
+Saatot
+Tams ventes
+Total
+
+Nous vous remercions de votre confiance.
+IAddesse, Code postal Vilel I Adresse ign
+4 (Telephonel - f[teecopiel - dresse de messagenel
+
+(Vetre secietél

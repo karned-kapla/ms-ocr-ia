@@ -1,0 +1,270 @@
+GUIDE FICHE DE PAIE
+
+Pour en apprendre plus sur votre fiche de paie
+
+ON. DE SALARIE" et "EK"
+correspondent
+respectivement au
+"matricule" (identifiant
+paie) et au code de
+sécurité" dont vous avez
+besoin pour accéder au
+portail Digiposte
+BULLETIN DE PAIE
+Période de la
+paie, jour de
+et votre
+13111111 XX
+paie,
+numéro
+de
+12340
+to 1OO TYYT
+sécurité sociale
+to 100R TYTT
+DO 100 YYTY
+NODE SECURITE SOCIALE 123456789012345
+Adresse du salarié en cas
+de modifications, penser à
+/aa
+la modifier sur Atoz
+NOM DU SALARIE
+Votre salarie temps plein
+ADR ESSE COMPLETE
+(proratisé en fonction de
+CC DE PO h STA
+l'horaire
+hebdomadaire)
+HORA BE
+5.00
+Horaire hebdomadaire du
+SAL. TPS PLEIN
+E 17
+TAUX ORAIRE:
+10 a
+mois de paie en cours
+DATE ENTREE 24/05 /2021
+PEOPLESOFT 1000000
+DATE ANCIENNETE 25 /02/
+Votre salaire à l'heure
+NOMBRE
+PLOEE EV CYE
+Date d'entrée et
+d'ancienneté (si, par
+exemple, période
+d'intérimaire)
+calendrier
+Votre
+de
+présence du mois
+précèdent votre période
+de pale (ex paie de
+septembre calendrier
+d'aout)
+Le calendrier de présence
+vos
+variables de
+impacte
+paie en négatif ou en
+positif
+Ex: Je suis malade
+semaine en août, le verrai
+déduction
+la
+sur la paie de
+de
+septembre (période
+paie en haut à droite
+du
+BP)
+Acronymes :
+CP congés payé
+MA maladie
+HN . heures de nuit
+NN ABS NON
+AUTORISEE NON PAYEE
+Votre salaire Net et le type
+de
+paiement
+Détails bancaires du
+bénéficiaire
+Légende des abréviations
+du calendrier de présence
+Messages de l'employeur.
+Par exemple
+1) paiement de la
+prévoyance
+2) Correction de la
+précédente fiche de
+pale
+
+Adresse
+de l'employeur et
+convent
+ion collective
+
+NOM DE L'ENTREPRISE
+ADRESSE COMPLETE
+CODE POSTAL. VILLE
+1034567000191 W APE 1234X
+CONVENTION BUR TUDES TECHE
+COLLECTIVE CAP o THG CORSEILS, a er TTS DE CONSEILS
+AFFECTAT ION ISEE00002601
+CENT DE TRI
+ENPLOS
+1 SIFICATION sou 115L
+SOLAOO
+SALAIRE DE BASE
+N Drae NOE : NUT
+AFT 001
+a e PER # 1001
+DENNERE
+SEICK MALADIE
+1
+IND. a RAL 2 # TR.
+1388 NALADIE A sON
+ANSOONGS -
+2 an GAR ANTIES conv
+PRDEHERATION BRUTR. (1)
+SANTE
+SECUR IEE SOCLALE HALADIE NA TERNI 41
+INVALIDITE DECES
+ACE TE VAL LID: ITE DECES T
+CONPL VER TET SACAP
+CCIDENTS DU TRAVA 1L NALADIES PROF ESSIONNE
+a TRA *aE
+SOCIALE PLAFOREE
+moas 34E
+a a CONEE
+Moo ERENAA 12 RE
+COTISAT IONS STATUTAIRES
+CONVENT TION COLLECT IVE
+COREVESS
+T
+ww
+LUTEES
+wvd DUPLOYER
+a
+CO CRDS MOM TTI BEC k, ins MARE KE : REVENU :b
+EXONE
+DE
+DONS a
+RECHRREE
+RATIOSS COTISAT ENPLOT
+a aT SA 3 (2) :
+H2:: PA SEver
+MASAN
+PRREEEEE
+TAUX PERSONNAL 1SE
+PAUTES RETERES
+NEE Y PA YER AVANT IMPOT SUR 5 REVENU
+1211 12
+CON V OLUIOO 1 LA MENENERATION LIEE A 5 Su
+23
+E COTISATIONS SA ALEN CHONAGE E HAL ADIY
+REVELUS EI H
+JN
+2021 L 41 APAYR
+1167 :
+ZRNNRARTE A SOURCE
+e l3
+23202
+a
+D
+ALLEGENENTS ENPLOY EUR
+FES 2s
+SEL lE
+EROS REEENT
+XX - A
+VANTAGES TURE
+SOCIETE GENERALE
+NET FISCA
+1313 et
+694 5 BIC SOGEFRPP
+TBAN: PRT6 3000 0000 1111
+444 5555 666
+CONGES PAYES ACOU: 1s
+PRIS SOLBE
+cOURS
+as
+d
+ACOU
+18
+.00 d8
+Nais
+ep
+bun un 2 a sans a a dun Paur
+
+upu
+DATE DE PAYMENT
+
+N RIEE
+
+Détails
+de l'emploi occupé
+Eléments de paie qui
+impactent votre salaire
+Brut de ce mois
+Première ligne de salaire
+de base corresponds
+votre salaire mensuel sur
+le mois de paie
+Toutes les autres lignes
+correspondent aux
+variables issues du
+calendrier de présence
+impactent votre brut
+Cotisat ions obligatoires
+servent à calculer votre
+net
+à
+payer.
+Déductions sur le net (non
+imposable)
+Revenu
+total avant la
+déduction des impôts
+Résumé des contributions
+du salarié et de
+8 mois
+l'employeur pour
+et pour le total del l'année
+Total des
+congés payés
+acquis et en cours
+d'acquisition (en jours) sur
+la période de paie
+N// le solde affiché prends
+en compte les CP pris sur
+le calendrier de paie
+ex le suis en congés en
+août, mon solde sera
+actualisé sur la paie de
+septembre
+
+a
+
+S
+E
+1
+an 777
+5 11 4
+s
+
+salariales et patronales qui RANEL LAEEE CHORAGE
+
+ED
+CALADDEE PAYES
+0E m D aur EXCEPT.
+
+a
+
+iinlam : vor
+
+win 5 001 pubic
+
+Pour toute question ou demande de renseignements n'hésitez pas à
+contacter à contacter le service des ressources humaines : 4562620210
+ou soumettre une question sur HR cases via l'application ou le portail AtoZ.
+
+amazon

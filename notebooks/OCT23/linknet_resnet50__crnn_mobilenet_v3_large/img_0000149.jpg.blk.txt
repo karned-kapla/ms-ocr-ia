@@ -1,0 +1,14 @@
+Test neuer Personalausweis
+TTTTO0001
+Ansichtsexemplos
+Name Surname/Nom MUSTERMANN
+GEB. GABLER Vornamen/ Given names : -
+ERIKA
+Geburtstag/Date of birth Date de naisstnce
+Nationalite
+12.08.1964 DEUTSCH
+Gebertsort Place of birth/Lieu de naissance
+BERLIN
+bis/Date of expiry 8wts a expiration 31.10.2010
+000001
+der Inhaber rin/des Inhabers of bearer de la titus Nemorn Signature

@@ -1,0 +1,84 @@
+WeCount
+Ch. Dur Cldhes 10
+100PPwlyy
+Suisee
+
+Facture
+
+Pour facture h 123456789
+
+Date defacturation 29.05.2021
+Paiement effectué le 28.06.2021
+Numéro de facture 123
+Numéro de olient 1
+Emis par Xavier Giard
+Contact client M. a clientXY2
+Date de la ventelprestation 14.05.2021
+
+Destinataire :
+Mon client préféré
+Dr. House
+Pue de la comptabilité
+1208 Genève
+Suisse
+
+Infos additionnelles
+
+Merci d avoir choisi Mon Entreprise pour nos services.
+
+Service AprèsVente Garantie 1an.
+
+Description
+Main-doeuvre
+Produit
+
+Quantités Unités ix unitaire. HT TVAX
+
+TVA
+7.7% 115.50CHF
+
+TOTAL TTC
+1615.50 CHF
+1039.90 CHF
+
+25
+10
+
+h.
+pce.
+
+60.00 CHF
+103.99 CHF
+
+Total HT
+TVA
+Total TTC
+
+2539.90 CHF
+115.50 CHF
+2 655.40 CHF
+
+VeCount
+Ch. Des Chênes 10B
+1009 Puly
+Suisse
+N IDEUUID EMMM
+N TVA: XX10
+
+Contact
+Xavier Giard
+Téléphone
+Emailnaavierggarddoeecount.wwizz
+www.wecount.sviis
+
+Coordonnées bancaires
+Banque
+BNP Paribas
+Code banque 10000000
+N de compte 12345678
+BBAN
+CH58 23411240 982 4
+SWIFTIBIC
+FRHHCXX100
+
+37

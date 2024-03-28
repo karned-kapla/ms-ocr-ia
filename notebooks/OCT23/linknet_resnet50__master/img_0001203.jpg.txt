@@ -1,0 +1,92 @@
+(AREA COCE AND FHONE NUMBEh,
+FOR CFFICE USE ONLY;
+INTERVIEN .
+SAMPLE:
+-1 National -
+-2 Supplement
+
+Kapuler Marketing Research
+Project 187-2857
+Novenber 3, 1937
+
+Rep N:
+Page:
+I
+Results:
+State:
+Duration:
+
+(1) (2) a (4) (5)
+
+SEX:
+-1 Male
+-2 Female
+
+CATECORY:
+1 HS
+-2 WFM 14ke
+- Non-VFM
+
+CRAPT
+VFM QUESTICENAIRE
+from Kapuler
+condunting a national Apnse about
+
+Hello, I'n
+in Chicngo. We are
+households in the
+products.
+
+Marketing Fesearch, a publie opinion fim
+at random fron all telephone
+appreciate your
+you that à are not selling any
+(SIVNIMEC)
+(SCHEDULE CALIBACK A)
+Yea
+No
+-1
+-7
+-
+2
+
+products you ray use. Your phone number was selected consumers opiniors of ocme
+
+area, and we would really
+
+optniona for this study. PIL ITke to ansure
+
+A, Vay I please apenk to soneone 21 yeara of age or older?
+-1 No one in hounchold 21 or older
+-2 On/oalled to phone - 8 a Q.B)
+-3 Chavailable
+B. Do you, Jrasanok (RFAD (ISIT
+Orink diet beverages
+anoke olgarettea
+Ent Nextcan Tood
+Q.D.)
+cigarettes?
+I- Yea
+-2 de
+TERMINATE Q.D.)
+
+(IP "NO" a SMOKE CIGARETTES, ASK Q.c. LY "YES" a SMOKE
+c. T3 there anyone in your household 21 yeara of age or older whe anokes
+D. & nof or doee anyone in your Inedlate ranily work for .(17 YES
+-1 An advertising agancy or advertiatng department of a
+2 A ctearette manufecturer or tobacoo dietributor
+-3 A magaztne, newapaper, radio or televtalon atation
+- A merketing resesrch company or marketing rescarch
+
+CIOARETTES, SKIP TO
+
+(RESCREEN Q.B)
+(TEPMINATE Q.c)
+
+TO ANY,
+company
+department of a
+
+company
+
+465677980

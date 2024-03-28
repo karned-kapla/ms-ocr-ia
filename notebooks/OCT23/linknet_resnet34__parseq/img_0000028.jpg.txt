@@ -1,0 +1,86 @@
+FACTURE
+
+SAUCISSES SA
+81-85 Cours Albert Thomas, 69003 Lyon,
+France
+Teléphone: -
+Fax E
+Email: reservation.saucisses@agmail.com
+arw saucissescom
+
+N:123
+
+DETAILLE DE FACTURE:
+
+Date de facture
+Sujet
+Montant Totale
+FACTURA A:
+NOMBRE
+DIRECCION
+TELÉFONO
+CORREO ELECTRONICO
+
+22 de abril de 2019
+Jambona ct saucisacs
+800€
+Jorge Santos
+-
+
+Calle Canteros 68, Huelva, Espana
+xu
+Jorgesantos@ngmail.com
+
+No TIPO a ARTICULO
+01 Jambons et saucisses
+
+DESCRIPCION
+Jambons 100% Espagnole
+
+OTY
+3
+
+PRECIO
+3256
+220€
+
+IMPORTE
+3256
+660€
+
+02 Jambons et saucisses premium Jambons et sancisses premium 7Kg
+
+03
+04
+05
+06
+07
+
+SOUS-TOTAL
+TVA (502)
+REMISE (1601)
+
+985€
+206,856
+119,185
+
+MONTANT TOTALE 1.072.66
+
+METHODE DE PAIEMENT
+NOMBRE DEL BANCO
+SUJET
+NOM
+
+CONDITIONS GÉNÉRALES
+Auamentiunt undit accus et aut magnis a
+solorum autas digento con rernatum sed
+estinum hil mo tenit 1 red maio blat laccarit
+temquam voloribus aut magins a OURES hil
+
+Ret Everum Rank
+1710042019
+Debora Consedus
+
+solorum.
+
+Merci pour votre service.

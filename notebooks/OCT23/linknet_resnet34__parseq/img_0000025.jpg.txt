@@ -1,0 +1,61 @@
+a - - Commeption I . - - - - - - - - - Gme - - - - t - -
+
+R Punain
+
+FACTURE
+
+Logo
+Nom
+
+DATE
+Date
+
+.N DE LA FACTURE VOTHE BOCIETE
+
+Rue
+Cede postal Vile
+Telephone
+Telecopie
+Adresse de munes
+
+Numero
+
+FACTUREN A
+Rue
+Code postal Vile
+Telephene
+Telecopie
+Atiese de coumer
+
+VENDEUR POSTE CONDITIONS DE PAIEMENT DATE D'ECHEANCE
+
+A a reception
+DESCRIPTION
+
+QUANTITE
+
+PRIX UNITAIRE TOTAL DE LA LIGNE
+
+Pote
+Pusa
+Pusa
+Pode
+
+a 1
+anaigenar pa
+Despendind prode
+Donyend ma
+
+Men - €
+Mentare - a
+Man - C
+Mate - €
+M- - e
+M - €
+M- - €
+M. - e
+Soue-sual
+TVA
+Total
+
+-

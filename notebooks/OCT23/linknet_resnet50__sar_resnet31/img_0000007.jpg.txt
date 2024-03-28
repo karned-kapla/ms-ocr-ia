@@ -1,0 +1,65 @@
+[VOTRE SOCIETE]
+
+[Choisir une dato)
+
+N" DE LA FACTURE1234
+
+Facturer a
+Clent
+k ref client
+Adresse
+Telephone
+Vendeur
+Modalat de
+paiement
+Quantite,
+
+Adrene de Feraison
+Destinataire
+Afresse
+Telephone
+
+Plom du dient
+jEntreprise)
+pal dient
+Adressel
+Nee, Pays Code Impod
+(Telephone
+Nom du vendeur)
+Modalite
+N dierticle
+
+Plom du destinatairel
+UEnteprise)
+Adressel
+Vee, Pays, Code postal
+(Telphone)
+
+Date de paie ICholsir : datel
+
+Date de theralson IChoisir - datel
+Mode de avraison Mode de Braison
+
+Modalee de
+Invoison
+Prix -
+
+Modalite
+
+Total de a ligne
+(evant remise)
+
+Description
+
+Nemise
+
+Total de . remas
+Sounts
+Taren venters
+Total
+
+Nous vous remercions de votre confiance.
+Addresse, Code postal Vilel I Adresse lo
+4 (Telephone - (Telecopiel - PAGASE de messagel
+
+(Vetre seciete)

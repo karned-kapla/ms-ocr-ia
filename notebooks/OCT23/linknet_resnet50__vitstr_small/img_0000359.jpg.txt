@@ -1,0 +1,142 @@
+COOVER
+
+BULLETIN DE PAIE
+Periede a as/mm/YYY - dd/mm/YYY
+Reterence bulkttn
+N" séuur se sociale
+Catigorie
+Emplai
+Date anciennent
+DEbut comrat
+Fertait jour
+Carv Coll
+
+ENTREPRISE
+Adrsse
+CP yare
+SIRET
+
+NAF
+
+Code
+
+Cotisations selare
+Rase
+Taus
+Montant
+Base
+1911
+osc'or
+- 554,62
+1 S14,62
+
+Cotiations empie uur
+Taus
+
+Ubele de : rubrique
+
+Mentant
+
+1011 Salaire brut
+BRUII SALAIRE BRUT
+Sante
+A03 Complémentaire Sanee
+RETRAITE
+co1 Securite sociale plafonnde
+8 Securibe sociale deplatornde
+CDS Complementaire tranche A
+DOL FAMILLE
+ASSURANCE CHOMAGE
+601 ASSURANCE CHOMAGE
+
+A01 securnt sociale-Maladie Matemite invidtt Depis
+301 ACCIDINTS 2 TRAVAIL-MALADIES PROF-SSIONNELLEY
+
+1 554,62
+1 S34,62
+- 554,62
+1 554552
+1 t9'ss
+1 SEA62
+1 29115
+- t9'1s
+1 29155
+- 29'15
+1227,99
+
+- m's
+7,00%
+108,82
+554,62
+0.90
+G6'E
+6,00
+107,27
+554,42
+8.5%
+zO'EET
+0,40%
+9
+554,62
+1.90%
+15'
+NtO'
+-,,14
+= 554,62
+NtO'9
+= 55462
+NSYEE
+53411
+554,62
+4,20%
+1 554,62
+1.0
+25,00
+Nor'9
+105,71
+2,90N
+45,08
+1227,99
+No/00
+0,00
+E9SCE
+
+FOI AUTRS MNOGNMININO DUES PAR CEMFOOYEUR
+HO1 CSG diducteee de I I le reveuu
+C6//CRDS non deductele 4 rimple - le revenu
+tor EXONERATIONS DE COTISATIONS EMPLOYEUR
+
+01
+
+Teni Net imposable
+PAS2018 Reterue * . source
+COTI Tatal Cotisatioons
+
+364,40
+- 22p, 999
+a EE
+Mor tan
+- a
+NET A PAYER
+- N 39
+po
+1 de 02
+
+NET A PAYER AVANT IMPÔT SUR n1 REVENU
+imple I le rovenu
+Imple - a revenu proleve a a aource
+Domicilaatin
+IBAN
+BIC
+Beneficuire
+
+dore dvolation a la remunération le - le suppression dus cotisabons chomage a maade
+
+Bxee
+- 227991
+
+Rur personnalis
+0.00%
+tye : -TEree a agieymm
+AErgee a a 10m -ngliuur
+I - - remglogee

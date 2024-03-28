@@ -1,0 +1,43 @@
+RG
+
+REPUBLIQUE FRANÇAISE
+CARTE NATIONALE D'IDENTITE /IDENTITY.CARD
+
+FR
+
+IL
+NOM /:Surname
+MARTIN
+
+Prénoms Giivennamme -
+
+Maëlys- Gaëlle, Marie
+
+SEXE / Sex NATIONALITE Nationality
+
+DATE DE NAISS.V Dateofbirtt
+13 071990
+
+FRA
+
+LIEU:E NAISSANCE / Place of birth
+
+PARIS
+
+CER
+
+NOM D'USAGE / Alternatename
+NOM D'USAGE
+No DU DOCUMENT/Oocumeet No.
+X4RTBPFW4
+
+DATE D'EXPIR. Expiry date
+V 2030
+
+-
+
+1
+
+/
+
+384213

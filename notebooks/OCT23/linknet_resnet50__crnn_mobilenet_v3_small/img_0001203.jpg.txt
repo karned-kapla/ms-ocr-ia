@@ -1,0 +1,92 @@
+(AREA COCE AND PHONE NUMBE,
+FOR CFFICE usE ONLY:
+INTERVIEM .
+SAMPLE:
+-1 National -
+4 Supplesent
+
+Kapuler Marketing Research
+Troject 187-2857
+Novenber 3, 1987
+
+Rep #:
+Paga:
+F
+Renults:
+State:
+Duration:
+
+(1) (2) a (4) (5)
+
+SEX:
+-1 Male
+-2 Female
+
+CATHGORY:
+T NS.
+-2 VFM Iike
+- Non-VFM
+
+DRAPT
+VFM QUETTIONNAIRE
+from Kapuler
+condunting a national fpnie about
+
+Hello, I'n
+in Chiongo. de are
+households in the
+products.
+
+Marketing Fesearch, a publie opinton fir
+at random from all telephone
+appreetate your
+you that 8 are not selling any
+SLVNIMHE.)
+(SCHEDULE CALIBACK a)
+Yes
+No
+-
+-
+-
+2
+
+products you may use. Your phone number Was selected consumers opiniors of acme
+
+ares, aund we would really
+
+optnions for this study. P ITke to aamure
+
+A. Kay I please apenk to someone 21 years of age ar older?
+-1 No one in hounehold 21 or older
+-2 On/called to phone - 8 a Q.B)
+-3 Chavailable
+B. Do you, Jtesmnot (READ (ISIT
+Drink diet beverages
+Smoke elgarettea
+Ent Hextcan food
+C.D.)
+cigarettea?
+I- Yea
+-2 f
+TERMINATE Q.D.)
+
+(IP "NO 8 SMOKE CIGARETTES, ASK Q.C. IY "YES" 8 SMOKE
+C. Is there anyone in your household 21 years of age or older whe anokes
+D. a nor or doee anyone in your tmpediate family vork for .(IF YES
+-1 An advertising agency or advertiaing department or a
+4 A cigarette manufacturer or tobacoo dietributor
+-3 A magazine, newspaper, radio or televtaton atation
+- A marketing resesrch company or marketing rescarch
+
+CIOARETTES, SKIP TO
+
+(RESCREEN Q.B)
+(TEFMINATE Q.C)
+
+TO ANY,
+company
+department of a
+
+company
+
+465677980

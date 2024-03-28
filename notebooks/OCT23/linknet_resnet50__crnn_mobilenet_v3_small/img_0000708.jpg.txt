@@ -1,0 +1,34 @@
+C Pages
+[Sans]
+A-Mas la
+
+DADRGAUT
+SUMMER ART SHOW
+
+Insérer des pages...
+Déplacer des pages. :
+Dupliquer la planche
+Supprimer une planche
+Imprimer la planche...
+Appliquer un gabarit aux pages...
+Libérer tous les éléments de gabarit tO 9EL
+Créer une variante de mise en page...
+Options de numérotation et de section...
+Autoriser le réorganisation des pages du do...
+Autoriser la réorganisation de la planche sé...
+
+0
+
+Attributs de page
+Afficher les pages
+Options de panneau :
+
+a Libellé coloré
+90° antihoraire Transitions de page
+
+90° horaire
+180°
+Annuler la rotation
+
+Affichage avec rotation de la planche 1
+Aplatissement des planches

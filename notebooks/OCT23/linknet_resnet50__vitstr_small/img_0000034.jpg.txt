@@ -1,0 +1,108 @@
+Nom de la société
+Slogan de votre socidte
+Adresse,
+Ville, Province Code postal
+
+FACTURE
+NUMERO DE FACTURE
+DATE 7 ENTREZ LA DATE
+
+Telephone : Entrez le numero de selephone
+Télécopieur a Entrez le numéro de télécopieur
+
+A:
+Nom du client
+Nom de la sociéte
+Adresse. Vile, Province
+Code postal
+
+DESCRIPTION
+
+Description du projet ou du service
+BON DE COMMANDE Numéro
+
+DESCRIPTION
+
+HEURES
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+Heures
+
+TAUX
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+Taux
+
+MONTANT
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+Montant
+TOTAL MONTANT
+
+Entrez la description -
+Entrez i description 2
+Entrez ee description 3
+Entrez la description 4
+Entrez aa description S
+Entrez la description 6
+Entrez la description 7
+Entrez la description 8
+Entrez la description 9
+Entrez la description 10
+Entrez la description 11
+Entrez le description 12
+Entrez la description 13
+Entrez le description 14
+Entrez la description 15
+Entrez le description 16
+Entrez 5 description 17
+
+Veuillez bblerr tour les chèques a fordre de Nom de la société
+
+Montant total do dans 15 jours. Les paiements en souffrance font robjet de frais de service de 1 %
+
+par mois.
+
+Nous vous remercions de votre confiance.

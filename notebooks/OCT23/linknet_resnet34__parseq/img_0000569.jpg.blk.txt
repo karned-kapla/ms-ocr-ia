@@ -1,0 +1,35 @@
+0300 Réd. olidarj* 0320 ASSEDIC loi 1
+PAIE
+0502 FNGS 0680 Ret
+DE
+0140
+BULLETIN
+EN EUROS
+0703 AGFF ARRCO
+NO2
+704
+N.Cadre NC
+Exemplaire
+AU 31/10/0
+05
+1
+01/10/03
+0 Form.
+DU PAIE
+T.apprentissage Form.alternance
+Contrib CSG
+000010
+continue RDS
+MATRICULE:
+PRESSE
+CSG non TOTAL ET
+N'S.S.: EMPLOI:
+ATTACHEE DE
+déduct Déductible
+EMPLOYE
+RETENUES
+QUALIFICATION:
+cien IMPOSABLE uveau Annoin
+COEFFICIENT:
+SECTION:
+08/01/01

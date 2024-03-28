@@ -1,0 +1,5 @@
+R INVMROS
+N37 BOSCH
+tictactrip
+de
+Tri

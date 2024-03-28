@@ -1,0 +1,199 @@
+EURO
+Original
+
+BULLETIN DE PAIE
+PAIE ou 01/05/2013 AU 31/05/2013
+Matrioule 00000000004
+N"
+Emploi RESPONSABLE ATELIER
+Quit 2EME ECHELON
+Nhasu ACT a
+Coelt 270
+Indice
+Data de debut danciennete
+Heures paydes
+
+42510 BALBIGNY
+X a
+
+Entree 01/04/2000
+Sortie
+05/01/1967
+16
+
+42510 BALBIGNY
+A DEDUIRE
+
+OUANTITE
+ou ISVE
+TAUX
+151.67
+14.6600
+17.33
+18.3125
+9L'SCE
+00590
+a 735.18
+6,7500
+735.18
+- 735.18
+a 735,18
+735.18
+735,18
+17.33
+- 735.18
+L 735.18
+a 73518
+735.18
+735,18
+2 735.18
+and 016.09
+2 816.80
+2 816.69
+
+CHARGES PATHONALES
+TAUX MONTANT
+
+RUBRIQUES
+DOAT.1 Joumde de Soldarita Effectule
+0004 Salaire heraire
+1015 Prime danciennelt Dois
+2016 Heures supplémantairns se *
+4383 SConges payes 21/05/13
+43832 jour CP.11/12 Soldos
+TOTAL BRUT
+2000 Maladie
+OCOC Ass Viellosse TA
+2000 Viellesse dept
+Deoe Allocations familales
+2120 Accident du travail
+2150 FNAL TA
+5700 Contribution solidarte dautonomie
+0055 Deduc Pationale HLSupp esoba)
+7000 ASSEDIC : tranche A
+7034 AGFF TS
+7180 AGS (FNGS)
+8000 Retraite ARRCO 51
+8109 Mutelle AG2R
+629 Prevoy Mersuntisation NC
+8530 Prevoy UGRR deces-iny.
+9000 CSC deductiole
+9002 CSO - deductible
+9004 CRDS
+TOTAL RETENUES
+5 IMPOSABLE
+
+A PAYER
+- 221.97
+sersei
+317.36
+738,18
+
+23.25
+184.62
+
+12.8000
+84000
+1.0000
+54000
+4.3000
+0.1000
+0.3000
+4.0000
+1.2000
+0.3000
+4.5000
+1.1880
+1.1870
+
+360,10
+229,76
+43.78
+547.70
+117.61
+274
+821
+-25.00
+10941
+32.82
+821
+123.08
+96.90
+3249
+1247
+oreoe
+
+24000
+0.8000
+3.0000
+0.7200
+5.1000
+24000
+0.5000
+
+6584
+21.88
+82.06
+3229
+19.94
+143.65
+67,60
+14.08
+655.01
+
+2 161,85
+
+Mode a Raglement Virament
+Payt 3 asesces
+Cons 3 3041 BOS b SCIERES
+CUMUS a
+95 043,65
+Conals
+11/12
+-
+30,00
+us
+0000
+martert
+Charges salariales
+
+EU - EATLE
+2 000,17
+CUMUR HEURES
+915.50
+
+1 -
+E
+- 008.78
+COUT OLOBAL SALARE
+044,44
+VALEUR 15 run
+Date
+73518
+Nat Payer
+- 000017
+- inposatie
+141,55
+se 78841
+
+EUR
+CULUL MPONANL
+RAVOND -
+11 90890
+15 430,00
+311
+DE
+00h00
+120,00
+au Nat - 1
+
+CUMUL BASE :
+15 043.65
+1213
+-
+30.50
+
+11 441 - * des Alantur
+Ca montants - calcude - le - de - de
+
+DANS VOTRE NTERET ET - xous ALDER A FARE VALOIR - CROITS CONSERVES CE BULLETE DE - SANS UMITATICE De burare

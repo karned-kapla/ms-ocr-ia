@@ -1,0 +1,140 @@
+COOVER
+
+BULLETIN DE PAIE
+Periode du AAAA//m//pp au dd/mm/Ym
+Reference bulletin
+J sécur me eeciale
+Categorie
+Emploi
+Date anciennese
+Debut comtaa
+Forfait mee
+5 Col
+
+ENTREPRISE
+Adresse
+8 vae
+SRET
+
+NAF
+
+Code
+
+Cecisations alarie
+Base
+Taux
+Montant
+Base
+E9TS
+osror
+- 554,22
+1 t9'
+
+Cotications employ ma
+Taux
+
+Leelle de la rubrique
+
+Montant
+
+1001 Salaire brut
+BRUTI SALAIRE BRUT
+Sante
+ADS Complemantaire Sante
+RETRAITE
+CB1 securne sociale plafonnee
+C02 Securibe vociale deplatonnde
+CDS Complemantaire Franche A
+DOL FAMILLE
+ASSURANCE CHOMAGE
+roL ASSURANCE CHOMAGE
+
+A01 5ocurne socual Malede Maternite invitiite Dech
+B21 ACCIDENTS 8 TRAVAL MALADISS PROFESSIONNELLEY
+
+1 a9's
+1 554,62
+L 29YS
+1 E9YSS
+- t9'ess
+1 29'ess
+L t9'vss
+L t9v
+L c9v55
+- t9v55
+L 227,09
+
+29'
+NOO'L
+108,82
+55442
+0,90%
+66'ET
+690%
+107,27
+554,42
+8,55N
+2e'EET
+D.00
+g
+554,42
+NOC'T
+ss'r
+401%
+02,34
+554422
+6,01
+2 154442
+NST'
+eses
+154442
+4,20%
+a 15442
+1.44
+25.50
+6.80
+105,71
+2,90
+45.0R
+- 227,99
+0000
+0e'o
+E9'SCE
+
+FO1 AUTRES CONTRIBUTIONS oues PAR anAAD1dN
+HOL CSG déductele de 1 Aur le revenu
+01 CSG/CRDS nos deductele de Fimpot ser le revenu
+sor EXONERATIONS DE COTSATIONS EMPLOYEUR
+
+IMPI Net imposable
+PAS201B Betenue a e sounce
+COTI Tatal Cotisations
+
+364,40
+1 220, 66'
+Et EE
+Mor lane
+2 a
+NET A PAYER
+1 B 5
+00
+. is a 20
+
+NET A PAYER AVANT IMPOT SUR LE REVENU
+impde sur le roveni
+imple sur le revenu préleve a a source
+Domiciliation
+IBAN
+RIC
+sendficairr
+
+dont evolution a a remunération lide - la suppression des cotisations chomage e malade
+
+Base
+- 229
+
+aau personnalise
+0.00
+hyy a viremantle datinay
+Alegunan * coliaa engaryu
+Tota - p hemplupe

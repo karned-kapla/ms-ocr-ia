@@ -1,0 +1,65 @@
+[VOTRE SOCIETE]
+
+[Choisir une date)
+
+N" DE LA FACTURE1234
+
+Facturer à
+Client
+k ref client
+Adresse
+Telephone
+Vender
+Modalite de
+paiement
+Quantine.
+
+Adresse de Ivraison
+Destinataire
+Adresse
+Telephone
+
+Nom de dient
+(Entreprise)
+mul buag
+[Adressel
+(Vile, Pays, Code Imsos
+[Telephonel
+Nom du vendeur)
+lewponl
+N d'article
+
+piom du destinatairel
+Entreprise)
+[Adressel
+(vile, Pays, Code postait
+[Telephonel
+
+Date de paiement [Cholair une datel
+
+Date 8 livraison [Choinir une date)
+Mode de Ivraison Mode de Ivraisont
+
+Modalite de
+Ivraison
+Prix unitaire
+
+Inwpowl
+
+Total de a ligne
+(evant remise)
+
+Description
+
+Remise
+
+Total de a romisa
+Soua-total
+Taxes ventes
+Total
+
+Nous vous remercions de votre confiance.
+[Addresse, Code postal, Vilel = Adresse wets
+P (Telephonel - E[Telecopiel - [Adresse de messagerie)
+
+(Vetre seciese)

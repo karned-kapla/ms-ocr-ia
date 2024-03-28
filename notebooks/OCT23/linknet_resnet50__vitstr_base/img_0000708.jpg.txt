@@ -1,0 +1,34 @@
+0 Pages
+[Sans]
+A-Mas a
+
+DAYDREAII
+SUMMER ART SHOW
+
+Insérer des pages...
+Déplacer des pages. :
+Dupliquer la planche
+Supprimer une planche
+Imprimer la planche...
+Appliquer un gabarit aux pages...
+Libérer tous les éléments de gabarit 1O 98L
+Créer une variante de mise en page...
+Options de numérotation et de section...
+Autoriser la réorganisation des pages du do...
+Autoriser la réorganisation de la planche sé...
+
+a
+
+Attributs de page
+Afficher les pages
+Options de panneau :
+
+à Libellé coloré
+90° antihoraire Transitions de page
+
+90° horaire
+180°
+Annuler la rotation
+
+Affichage avec rotation de la planche V
+Aplatissement des planches

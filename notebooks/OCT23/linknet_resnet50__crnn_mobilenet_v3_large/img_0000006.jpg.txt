@@ -1,0 +1,50 @@
+[Nom de l'entreprise)
+
+FACTURE
+
+[Adresse)
+
+(Ville (Provincel, Code postal)
+Teléphone : 000 000-0000
+
+N DE FACTURE
+2034
+
+DATE
+16-70-8106
+
+FACTURE A
+[Nom]
+
+REF. CLIENT
+564
+
+CONDITIONS
+Paiement à réception
+
+[Nom de r'entreprise)
+[Adresse)
+
+(Ville (Provincel, Code postal)
+[N de teléphone)
+[Adresse de courriel
+
+DESCRIPTION
+Frais de service
+
+QTE PRIX UNITAIRE
+
+MONTANT
+
+:
+
+00002
+75.00
+(50.00)
+
+200.00
+375.00
+(50.00)
+
+Main-dioure - u heures a 75 S rheure
+Remise nouveau client
