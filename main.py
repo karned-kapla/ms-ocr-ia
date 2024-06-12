@@ -32,10 +32,13 @@ def upload(file: UploadFile = File(...)):
 
     try:
         result = ocr_image(full_path)
-        full_path = Path('results_json') / random_file_name
-        with open(random_file_name + '.json', 'w') as f:
-            f.write(json.dumps(result.export()))
+        folder = "json"
+        Path(folder).mkdir(parents = True, exist_ok = True)
+        full_path = Path('json') / random_file_name
+        full_path = full_path.with_suffix('.json')
+        with open(full_path, 'w') as f:
+            f.write(result)
     except Exception as e:
         print(f"OCR processing failed: {e}")
         raise HTTPException(status_code = 500, detail = "OCR processing failed.")
-    return result
+    return json.loads(result)
