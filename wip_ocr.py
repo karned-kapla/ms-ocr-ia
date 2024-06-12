@@ -13,6 +13,8 @@ import pprint
 
 from tqdm import tqdm
 
+import numpy as np
+
 os.environ['USE_TORCH'] = '1'
 
 
@@ -46,27 +48,6 @@ def extract_text_blocks(json_data):
     return text_blocks
 
 
-def extract_text_all(json_data):
-    text_blocks = []
-    for page in json_data["pages"]:
-        for block in page["blocks"]:
-            text = {}
-            for line in block["lines"]:
-                for word in line["words"]:
-                    text["value"] = word["value"]
-                    text["confidence"] = word["confidence"]
-                    text["geometry"] = word["geometry"]
-                    """
-                    text += word["value"] + " "
-                    text += str(word["confidence"]) + " "
-                    print(word["geometry"])
-                    text += str(word["geometry"]) + " "
-                    """
-            #text_blocks.append(text.strip())
-            text_blocks.append(text)
-    return text_blocks
-
-
 def save_block(result, file_name='result'):
     json_data = result.export()
     text_blocks = extract_text_blocks(json_data)
@@ -77,15 +58,16 @@ def save_block(result, file_name='result'):
 
 def save_json(result, file_name='result'):
     data = result.export()
-    with open(file_name + '.json.bad', 'w') as f:
-        pprint.pprint(data, stream = f)
 
+    # Custom JSON encoder for NumPy arrays
+    class NumpyArrayEncoder(json.JSONEncoder):
+        def default(self, obj):
+            if isinstance(obj, np.ndarray):
+                return obj.tolist()
+            return super().default(obj)
 
-def save_all(result, file_name='result'):
-    json_data = result.export()
-    text_blocks = extract_text_all(json_data)
-    with open(file_name + '.all.txt', 'w') as f:
-        f.write(json.dumps(text_blocks))
+    with open(file_name + '.json', 'w') as f:
+        json.dump(data, f, cls=NumpyArrayEncoder, indent=4)
 
 
 def save_txt(result, file_name='result'):
@@ -99,7 +81,6 @@ def treat(file, model_detection='db_resnet34', model_recognition='crnn_vgg16_bn'
     save_json(result, file)
     save_txt(result, file)
     save_block(result, file)
-    save_all(result, file)
 
     del result
 
