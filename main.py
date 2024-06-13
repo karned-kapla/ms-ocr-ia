@@ -51,7 +51,7 @@ def save_json(full_path, random_file_name, model_detection, model_recognition):
     return full_path, result
 
 
-@app.post("/json")
+@app.post("/json/all")
 def json(file: UploadFile = File(...),
            model_detection: str = 'db_resnet34',
            model_recognition: str = 'crnn_vgg16_bn'):
@@ -60,7 +60,7 @@ def json(file: UploadFile = File(...),
     return json.loads(result)
 
 
-@app.post("/word_csv", response_class=PlainTextResponse)
+@app.post("/csv/words", response_class=PlainTextResponse)
 def csv(file: UploadFile = File(...),
            model_detection: str = 'db_resnet34',
            model_recognition: str = 'crnn_vgg16_bn'):
