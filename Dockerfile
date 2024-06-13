@@ -80,7 +80,10 @@ RUN pip3 install -U pip setuptools wheel && \
     pip3 install "python-doctr[torch]"
 
 WORKDIR $APP_HOME
-COPY . ./
+COPY requirements.txt ./
+COPY main.py ./
+COPY ocr.py ./
+COPY my_csv.py ./
 
 RUN pip install --no-cache-dir -r requirements.txt
 RUN pip install python-multipart
