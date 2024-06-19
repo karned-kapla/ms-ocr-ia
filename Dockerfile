@@ -84,9 +84,12 @@ COPY requirements.txt ./
 COPY main.py ./
 COPY ocr.py ./
 COPY my_csv.py ./
+COPY test.png ./
+COPY download_models.py ./
 
 RUN pip install --no-cache-dir -r requirements.txt
 RUN pip install python-multipart
 RUN pip install uvicorn
+RUN python3 download_models.py
 
 CMD exec uvicorn main:app --host 0.0.0.0 --port ${PORT} --workers 1
