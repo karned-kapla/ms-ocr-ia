@@ -5,7 +5,7 @@ ENV LANG=C.UTF-8
 ENV PYTHONUNBUFFERED=1
 ENV PYTHONDONTWRITEBYTECODE=1
 ENV APP_HOME /app
-ENV PORT 8000
+ENV PORT 8901
 
 EXPOSE $PORT
 
@@ -86,6 +86,7 @@ COPY ocr.py ./
 COPY my_csv.py ./
 COPY my_json.py ./
 COPY my_txt.py ./
+COPY my_file.py ./
 COPY test.png ./
 COPY download_models.py ./
 
