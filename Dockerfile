@@ -84,6 +84,8 @@ COPY requirements.txt ./
 COPY main.py ./
 COPY ocr.py ./
 COPY my_csv.py ./
+COPY my_json.py ./
+COPY my_txt.py ./
 COPY test.png ./
 COPY download_models.py ./
 
