@@ -1,6 +1,7 @@
 import os
 import json
 import numpy as np
+from pathlib import Path
 from doctr.io import DocumentFile
 from doctr.models import ocr_predictor
 
@@ -13,10 +14,9 @@ def ocr_image(path, model_detection='db_resnet34', model_recognition='crnn_vgg16
     return data
 
 
-def ocr_treatment(img_path,
+def ocr_treatment(file_path,
                   model_detection,
                   model_recognition):
-
     predictor = ocr_predictor(model_detection,
                               model_recognition,
                               pretrained = True,
@@ -25,7 +25,11 @@ def ocr_treatment(img_path,
                               det_bs = 4,
                               reco_bs = 1024)
 
-    doc = DocumentFile.from_images(img_path)
+    if Path(file_path).suffix == '.pdf':
+        doc = DocumentFile.from_pdf(file_path)
+    else:
+        doc = DocumentFile.from_images(file_path)
+
     result = predictor(doc)
     return result
 
@@ -37,4 +41,4 @@ def clean_json(data):
                 return obj.tolist()
             return super().default(obj)
 
-    return json.dumps(data, cls=NumpyArrayEncoder, indent=4)
+    return json.dumps(data, cls = NumpyArrayEncoder, indent = 4)
