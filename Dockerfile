@@ -95,4 +95,4 @@ RUN pip install python-multipart
 RUN pip install uvicorn
 RUN python3 download_models.py
 
-CMD exec uvicorn main:app --host 0.0.0.0 --port ${PORT} --reload  --workers 1
+CMD exec uvicorn main:app --host 0.0.0.0 --port ${PORT}

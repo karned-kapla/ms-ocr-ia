@@ -5,6 +5,7 @@ from my_csv import extract_word
 from my_file import save_upload
 from my_json import save_json
 from my_txt import extract_text_blocks
+import gc
 
 app = FastAPI()
 
@@ -15,6 +16,7 @@ def json_all(file: UploadFile = File(...),
            model_recognition: str = 'crnn_vgg16_bn'):
     full_path, random_file_name = save_upload(file)
     full_path_json, result = save_json(full_path, random_file_name, model_detection, model_recognition)
+    gc.collect()
     return json.loads(result)
 
 
@@ -25,6 +27,7 @@ def csv_words(file: UploadFile = File(...),
     full_path, random_file_name = save_upload(file)
     full_path_json, result = save_json(full_path, random_file_name, model_detection, model_recognition)
     full_path_csv, result = extract_word(full_path_json, random_file_name)
+    gc.collect()
     return result
 
 
@@ -36,5 +39,6 @@ def txt_blockswords(file: UploadFile = File(...),
     full_path_json, result = save_json(full_path, random_file_name, model_detection, model_recognition)
     datas = extract_text_blocks(full_path_json)
     datas = "\n".join(datas)
+    gc.collect()
     return datas
 
