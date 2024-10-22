@@ -6,6 +6,7 @@ ENV PYTHONUNBUFFERED=1
 ENV PYTHONDONTWRITEBYTECODE=1
 ENV APP_HOME /app
 ENV PORT 8901
+ENV WORKERS 2
 
 EXPOSE $PORT
 
@@ -95,4 +96,4 @@ RUN pip install python-multipart
 RUN pip install uvicorn
 RUN python3 download_models.py
 
-CMD exec uvicorn main:app --host 0.0.0.0 --port ${PORT}
+CMD exec uvicorn main:app --host 0.0.0.0 --port ${PORT} --workers ${WORKERS}
