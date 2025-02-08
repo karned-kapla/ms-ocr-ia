@@ -21,8 +21,8 @@ def create_json (request):
     full_path_json, result = save_json(
         full_path=full_path,
         random_file_name=random_file_name,
-        model_detection=request.config.model_detection,
-        model_recognition=request.config.model_recognition
+        model_detection=request.model_detection,
+        model_recognition=request.model_recognition
     )
     return full_path_json, result, random_file_name
 

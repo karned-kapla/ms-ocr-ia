@@ -10,12 +10,6 @@ def guess_extension( mime_type: str ) -> Optional[str]:
         return ".jpg"
     elif mime_type == "image/png":
         return ".png"
-    elif mime_type == "image/gif":
-        return ".gif"
-    elif mime_type == "image/bmp":
-        return ".bmp"
-    elif mime_type == "image/webp":
-        return ".webp"
     elif mime_type == "image/tiff":
         return ".tiff"
     elif mime_type == "application/pdf":
@@ -31,10 +25,10 @@ def save_upload(file_content_base64: str):
     folder = "uploads"
     Path(folder).mkdir(parents = True, exist_ok = True)
     try:
-        file_extension = Path(file_content_base64.filename).suffix
-        if file_extension not in ['.jpeg', '.png', '.jpg', '.tiff', '.tif', '.pdf']:
-            raise ValueError("Invalid file type. Only .jpeg, .jpg, .png, .tiff and .pdf are allowed.")
-        random_file_name = f"{uuid4().hex}{file_extension}"
+        file_extension = guess_extension(guess_mime_type(base64.b64decode(file_content_base64)))
+        if file_extension not in ['.png', '.jpg', '.tiff', '.pdf']:
+            raise ValueError("Invalid file type. Only .jpg, .png, .tiff and .pdf are allowed.")
+        random_file_name = f"{str(uuid4())}{file_extension}"
         full_path = Path(folder) / random_file_name
         with full_path.open("wb") as buffer:
             contents = base64.b64decode(file_content_base64)
