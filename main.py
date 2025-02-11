@@ -9,12 +9,16 @@ from my_json import save_json
 from my_txt import extract_text_blocks
 import gc
 
+
+from prometheus_fastapi_instrumentator import Instrumentator
+
 app = FastAPI(
     title="OCR",
     description="API OCR.",
     version="1.3.0"
 )
 
+Instrumentator().instrument(app).expose(app)
 
 def create_json (request):
     full_path, random_file_name = save_upload(request.file)
